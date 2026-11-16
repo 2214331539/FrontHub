@@ -1,4 +1,8 @@
 .DS_Store
+.vercel/
+dist/
+.env
+.env.*
 node_modules/
 *.log
 tools/probe.webp
