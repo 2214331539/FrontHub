@@ -1,0 +1,33 @@
+[
+  [
+    "satnaing/shadcn-admin",
+    [
+      "https://shadcn-admin.netlify.app/"
+    ]
+  ],
+  [
+    "markhorn-dev/astro-nano",
+    [
+      "https://astro-nano-demo.vercel.app"
+    ]
+  ],
+  [
+    "markhorn-dev/astro-sphere",
+    [
+      "https://astro-sphere-demo.vercel.app"
+    ]
+  ],
+  [
+    "alphagov/govuk-design-system",
+    [
+      "https://www.gov.uk/design-system"
+    ]
+  ],
+  [
+    "Gapminder/tools-page",
+    [
+      "https://gapminder.org/tools/",
+      "https://gapminder.org/tools"
+    ]
+  ]
+]

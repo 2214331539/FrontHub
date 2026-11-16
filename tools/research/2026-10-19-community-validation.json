@@ -1,0 +1,19 @@
+{
+  "checkedAt": "2026-10-19T15:05:39.086Z",
+  "catalog": 528,
+  "covers": 471,
+  "batch": 128,
+  "repositoryLinks": 156,
+  "unitTests": 9,
+  "checks": [
+    "400 original IDs preserved",
+    "favorites, notes and legacy custom entries preserved",
+    "7 resource types and 128-item batch",
+    "source links, category filters and pagination",
+    "5 viewport widths",
+    "HTTP and file standalone",
+    "no external static assets",
+    "new-ID preview API",
+    "custom resource kind persistence and CSV export"
+  ]
+}

@@ -1,0 +1,2904 @@
+{
+  "checkedAt": "2026-10-19T14:32:35.494Z",
+  "seeds": [
+    {
+      "name": "Tabler Demo",
+      "url": "https://preview.tabler.io",
+      "category": "后台与管理模板",
+      "kind": "template",
+      "repo": "tabler/tabler",
+      "sourceType": "website",
+      "referenceUrl": "https://github.com/tabler/tabler",
+      "checkedAt": "2026-10-19T14:32:28.153Z",
+      "readmeStatus": 200,
+      "matchingLinks": [
+        "https://preview.tabler.io"
+      ],
+      "demoLinks": [
+        "https://preview.tabler.io",
+        "https://raw.githubusercontent.com/tabler/tabler/dev/shared/static/tabler-preview-dark@2x.png",
+        "https://raw.githubusercontent.com/tabler/tabler/dev/shared/static/tabler-preview@2x.png"
+      ],
+      "licenseReferences": [
+        "<a href=\"https://github.com/tabler/tabler/blob/dev/LICENSE\"><img src=\"https://img.shields.io/npm/l/@tabler/core?label=License&color=228be6\" alt=\"License\"></a>",
+        "- [License](#-license)",
+        "| [Tabler Icons](https://github.com/tabler/tabler-icons)                 | Over 6,000 free MIT-licensed SVG icons, with packages for React, Vue, Svelte and Angular |"
+      ],
+      "readmeUrl": "https://raw.githubusercontent.com/tabler/tabler/HEAD/README.md"
+    },
+    {
+      "name": "AdminLTE Demo",
+      "url": "https://adminlte.io/themes/v3",
+      "category": "后台与管理模板",
+      "kind": "template",
+      "repo": "ColorlibHQ/AdminLTE",
+      "sourceType": "website",
+      "referenceUrl": "https://github.com/ColorlibHQ/AdminLTE",
+      "checkedAt": "2026-10-19T14:32:28.164Z",
+      "readmeStatus": 200,
+      "matchingLinks": [
+        "https://adminlte.io",
+        "https://adminlte.io/themes/v4/",
+        "https://adminlte.io/themes/v4/docs/introduction.html",
+        "https://adminlte.io/themes/next-react/",
+        "https://adminlte.io/themes/vue-nuxt/",
+        "https://adminlte.io/themes/v4/docs/migration.html#third-party-plugin-replacements",
+        "https://adminlte.io/themes/v4/docs/colors.html",
+        "https://adminlte.io/themes/v4/UI/colors.html",
+        "https://adminlte.io/themes/v4/docs/migration.html",
+        "https://adminlte.io/premium"
+      ],
+      "demoLinks": [],
+      "licenseReferences": [
+        "[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)",
+        "large desktops, and it's MIT-licensed.",
+        "## License"
+      ],
+      "readmeUrl": "https://raw.githubusercontent.com/ColorlibHQ/AdminLTE/HEAD/README.md"
+    },
+    {
+      "name": "CoreUI Demo",
+      "url": "https://coreui.io/demos/bootstrap/5.0/free",
+      "category": "后台与管理模板",
+      "kind": "template",
+      "repo": "coreui/coreui-free-bootstrap-admin-template",
+      "sourceType": "website",
+      "referenceUrl": "https://github.com/coreui/coreui-free-bootstrap-admin-template",
+      "checkedAt": "2026-10-19T14:32:28.165Z",
+      "readmeStatus": 200,
+      "matchingLinks": [
+        "https://coreui.io/product/free-bootstrap-admin-template/",
+        "https://coreui.io/product/angular-dashboard-template/",
+        "https://coreui.io/product/bootstrap-dashboard-template/",
+        "https://coreui.io/product/next-js-dashboard-template/",
+        "https://coreui.io/product/react-dashboard-template/",
+        "https://coreui.io/product/vue-dashboard-template/",
+        "https://coreui.io/images/templates/coreui_pro_default_light_dark.webp",
+        "https://coreui.io/product/bootstrap-dashboard-template/?theme=default",
+        "https://coreui.io/images/templates/coreui_pro_light_light_dark.webp",
+        "https://coreui.io/product/bootstrap-dashboard-template/?theme=light",
+        "https://coreui.io/images/templates/coreui_pro_default_v3_light_dark.webp",
+        "https://coreui.io/product/bootstrap-dashboard-template/?theme=modern",
+        "https://coreui.io/images/templates/coreui_pro_light_v3_light_dark.webp",
+        "https://coreui.io/product/bootstrap-dashboard-template/?theme=bright",
+        "https://coreui.io/images/icons_free_bg_set.png"
+      ],
+      "demoLinks": [],
+      "licenseReferences": [
+        "[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](https://opensource.org/licenses/MIT)",
+        "* [Copyright and license](#copyright-and-license)",
+        "One license also covers React, Vue and Angular. It's a separate add-on, not part of CoreUI PRO."
+      ],
+      "readmeUrl": "https://raw.githubusercontent.com/coreui/coreui-free-bootstrap-admin-template/HEAD/README.md"
+    },
+    {
+      "name": "Flowbite Admin",
+      "url": "https://flowbite-admin-dashboard.vercel.app",
+      "category": "后台与管理模板",
+      "kind": "template",
+      "repo": "themesberg/flowbite-admin-dashboard",
+      "sourceType": "website",
+      "referenceUrl": "https://github.com/themesberg/flowbite-admin-dashboard",
+      "checkedAt": "2026-10-19T14:32:28.166Z",
+      "readmeStatus": 200,
+      "matchingLinks": [
+        "https://flowbite-admin-dashboard.vercel.app",
+        "https://flowbite-admin-dashboard.vercel.app/",
+        "https://flowbite-admin-dashboard.vercel.app/layouts/stacked/",
+        "https://flowbite-admin-dashboard.vercel.app/crud/products/",
+        "https://flowbite-admin-dashboard.vercel.app/crud/users/",
+        "https://flowbite-admin-dashboard.vercel.app/settings/",
+        "https://flowbite-admin-dashboard.vercel.app/pages/pricing/",
+        "https://flowbite-admin-dashboard.vercel.app/authentication/sign-in/",
+        "https://flowbite-admin-dashboard.vercel.app/authentication/sign-up/",
+        "https://flowbite-admin-dashboard.vercel.app/authentication/reset-password/",
+        "https://flowbite-admin-dashboard.vercel.app/authentication/forgot-password/",
+        "https://flowbite-admin-dashboard.vercel.app/authentication/profile-lock/",
+        "https://flowbite-admin-dashboard.vercel.app/pages/maintenance/",
+        "https://flowbite-admin-dashboard.vercel.app/pages/404/",
+        "https://flowbite-admin-dashboard.vercel.app/pages/500/"
+      ],
+      "demoLinks": [
+        "https://flowbite-admin-dashboard.vercel.app",
+        "https://flowbite.s3.amazonaws.com/templates/flowbite-admin-dashboard/flowbite-admin-dashboard-preview.png",
+        "https://flowbite-admin-dashboard.vercel.app/",
+        "https://flowbite-admin-dashboard.vercel.app/layouts/stacked/",
+        "https://flowbite-admin-dashboard.vercel.app/crud/products/",
+        "https://flowbite-admin-dashboard.vercel.app/crud/users/",
+        "https://flowbite-admin-dashboard.vercel.app/settings/",
+        "https://flowbite-admin-dashboard.vercel.app/pages/pricing/",
+        "https://flowbite-admin-dashboard.vercel.app/authentication/sign-in/",
+        "https://flowbite-admin-dashboard.vercel.app/authentication/sign-up/",
+        "https://flowbite-admin-dashboard.vercel.app/authentication/reset-password/",
+        "https://flowbite-admin-dashboard.vercel.app/authentication/forgot-password/"
+      ],
+      "licenseReferences": [
+        "[![license](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE.md)",
+        "├── LICENSE",
+        "- License Agreement: <https://flowbite.com/docs/getting-started/license/>"
+      ],
+      "readmeUrl": "https://raw.githubusercontent.com/themesberg/flowbite-admin-dashboard/HEAD/README.md"
+    },
+    {
+      "name": "SB Admin 2",
+      "url": "https://startbootstrap.github.io/startbootstrap-sb-admin-2",
+      "category": "后台与管理模板",
+      "kind": "template",
+      "repo": "StartBootstrap/startbootstrap-sb-admin-2",
+      "sourceType": "website",
+      "referenceUrl": "https://github.com/StartBootstrap/startbootstrap-sb-admin-2",
+      "checkedAt": "2026-10-19T14:32:28.166Z",
+      "readmeStatus": 200,
+      "matchingLinks": [
+        "https://startbootstrap.github.io/startbootstrap-sb-admin-2/"
+      ],
+      "demoLinks": [
+        "https://startbootstrap.github.io/startbootstrap-sb-admin-2/"
+      ],
+      "licenseReferences": [
+        "[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/StartBootstrap/startbootstrap-sb-admin-2/master/LICENSE)",
+        "Start Bootstrap is an open source library of free Bootstrap templates and themes. All of the free templates and themes on Start Bootstrap are released under the MIT license, which means you can use them for any purpose, even for commercial projects.",
+        "## Copyright and License"
+      ],
+      "readmeUrl": "https://raw.githubusercontent.com/StartBootstrap/startbootstrap-sb-admin-2/HEAD/README.md"
+    },
+    {
+      "name": "Volt Dashboard",
+      "url": "https://demo.themesberg.com/volt",
+      "category": "后台与管理模板",
+      "kind": "template",
+      "repo": "themesberg/volt-bootstrap-5-dashboard",
+      "sourceType": "website",
+      "referenceUrl": "https://github.com/themesberg/volt-bootstrap-5-dashboard",
+      "checkedAt": "2026-10-19T14:32:28.166Z",
+      "readmeStatus": 200,
+      "matchingLinks": [
+        "https://demo.themesberg.com/volt/",
+        "https://demo.themesberg.com/volt/pages/dashboard/dashboard.html",
+        "https://demo.themesberg.com/volt/pages/transactions.html",
+        "https://demo.themesberg.com/volt/pages/settings.html",
+        "https://demo.themesberg.com/volt/pages/components/forms.html",
+        "https://demo.themesberg.com/volt/pages/examples/sign-in.html",
+        "https://demo.themesberg.com/volt/pages/examples/sign-up.html",
+        "https://demo.themesberg.com/volt/pages/examples/forgot-password.html",
+        "https://demo.themesberg.com/volt/pages/examples/reset-password.html",
+        "https://demo.themesberg.com/volt/pages/examples/lock.html",
+        "https://demo.themesberg.com/volt/pages/examples/404.html",
+        "https://demo.themesberg.com/volt/pages/examples/500.html"
+      ],
+      "demoLinks": [
+        "https://demo.themesberg.com/volt/",
+        "https://themesberg.s3.us-east-2.amazonaws.com/public/products/volt-bootstrap-5-dashboard/volt-bootstrap-5-dashboard-preview.jpg",
+        "https://demo.themesberg.com/volt/pages/dashboard/dashboard.html",
+        "https://demo.themesberg.com/volt/pages/transactions.html",
+        "https://demo.themesberg.com/volt/pages/settings.html",
+        "https://demo.themesberg.com/volt/pages/components/forms.html",
+        "https://demo.themesberg.com/volt/pages/examples/sign-in.html",
+        "https://demo.themesberg.com/volt/pages/examples/sign-up.html",
+        "https://demo.themesberg.com/volt/pages/examples/forgot-password.html",
+        "https://demo.themesberg.com/volt/pages/examples/reset-password.html",
+        "https://demo.themesberg.com/volt/pages/examples/lock.html",
+        "https://demo.themesberg.com/volt/pages/examples/404.html"
+      ],
+      "licenseReferences": [
+        "[![license](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE.md)",
+        "- License Agreement: <https://themesberg.com/licensing>",
+        "- Themesberg [license](https://themesberg.com/licensing#mit) (MIT License)"
+      ],
+      "readmeUrl": "https://raw.githubusercontent.com/themesberg/volt-bootstrap-5-dashboard/HEAD/README.md"
+    },
+    {
+      "name": "Sneat HTML",
+      "url": "https://demos.themeselection.com/sneat-bootstrap-html-admin-template-free/html",
+      "category": "后台与管理模板",
+      "kind": "template",
+      "repo": "themeselection/sneat-bootstrap-html-admin-template-free",
+      "sourceType": "website",
+      "referenceUrl": "https://github.com/themeselection/sneat-bootstrap-html-admin-template-free",
+      "checkedAt": "2026-10-19T14:32:29.204Z",
+      "readmeStatus": 200,
+      "matchingLinks": [
+        "https://demos.themeselection.com/sneat-bootstrap-html-admin-template-free/html/",
+        "https://demos.themeselection.com/jetship-laravel-starter-kit/"
+      ],
+      "demoLinks": [
+        "https://demos.themeselection.com/sneat-bootstrap-html-admin-template-free/html/",
+        "https://themeselection.com/demo/sneat-bootstrap-html-admin-template-free/html/",
+        "https://themeselection.com/demo/sneat-bootstrap-html-admin-template/html/vertical-menu-template/",
+        "https://themeselection.com/demo/sneat-bootstrap-html-admin-template/documentation/",
+        "https://demos.themeselection.com/jetship-laravel-starter-kit/"
+      ],
+      "licenseReferences": [
+        "![GitHub](https://img.shields.io/github/license/themeselection/sneat-html-admin-template-free) ![GitHub release (latest by date)](https://img.shields.io/github/v/release/themeselection/sneat-html-admin-template-free) ![GitHub issues](https://img.shie",
+        "- When you contribute, you agree to give a non-exclusive license to ThemeSelection to use that contribution in any context as we (ThemeSelection) see appropriate.",
+        "- If you use content provided by another party, it must be appropriately licensed using an open source license."
+      ],
+      "readmeUrl": "https://raw.githubusercontent.com/themeselection/sneat-bootstrap-html-admin-template-free/HEAD/README.md"
+    },
+    {
+      "name": "Vue Element Admin",
+      "url": "https://panjiachen.github.io/vue-element-admin",
+      "category": "后台与管理模板",
+      "kind": "template",
+      "repo": "PanJiaChen/vue-element-admin",
+      "sourceType": "website",
+      "referenceUrl": "https://github.com/PanJiaChen/vue-element-admin",
+      "checkedAt": "2026-10-19T14:32:29.211Z",
+      "readmeStatus": 200,
+      "matchingLinks": [
+        "https://panjiachen.github.io/vue-element-admin-site/donate",
+        "https://panjiachen.github.io/vue-element-admin",
+        "https://panjiachen.github.io/vue-element-admin-site/",
+        "https://panjiachen.github.io/vue-element-admin-site/donate/",
+        "https://panjiachen.github.io/vue-element-admin-site/guide/essentials/deploy.html"
+      ],
+      "demoLinks": [
+        "https://panjiachen.github.io/vue-element-admin-site/donate",
+        "https://panjiachen.github.io/vue-element-admin",
+        "https://panjiachen.github.io/vue-element-admin-site/",
+        "https://panjiachen.github.io/vue-element-admin-site/donate/",
+        "https://store.akveo.com/products/vue-java-admin-dashboard-spring?utm_campaign=akveo_store-Vue-Vue_demo%2Fgithub&utm_source=vue_admin&utm_medium=referral&utm_content=github_banner",
+        "https://panjiachen.github.io/vue-element-admin-site/guide/essentials/deploy.html",
+        "https://godban.github.io/browsers-support-badges/"
+      ],
+      "licenseReferences": [
+        "  <a href=\"https://github.com/PanJiaChen/vue-element-admin/blob/master/LICENSE\">",
+        "    <img src=\"https://img.shields.io/github/license/mashape/apistatus.svg\" alt=\"license\">",
+        "## License"
+      ],
+      "readmeUrl": "https://raw.githubusercontent.com/PanJiaChen/vue-element-admin/HEAD/README.md"
+    },
+    {
+      "name": "Ant Design Pro",
+      "url": "https://preview.pro.ant.design",
+      "category": "后台与管理模板",
+      "kind": "template",
+      "repo": "ant-design/ant-design-pro",
+      "sourceType": "website",
+      "referenceUrl": "https://github.com/ant-design/ant-design-pro",
+      "checkedAt": "2026-10-19T14:32:29.212Z",
+      "readmeStatus": 200,
+      "matchingLinks": [
+        "https://preview.pro.ant.design"
+      ],
+      "demoLinks": [
+        "https://preview.pro.ant.design",
+        "http://godban.github.io/browsers-support-badges/"
+      ],
+      "licenseReferences": [],
+      "readmeUrl": "https://raw.githubusercontent.com/ant-design/ant-design-pro/HEAD/README.md"
+    },
+    {
+      "name": "Soybean Admin",
+      "url": "https://soybeanjs.cn",
+      "category": "后台与管理模板",
+      "kind": "template",
+      "repo": "soybeanjs/soybean-admin",
+      "sourceType": "website",
+      "referenceUrl": "https://github.com/soybeanjs/soybean-admin",
+      "checkedAt": "2026-10-19T14:32:29.218Z",
+      "readmeStatus": 200,
+      "matchingLinks": [],
+      "demoLinks": [
+        "http://godban.github.io/browsers-support-badges/"
+      ],
+      "licenseReferences": [
+        "[![license](https://img.shields.io/badge/license-MIT-green.svg)](./LICENSE)",
+        "项目基于 [MIT © 2021 Soybean](./LICENSE) 协议，仅供学习参考，商业使用请保留作者版权信息，作者不保证也不承担任何软件的使用风险。"
+      ],
+      "readmeUrl": "https://raw.githubusercontent.com/soybeanjs/soybean-admin/HEAD/README.md"
+    },
+    {
+      "name": "Vben Admin",
+      "url": "https://www.vben.pro",
+      "category": "后台与管理模板",
+      "kind": "template",
+      "repo": "vbenjs/vue-vben-admin",
+      "sourceType": "website",
+      "referenceUrl": "https://github.com/vbenjs/vue-vben-admin",
+      "checkedAt": "2026-10-19T14:32:29.219Z",
+      "readmeStatus": 200,
+      "matchingLinks": [
+        "https://vben.pro/"
+      ],
+      "demoLinks": [
+        "https://anncwb.github.io/anncwb/images/preview1.png",
+        "https://anncwb.github.io/anncwb/images/preview2.png",
+        "https://anncwb.github.io/anncwb/images/preview3.png",
+        "http://godban.github.io/browsers-support-badges/"
+      ],
+      "licenseReferences": [
+        "[![license](https://img.shields.io/github/license/anncwb/vue-vben-admin.svg)](LICENSE)",
+        "## License",
+        "[MIT © Vben-2020](./LICENSE)"
+      ],
+      "readmeUrl": "https://raw.githubusercontent.com/vbenjs/vue-vben-admin/HEAD/README.md"
+    },
+    {
+      "name": "shadcn Admin",
+      "url": "https://shadcn-admin.netlify.app",
+      "category": "后台与管理模板",
+      "kind": "template",
+      "repo": "satnaing/shadcn-admin",
+      "sourceType": "website",
+      "referenceUrl": "https://github.com/satnaing/shadcn-admin",
+      "checkedAt": "2026-10-19T14:32:29.459Z",
+      "readmeStatus": 200,
+      "matchingLinks": [],
+      "demoLinks": [],
+      "licenseReferences": [
+        "## License",
+        "Licensed under the [MIT License](https://choosealicense.com/licenses/mit/)"
+      ],
+      "readmeUrl": "https://raw.githubusercontent.com/satnaing/shadcn-admin/HEAD/README.md"
+    },
+    {
+      "name": "Vuestic Admin",
+      "url": "https://admin.vuestic.dev",
+      "category": "后台与管理模板",
+      "kind": "template",
+      "repo": "epicmaxco/vuestic-admin",
+      "sourceType": "website",
+      "referenceUrl": "https://github.com/epicmaxco/vuestic-admin",
+      "checkedAt": "2026-10-19T14:32:29.501Z",
+      "readmeStatus": 200,
+      "matchingLinks": [
+        "https://admin.vuestic.dev/",
+        "https://admin.vuestic.dev"
+      ],
+      "demoLinks": [
+        "https://admin-demo.vuestic.dev"
+      ],
+      "licenseReferences": [
+        "### License",
+        "[MIT](https://github.com/epicmaxco/vuestic-admin/blob/master/LICENSE) license."
+      ],
+      "readmeUrl": "https://raw.githubusercontent.com/epicmaxco/vuestic-admin/HEAD/README.md"
+    },
+    {
+      "name": "Gentelella",
+      "url": "https://colorlib.com/polygon/gentelella/index.html",
+      "category": "后台与管理模板",
+      "kind": "template",
+      "repo": "ColorlibHQ/gentelella",
+      "sourceType": "website",
+      "referenceUrl": "https://github.com/ColorlibHQ/gentelella",
+      "checkedAt": "2026-10-19T14:32:29.513Z",
+      "readmeStatus": 200,
+      "matchingLinks": [
+        "https://colorlib.com"
+      ],
+      "demoLinks": [
+        "https://preview.colorlib.com/theme/gentelella/",
+        "https://preview.colorlib.com/theme/gentelella/production/index.html",
+        "https://preview.colorlib.com/theme/gentelella/production/inbox.html",
+        "https://preview.colorlib.com/theme/gentelella/production/kanban.html",
+        "https://preview.colorlib.com/theme/gentelella/production/theme.html",
+        "https://preview.colorlib.com/theme/gentelella/production/playground.html",
+        "https://preview.colorlib.com/theme/gentelella/production/playground.html#helpers-intro"
+      ],
+      "licenseReferences": [
+        "[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE.txt)",
+        "**58 production-ready HTML pages**, **20 ECharts chart variants**, fully interactive **inbox / kanban / calendar / file manager / settings**, a **live theme generator**, a **component playground**, a **⌘K command palette**, **dark mode**, and **PWA s",
+        "## License"
+      ],
+      "readmeUrl": "https://raw.githubusercontent.com/ColorlibHQ/gentelella/HEAD/README.md"
+    },
+    {
+      "name": "Sakai Vue",
+      "url": "https://sakai.primevue.org",
+      "category": "后台与管理模板",
+      "kind": "template",
+      "repo": "primefaces/sakai-vue",
+      "sourceType": "website",
+      "referenceUrl": "https://github.com/primefaces/sakai-vue",
+      "checkedAt": "2026-10-19T14:32:29.527Z",
+      "readmeStatus": 200,
+      "matchingLinks": [
+        "https://sakai.primevue.org/documentation"
+      ],
+      "demoLinks": [],
+      "licenseReferences": [],
+      "readmeUrl": "https://raw.githubusercontent.com/primefaces/sakai-vue/HEAD/README.md"
+    },
+    {
+      "name": "Material Dashboard",
+      "url": "https://demos.creative-tim.com/material-dashboard/pages/dashboard.html",
+      "category": "后台与管理模板",
+      "kind": "template",
+      "repo": "creativetimofficial/material-dashboard",
+      "sourceType": "website",
+      "referenceUrl": "https://github.com/creativetimofficial/material-dashboard",
+      "checkedAt": "2026-10-19T14:32:29.537Z",
+      "readmeStatus": 200,
+      "matchingLinks": [],
+      "demoLinks": [],
+      "licenseReferences": [
+        "- **[shadcn/ui](https://ui.shadcn.com/)** - The documentation structure, registry system, and foundational (atomic) components are from the open source work in shadcn/ui. [MIT License](https://github.com/shadcn-ui/ui/blob/main/LICENSE.md)",
+        "- **[Material Tailwind](https://material-tailwind.com/v3)** by Creative Tim - The blocks and component designs are inspired by and based on Material Tailwind Framework. [MIT License](https://github.com/creativetimofficial/material-tailwind/blob/main/",
+        "- **[Eleven Labs UI](https://github.com/elevenlabs/elevenlabs-ui)** - General inspiration for the documentation structure and approach of blocks. [MIT License](https://github.com/elevenlabs/ui/blob/main/LICENSE.md)"
+      ],
+      "readmeUrl": "https://raw.githubusercontent.com/creativetimofficial/material-dashboard/HEAD/README.md"
+    },
+    {
+      "name": "AstroPaper",
+      "url": "https://astro-paper.pages.dev",
+      "category": "博客与作品集",
+      "kind": "template",
+      "repo": "satnaing/astro-paper",
+      "sourceType": "website",
+      "referenceUrl": "https://github.com/satnaing/astro-paper",
+      "checkedAt": "2026-10-19T14:32:29.587Z",
+      "readmeStatus": 200,
+      "matchingLinks": [
+        "https://astro-paper.pages.dev/posts/",
+        "https://astro-paper.pages.dev/posts/dynamic-og-image-generation-in-astropaper-blog-posts/",
+        "https://astro-paper.pages.dev/posts/how-to-configure-astropaper-theme/",
+        "https://astro-paper.pages.dev/posts/adding-new-posts-in-astropaper-theme/",
+        "https://astro-paper.pages.dev/posts/customizing-astropaper-theme-color-schemes/",
+        "https://astro-paper.pages.dev/posts/predefined-color-schemes/"
+      ],
+      "demoLinks": [
+        "http://commitizen.github.io/cz-cli/",
+        "https://astro-paper.pages.dev/posts/",
+        "https://astro-paper.pages.dev/posts/dynamic-og-image-generation-in-astropaper-blog-posts/",
+        "https://pagespeed.web.dev/report?url=https%3A%2F%2Fastro-paper.pages.dev%2F&form_factor=desktop",
+        "https://astro-paper.pages.dev/posts/how-to-configure-astropaper-theme/",
+        "https://astro-paper.pages.dev/posts/adding-new-posts-in-astropaper-theme/",
+        "https://astro-paper.pages.dev/posts/customizing-astropaper-theme-color-schemes/",
+        "https://astro-paper.pages.dev/posts/predefined-color-schemes/"
+      ],
+      "licenseReferences": [
+        "![GitHub](https://img.shields.io/github/license/satnaing/astro-paper?color=%232F3741&style=for-the-badge)",
+        "## 📜 License",
+        "Licensed under the MIT License, Copyright © 2026"
+      ],
+      "readmeUrl": "https://raw.githubusercontent.com/satnaing/astro-paper/HEAD/README.md"
+    },
+    {
+      "name": "Fuwari",
+      "url": "https://fuwari.vercel.app",
+      "category": "博客与作品集",
+      "kind": "template",
+      "repo": "saicaca/fuwari",
+      "sourceType": "website",
+      "referenceUrl": "https://github.com/saicaca/fuwari",
+      "checkedAt": "2026-10-19T14:32:29.808Z",
+      "readmeStatus": 200,
+      "matchingLinks": [
+        "https://fuwari.vercel.app",
+        "https://fuwari.vercel.app/posts/markdown-extended/#admonitions",
+        "https://fuwari.vercel.app/posts/markdown-extended/#github-repository-cards",
+        "https://fuwari.vercel.app/posts/expressive-code/"
+      ],
+      "demoLinks": [
+        "https://fuwari.vercel.app",
+        "https://fuwari.vercel.app/posts/markdown-extended/#admonitions",
+        "https://fuwari.vercel.app/posts/markdown-extended/#github-repository-cards",
+        "https://fuwari.vercel.app/posts/expressive-code/"
+      ],
+      "licenseReferences": [
+        "[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fsaicaca%2Ffuwari.svg?type=shield&issueType=license)](https://app.fossa.com/projects/git%2Bgithub.com%2Fsaicaca%2Ffuwari?ref=badge_shield&issueType=license)",
+        "## 📄 License",
+        "This project is licensed under the MIT License."
+      ],
+      "readmeUrl": "https://raw.githubusercontent.com/saicaca/fuwari/HEAD/README.md"
+    },
+    {
+      "name": "AstroWind",
+      "url": "https://astrowind.vercel.app",
+      "category": "博客与作品集",
+      "kind": "template",
+      "repo": "onwidget/astrowind",
+      "sourceType": "website",
+      "referenceUrl": "https://github.com/onwidget/astrowind",
+      "checkedAt": "2026-10-19T14:32:29.833Z",
+      "readmeStatus": 200,
+      "matchingLinks": [
+        "https://astrowind.vercel.app/"
+      ],
+      "demoLinks": [
+        "https://custom-icon-badges.demolab.com/badge/made%20by%20-arthelokyo-556bf2?style=flat-square&logo=arthelokyo&logoColor=white&labelColor=101827",
+        "https://astrowind.vercel.app/"
+      ],
+      "licenseReferences": [
+        "[![License](https://img.shields.io/github/license/arthelokyo/astrowind?style=flat-square&color=dddddd&labelColor=000000)](https://github.com/arthelokyo/astrowind/blob/main/LICENSE.md)",
+        "- [License](#license)",
+        "## License"
+      ],
+      "readmeUrl": "https://raw.githubusercontent.com/onwidget/astrowind/HEAD/README.md"
+    },
+    {
+      "name": "Astro Cactus",
+      "url": "https://astro-cactus.chriswilliams.dev",
+      "category": "博客与作品集",
+      "kind": "template",
+      "repo": "chrismwilliams/astro-theme-cactus",
+      "sourceType": "website",
+      "referenceUrl": "https://github.com/chrismwilliams/astro-theme-cactus",
+      "checkedAt": "2026-10-19T14:32:29.894Z",
+      "readmeStatus": 200,
+      "matchingLinks": [
+        "https://astro-cactus.chriswilliams.dev/posts/markdown-elements/admonitions/",
+        "https://astro-cactus.chriswilliams.dev/",
+        "http://astro-cactus.chriswilliams.dev/posts/webmentions/"
+      ],
+      "demoLinks": [
+        "https://og-playground.vercel.app/"
+      ],
+      "licenseReferences": [
+        "## License",
+        "MIT"
+      ],
+      "readmeUrl": "https://raw.githubusercontent.com/chrismwilliams/astro-theme-cactus/HEAD/README.md"
+    },
+    {
+      "name": "Astro Nano",
+      "url": "https://astro-nano-demo.vercel.app",
+      "category": "博客与作品集",
+      "kind": "template",
+      "repo": "markhorn-dev/astro-nano",
+      "sourceType": "website",
+      "referenceUrl": "https://github.com/markhorn-dev/astro-nano",
+      "checkedAt": "2026-10-19T14:32:29.902Z",
+      "readmeStatus": 200,
+      "matchingLinks": [],
+      "demoLinks": [],
+      "licenseReferences": [
+        "## 🏛️ License",
+        "MIT"
+      ],
+      "readmeUrl": "https://raw.githubusercontent.com/markhorn-dev/astro-nano/HEAD/README.md"
+    },
+    {
+      "name": "Astro Sphere",
+      "url": "https://astro-sphere-demo.vercel.app",
+      "category": "博客与作品集",
+      "kind": "template",
+      "repo": "markhorn-dev/astro-sphere",
+      "sourceType": "website",
+      "referenceUrl": "https://github.com/markhorn-dev/astro-sphere",
+      "checkedAt": "2026-10-19T14:32:29.932Z",
+      "readmeStatus": 200,
+      "matchingLinks": [],
+      "demoLinks": [],
+      "licenseReferences": [
+        "## 🏛️ License",
+        "MIT"
+      ],
+      "readmeUrl": "https://raw.githubusercontent.com/markhorn-dev/astro-sphere/HEAD/README.md"
+    },
+    {
+      "name": "Hugo PaperMod",
+      "url": "https://adityatelange.github.io/hugo-PaperMod",
+      "category": "博客与作品集",
+      "kind": "template",
+      "repo": "adityatelange/hugo-PaperMod",
+      "sourceType": "website",
+      "referenceUrl": "https://github.com/adityatelange/hugo-PaperMod",
+      "checkedAt": "2026-10-19T14:32:30.075Z",
+      "readmeStatus": 200,
+      "matchingLinks": [
+        "https://adityatelange.github.io/hugo-PaperMod/"
+      ],
+      "demoLinks": [
+        "https://adityatelange.github.io/hugo-PaperMod/",
+        "https://pagespeed.web.dev/report?url=https://adityatelange.github.io/hugo-PaperMod/"
+      ],
+      "licenseReferences": [],
+      "readmeUrl": "https://raw.githubusercontent.com/adityatelange/hugo-PaperMod/HEAD/README.md"
+    },
+    {
+      "name": "Hugo Book",
+      "url": "https://hugo-book-demo.netlify.app",
+      "category": "博客与作品集",
+      "kind": "template",
+      "repo": "alex-shpak/hugo-book",
+      "sourceType": "website",
+      "referenceUrl": "https://github.com/alex-shpak/hugo-book",
+      "checkedAt": "2026-10-19T14:32:30.121Z",
+      "readmeStatus": 200,
+      "matchingLinks": [],
+      "demoLinks": [],
+      "licenseReferences": [
+        "[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)"
+      ],
+      "readmeUrl": "https://raw.githubusercontent.com/alex-shpak/hugo-book/HEAD/README.md"
+    },
+    {
+      "name": "Chirpy",
+      "url": "https://chirpy.cotes.page",
+      "category": "博客与作品集",
+      "kind": "template",
+      "repo": "cotes2020/jekyll-theme-chirpy",
+      "sourceType": "website",
+      "referenceUrl": "https://github.com/cotes2020/jekyll-theme-chirpy",
+      "checkedAt": "2026-10-19T14:32:30.188Z",
+      "readmeStatus": 200,
+      "matchingLinks": [],
+      "demoLinks": [
+        "https://chirpy-img.netlify.app/commons/devices-mockup.png",
+        "https://cotes2020.github.io/chirpy-demo/"
+      ],
+      "licenseReferences": [
+        "  [![GitHub license][badge-license]][license]&nbsp;",
+        "## License",
+        "This project is licensed under the [MIT License][license]."
+      ],
+      "readmeUrl": "https://raw.githubusercontent.com/cotes2020/jekyll-theme-chirpy/HEAD/README.md"
+    },
+    {
+      "name": "Minimal Mistakes",
+      "url": "https://mmistakes.github.io/minimal-mistakes",
+      "category": "博客与作品集",
+      "kind": "template",
+      "repo": "mmistakes/minimal-mistakes",
+      "sourceType": "website",
+      "referenceUrl": "https://github.com/mmistakes/minimal-mistakes",
+      "checkedAt": "2026-10-19T14:32:30.203Z",
+      "readmeStatus": 200,
+      "matchingLinks": [
+        "https://mmistakes.github.io/minimal-mistakes/",
+        "https://mmistakes.github.io/minimal-mistakes/docs/layouts/#headers",
+        "https://mmistakes.github.io/minimal-mistakes/docs/layouts/#sidebars",
+        "https://mmistakes.github.io/minimal-mistakes/docs/helpers/#table-of-contents",
+        "https://mmistakes.github.io/minimal-mistakes/docs/helpers/#gallery",
+        "https://mmistakes.github.io/minimal-mistakes/docs/configuration/#breadcrumb-navigation-beta",
+        "https://mmistakes.github.io/minimal-mistakes/docs/helpers/#navigation-list",
+        "https://mmistakes.github.io/minimal-mistakes/layout-header-image-text-readability/",
+        "https://mmistakes.github.io/minimal-mistakes/post%20formats/post-gallery/",
+        "https://mmistakes.github.io/minimal-mistakes/markup/markup-html-tags-and-formatting/",
+        "https://mmistakes.github.io/minimal-mistakes/markup-syntax-highlighting/",
+        "https://mmistakes.github.io/minimal-mistakes/recipes/chocolate-chip-cookies/",
+        "https://mmistakes.github.io/minimal-mistakes/categories/",
+        "https://mmistakes.github.io/minimal-mistakes/tags/",
+        "https://mmistakes.github.io/minimal-mistakes/year-archive/"
+      ],
+      "demoLinks": [
+        "https://mmistakes.github.io/minimal-mistakes/",
+        "https://mmistakes.github.io/minimal-mistakes/docs/layouts/#headers",
+        "https://mmistakes.github.io/minimal-mistakes/docs/layouts/#sidebars",
+        "https://mmistakes.github.io/minimal-mistakes/docs/helpers/#table-of-contents",
+        "https://mmistakes.github.io/minimal-mistakes/docs/helpers/#gallery",
+        "https://mmistakes.github.io/minimal-mistakes/docs/configuration/#breadcrumb-navigation-beta",
+        "https://mmistakes.github.io/minimal-mistakes/docs/helpers/#navigation-list",
+        "https://mmistakes.github.io/minimal-mistakes/layout-header-image-text-readability/",
+        "https://mmistakes.github.io/minimal-mistakes/post%20formats/post-gallery/",
+        "https://mmistakes.github.io/minimal-mistakes/markup/markup-html-tags-and-formatting/",
+        "https://mmistakes.github.io/minimal-mistakes/markup-syntax-highlighting/",
+        "https://mmistakes.github.io/minimal-mistakes/recipes/chocolate-chip-cookies/"
+      ],
+      "licenseReferences": [
+        "[![LICENSE](https://img.shields.io/badge/license-MIT-lightgrey.svg)](https://raw.githubusercontent.com/mmistakes/minimal-mistakes/master/LICENSE)",
+        "  Additionally, the license year is hard-coded in these files and are NOT covered by a Rake task:",
+        "    - LICENSE"
+      ],
+      "readmeUrl": "https://raw.githubusercontent.com/mmistakes/minimal-mistakes/HEAD/README.md"
+    },
+    {
+      "name": "Beautiful Jekyll",
+      "url": "https://beautifuljekyll.com",
+      "category": "博客与作品集",
+      "kind": "template",
+      "repo": "daattali/beautiful-jekyll",
+      "sourceType": "website",
+      "referenceUrl": "https://github.com/daattali/beautiful-jekyll",
+      "checkedAt": "2026-10-19T14:32:30.204Z",
+      "readmeStatus": 200,
+      "matchingLinks": [
+        "https://beautifuljekyll.com/",
+        "https://beautifuljekyll.com",
+        "http://beautifuljekyll.com/examples",
+        "https://beautifuljekyll.com/updates/",
+        "https://beautifuljekyll.com/getstarted/#install-steps-hard",
+        "https://beautifuljekyll.com/assets/img/install-steps.gif",
+        "https://beautifuljekyll.com/faq/#custom-domain",
+        "https://beautifuljekyll.com/plans",
+        "https://beautifuljekyll.com/faq/#default-params",
+        "https://beautifuljekyll.com/2020-02-28-sample-markdown/",
+        "https://beautifuljekyll.com/faq/",
+        "https://beautifuljekyll.com/faq/#updating",
+        "https://beautifuljekyll.com/faq",
+        "https://beautifuljekyll.com/plans/",
+        "https://beautifuljekyll.com/officehours/"
+      ],
+      "demoLinks": [
+        "https://YOURUSERNAME.github.io`.",
+        "https://drjekyllthemes.github.io/",
+        "http://jekyllrc.github.io/jekyllthemes/"
+      ],
+      "licenseReferences": [],
+      "readmeUrl": "https://raw.githubusercontent.com/daattali/beautiful-jekyll/HEAD/README.md"
+    },
+    {
+      "name": "al-folio",
+      "url": "https://alshedivat.github.io/al-folio",
+      "category": "博客与作品集",
+      "kind": "template",
+      "repo": "alshedivat/al-folio",
+      "sourceType": "website",
+      "referenceUrl": "https://github.com/alshedivat/al-folio",
+      "checkedAt": "2026-10-19T14:32:30.298Z",
+      "readmeStatus": 200,
+      "matchingLinks": [
+        "https://alshedivat.github.io/al-folio/",
+        "https://alshedivat.github.io/al-folio/plugins/",
+        "https://alshedivat.github.io/al-folio/blog/2021/distill/",
+        "https://alshedivat.github.io/al-folio/blog/2015/math/",
+        "https://alshedivat.github.io/al-folio/blog/2025/plotly/",
+        "https://alshedivat.github.io/al-folio/blog/2024/advanced-images/",
+        "https://alshedivat.github.io/al-folio/publications/",
+        "https://alshedivat.github.io/al-folio/cv/",
+        "https://alshedivat.github.io/al-folio/projects/",
+        "https://alshedivat.github.io/al-folio/people/",
+        "https://alshedivat.github.io/al-folio/blog/2015/code/",
+        "https://alshedivat.github.io/al-folio/projects/1_project/",
+        "https://alshedivat.github.io/al-folio/repositories/"
+      ],
+      "demoLinks": [
+        "https://alshedivat.github.io/al-folio/",
+        "https://karpathy.github.io/2014/07/01/switching-to-jekyll/",
+        "https://alshedivat.github.io/al-folio/plugins/",
+        "https://alshedivat.github.io/al-folio/blog/2021/distill/",
+        "https://alshedivat.github.io/al-folio/blog/2015/math/",
+        "https://alshedivat.github.io/al-folio/blog/2025/plotly/",
+        "https://alshedivat.github.io/al-folio/blog/2024/advanced-images/",
+        "https://alshedivat.github.io/al-folio/publications/",
+        "https://alshedivat.github.io/al-folio/cv/",
+        "https://alshedivat.github.io/al-folio/projects/",
+        "https://alshedivat.github.io/al-folio/people/",
+        "https://alshedivat.github.io/al-folio/blog/2015/code/"
+      ],
+      "licenseReferences": [
+        "[![GitHub license](https://img.shields.io/github/license/alshedivat/al-folio?color=blue)](https://github.com/alshedivat/al-folio/blob/main/LICENSE)",
+        "  - [License](#license)",
+        "## License"
+      ],
+      "readmeUrl": "https://raw.githubusercontent.com/alshedivat/al-folio/HEAD/README.md"
+    },
+    {
+      "name": "Just the Docs",
+      "url": "https://just-the-docs.github.io/just-the-docs",
+      "category": "博客与作品集",
+      "kind": "template",
+      "repo": "just-the-docs/just-the-docs",
+      "sourceType": "website",
+      "referenceUrl": "https://github.com/just-the-docs/just-the-docs",
+      "checkedAt": "2026-10-19T14:32:30.421Z",
+      "readmeStatus": 200,
+      "matchingLinks": [
+        "https://just-the-docs.github.io/just-the-docs-template/"
+      ],
+      "demoLinks": [
+        "https://just-the-docs.github.io/just-the-docs-template/"
+      ],
+      "licenseReferences": [
+        "## License",
+        "The theme is available as open source under the terms of the [MIT License](http://opensource.org/licenses/MIT)."
+      ],
+      "readmeUrl": "https://raw.githubusercontent.com/just-the-docs/just-the-docs/HEAD/README.md"
+    },
+    {
+      "name": "HTML5 UP",
+      "url": "https://html5up.net",
+      "category": "博客与作品集",
+      "kind": "collection",
+      "repo": null,
+      "sourceType": "unknown"
+    },
+    {
+      "name": "Start Bootstrap",
+      "url": "https://startbootstrap.com",
+      "category": "博客与作品集",
+      "kind": "collection",
+      "repo": null,
+      "sourceType": "unknown"
+    },
+    {
+      "name": "VitePress",
+      "url": "https://vitepress.dev",
+      "category": "文档与组件库",
+      "kind": "docs",
+      "repo": "vuejs/vitepress",
+      "sourceType": "product",
+      "referenceUrl": "https://github.com/vuejs/vitepress",
+      "checkedAt": "2026-10-19T14:32:30.489Z",
+      "readmeStatus": 200,
+      "matchingLinks": [
+        "https://vitepress.dev"
+      ],
+      "demoLinks": [],
+      "licenseReferences": [
+        "## License",
+        "[MIT](https://github.com/vuejs/vitepress/blob/main/LICENSE)"
+      ],
+      "readmeUrl": "https://raw.githubusercontent.com/vuejs/vitepress/HEAD/README.md"
+    },
+    {
+      "name": "Nextra",
+      "url": "https://nextra.site",
+      "category": "文档与组件库",
+      "kind": "docs",
+      "repo": "shuding/nextra",
+      "sourceType": "product",
+      "referenceUrl": "https://github.com/shuding/nextra",
+      "checkedAt": "2026-10-19T14:32:30.513Z",
+      "readmeStatus": 200,
+      "matchingLinks": [
+        "https://nextra.site"
+      ],
+      "demoLinks": [],
+      "licenseReferences": [],
+      "readmeUrl": "https://raw.githubusercontent.com/shuding/nextra/HEAD/README.md"
+    },
+    {
+      "name": "Fumadocs",
+      "url": "https://fumadocs.dev",
+      "category": "文档与组件库",
+      "kind": "docs",
+      "repo": "fuma-nama/fumadocs",
+      "sourceType": "product",
+      "referenceUrl": "https://github.com/fuma-nama/fumadocs",
+      "checkedAt": "2026-10-19T14:32:30.550Z",
+      "readmeStatus": 200,
+      "matchingLinks": [
+        "https://fumadocs.dev"
+      ],
+      "demoLinks": [],
+      "licenseReferences": [],
+      "readmeUrl": "https://raw.githubusercontent.com/fuma-nama/fumadocs/HEAD/README.md"
+    },
+    {
+      "name": "Material for MkDocs",
+      "url": "https://squidfunk.github.io/mkdocs-material",
+      "category": "文档与组件库",
+      "kind": "docs",
+      "repo": "squidfunk/mkdocs-material",
+      "sourceType": "product",
+      "referenceUrl": "https://github.com/squidfunk/mkdocs-material",
+      "checkedAt": "2026-10-19T14:32:30.627Z",
+      "readmeStatus": 200,
+      "matchingLinks": [
+        "https://squidfunk.github.io/mkdocs-material/",
+        "https://squidfunk.github.io/mkdocs-material/getting-started/"
+      ],
+      "demoLinks": [
+        "https://squidfunk.github.io/mkdocs-material/",
+        "https://squidfunk.github.io/mkdocs-material/getting-started/",
+        "https://atlassian.github.io/data-center-helm-charts/",
+        "https://aws.github.io/copilot-cli/",
+        "https://bloomberg.github.io/selekt/",
+        "https://google.github.io/accompanist/",
+        "https://hewlettpackard.github.io/squest/",
+        "https://hsbc.github.io/pyratings/",
+        "https://ing-bank.github.io/baker/",
+        "https://device-management-toolkit.github.io/docs/",
+        "https://jetbrains.github.io/projector-client/mkdocs/",
+        "https://linkedin.github.io/school-of-sre/"
+      ],
+      "licenseReferences": [
+        "individuals and organizations. Licensed under MIT.",
+        "## License",
+        "**MIT License**"
+      ],
+      "readmeUrl": "https://raw.githubusercontent.com/squidfunk/mkdocs-material/HEAD/README.md"
+    },
+    {
+      "name": "Docsify",
+      "url": "https://docsify.js.org",
+      "category": "文档与组件库",
+      "kind": "docs",
+      "repo": "docsifyjs/docsify",
+      "sourceType": "product",
+      "referenceUrl": "https://github.com/docsifyjs/docsify",
+      "checkedAt": "2026-10-19T14:32:30.757Z",
+      "readmeStatus": 200,
+      "matchingLinks": [
+        "https://docsify.js.org",
+        "https://docsify.js.org/#/quickstart"
+      ],
+      "demoLinks": [
+        "https://docsify-preview.vercel.app/"
+      ],
+      "licenseReferences": [
+        "## License",
+        "[MIT](LICENSE)"
+      ],
+      "readmeUrl": "https://raw.githubusercontent.com/docsifyjs/docsify/HEAD/README.md"
+    },
+    {
+      "name": "Scalar",
+      "url": "https://scalar.com",
+      "category": "文档与组件库",
+      "kind": "docs",
+      "repo": "scalar/scalar",
+      "sourceType": "product",
+      "referenceUrl": "https://github.com/scalar/scalar",
+      "checkedAt": "2026-10-19T14:32:30.791Z",
+      "readmeStatus": 200,
+      "matchingLinks": [
+        "https://scalar.com/download",
+        "https://scalar.com/products/api-references",
+        "https://scalar.com/products/api-references/integrations/html-js",
+        "https://scalar.com/products/api-references/configuration",
+        "https://scalar.com/products/api-references/themes",
+        "https://scalar.com/products/api-references/integrations/aspnetcore/integration",
+        "https://scalar.com/products/api-references/integrations/aspire",
+        "https://scalar.com/products/api-references/integrations/adonisjs",
+        "https://scalar.com/products/api-references/integrations/astro",
+        "https://scalar.com/products/api-references/integrations/django-ninja",
+        "https://scalar.com/products/api-references/integrations/django",
+        "https://scalar.com/products/api-references/integrations/docker",
+        "https://scalar.com/products/api-references/integrations/docusaurus",
+        "https://scalar.com/products/api-references/integrations/elixir",
+        "https://scalar.com/products/api-references/integrations/express"
+      ],
+      "demoLinks": [],
+      "licenseReferences": [
+        "[![GitHub License](https://img.shields.io/github/license/scalar/scalar)](https://github.com/scalar/scalar/blob/main/LICENSE)"
+      ],
+      "readmeUrl": "https://raw.githubusercontent.com/scalar/scalar/HEAD/README.md"
+    },
+    {
+      "name": "Storybook",
+      "url": "https://storybook.js.org",
+      "category": "文档与组件库",
+      "kind": "docs",
+      "repo": "storybookjs/storybook",
+      "sourceType": "product",
+      "referenceUrl": "https://github.com/storybookjs/storybook",
+      "checkedAt": "2026-10-19T14:32:30.822Z",
+      "readmeStatus": 200,
+      "matchingLinks": [
+        "https://storybook.js.org/?ref=readme",
+        "https://storybook.js.org/community/?ref=readme",
+        "https://storybook.js.org/docs?ref=readme",
+        "https://storybook.js.org/showcase?ref=readme",
+        "https://storybook.js.org/docs/configure/user-interface/storybook-addons?ref=readme",
+        "https://storybook.js.org/docs/configure/integration/frameworks-feature-support?ref=readme",
+        "https://storybook.js.org/docs/essentials/toolbars-and-globals?ref=readme",
+        "https://storybook.js.org/docs/8/writing-tests/snapshot-testing/storyshots-migration-guide?ref=readme",
+        "https://storybook.js.org/blog/?ref=readme"
+      ],
+      "demoLinks": [],
+      "licenseReferences": [
+        "  <a href=\"https://github.com/storybookjs/storybook/blob/main/LICENSE\">",
+        "    <img src=\"https://img.shields.io/github/license/storybookjs/storybook.svg\" alt=\"License\" />",
+        "- :memo: [License](#license)"
+      ],
+      "readmeUrl": "https://raw.githubusercontent.com/storybookjs/storybook/HEAD/README.md"
+    },
+    {
+      "name": "Radix Themes",
+      "url": "https://www.radix-ui.com/themes",
+      "category": "文档与组件库",
+      "kind": "docs",
+      "repo": "radix-ui/themes",
+      "sourceType": "product",
+      "referenceUrl": "https://github.com/radix-ui/themes",
+      "checkedAt": "2026-10-19T14:32:30.829Z",
+      "readmeStatus": 200,
+      "matchingLinks": [
+        "https://radix-ui.com/social/themes.png",
+        "https://radix-ui.com/themes",
+        "https://radix-ui.com/themes/docs",
+        "https://radix-ui.com/themes/docs/overview/releases"
+      ],
+      "demoLinks": [],
+      "licenseReferences": [
+        "## License",
+        "Licensed under the MIT License, Copyright © 2023-present [WorkOS](https://workos.com).",
+        "See [LICENSE](./LICENSE) for more information."
+      ],
+      "readmeUrl": "https://raw.githubusercontent.com/radix-ui/themes/HEAD/README.md"
+    },
+    {
+      "name": "Mantine",
+      "url": "https://mantine.dev",
+      "category": "文档与组件库",
+      "kind": "docs",
+      "repo": "mantinedev/mantine",
+      "sourceType": "product",
+      "referenceUrl": "https://github.com/mantinedev/mantine",
+      "checkedAt": "2026-10-19T14:32:30.831Z",
+      "readmeStatus": 200,
+      "matchingLinks": [
+        "https://mantine.dev/",
+        "https://mantine.dev/contribute",
+        "https://mantine.dev/changelog/all-releases",
+        "https://mantine.dev/hooks/package/",
+        "https://mantine.dev/core/package/",
+        "https://mantine.dev/form/use-form",
+        "https://mantine.dev/charts/getting-started/",
+        "https://mantine.dev/x/notifications",
+        "https://mantine.dev/x/spotlight",
+        "https://mantine.dev/code-highlight/code-highlight/",
+        "https://mantine.dev/x/tiptap",
+        "https://mantine.dev/x/dropzone",
+        "https://mantine.dev/x/carousel",
+        "https://mantine.dev/x/nprogress",
+        "https://mantine.dev/x/modals"
+      ],
+      "demoLinks": [],
+      "licenseReferences": [
+        "[![NPM](https://img.shields.io/npm/l/@mantine/core)](https://github.com/mantinedev/mantine/blob/master/LICENSE)",
+        "Mantine is a MIT-licensed open source project with its ongoing development made possible entirely by the support of these awesome [backers](https://opencollective.com/mantinedev). If you'd like to join them, please consider contributing financially o",
+        "## License"
+      ],
+      "readmeUrl": "https://raw.githubusercontent.com/mantinedev/mantine/HEAD/README.md"
+    },
+    {
+      "name": "Chakra UI",
+      "url": "https://chakra-ui.com",
+      "category": "文档与组件库",
+      "kind": "docs",
+      "repo": "chakra-ui/chakra-ui",
+      "sourceType": "product",
+      "referenceUrl": "https://github.com/chakra-ui/chakra-ui",
+      "checkedAt": "2026-10-19T14:32:30.950Z",
+      "readmeStatus": 200,
+      "matchingLinks": [
+        "https://chakra-ui.com",
+        "https://www.chakra-ui.com/docs/get-started/installation",
+        "https://www.chakra-ui.com/docs/get-started/contributing"
+      ],
+      "demoLinks": [],
+      "licenseReferences": [
+        "  <a href=\"https://github.com/chakra-ui/chakra-ui/blob/main/LICENSE\">",
+        "    <img alt=\"MIT License\" src=\"https://img.shields.io/github/license/chakra-ui/chakra-ui\"/>",
+        "## License"
+      ],
+      "readmeUrl": "https://raw.githubusercontent.com/chakra-ui/chakra-ui/HEAD/README.md"
+    },
+    {
+      "name": "Ant Design",
+      "url": "https://ant.design",
+      "category": "文档与组件库",
+      "kind": "docs",
+      "repo": "ant-design/ant-design",
+      "sourceType": "product",
+      "referenceUrl": "https://github.com/ant-design/ant-design",
+      "checkedAt": "2026-10-19T14:32:31.068Z",
+      "readmeStatus": 200,
+      "matchingLinks": [
+        "https://ant.design",
+        "https://ant.design/",
+        "https://ant.design/components/overview",
+        "https://ant.design/docs/react/sponsor",
+        "https://ant.design/docs/react/faq",
+        "https://ant.design/docs/react/customize-theme",
+        "https://ant.design/docs/react/contributing"
+      ],
+      "demoLinks": [
+        "https://godban.github.io/browsers-support-badges/",
+        "https://react-component.github.io/",
+        "https://custom-icon-badges.demolab.com/badge/opensumi-run-blue.svg?logo=opensumi"
+      ],
+      "licenseReferences": [],
+      "readmeUrl": "https://raw.githubusercontent.com/ant-design/ant-design/HEAD/README.md"
+    },
+    {
+      "name": "Element Plus",
+      "url": "https://element-plus.org",
+      "category": "文档与组件库",
+      "kind": "docs",
+      "repo": "element-plus/element-plus",
+      "sourceType": "product",
+      "referenceUrl": "https://github.com/element-plus/element-plus",
+      "checkedAt": "2026-10-19T14:32:31.128Z",
+      "readmeStatus": 200,
+      "matchingLinks": [
+        "https://element-plus.org/",
+        "https://element-plus.org/en-US/guide/translation.html"
+      ],
+      "demoLinks": [
+        "https://codesandbox.io/p/github/element-plus/element-plus-demo/main"
+      ],
+      "licenseReferences": [
+        "## License",
+        "[MIT](https://github.com/element-plus/element-plus/blob/master/LICENSE)."
+      ],
+      "readmeUrl": "https://raw.githubusercontent.com/element-plus/element-plus/HEAD/README.md"
+    },
+    {
+      "name": "Naive UI",
+      "url": "https://www.naiveui.com",
+      "category": "文档与组件库",
+      "kind": "docs",
+      "repo": "tusen-ai/naive-ui",
+      "sourceType": "product",
+      "referenceUrl": "https://github.com/tusen-ai/naive-ui",
+      "checkedAt": "2026-10-19T14:32:31.137Z",
+      "readmeStatus": 200,
+      "matchingLinks": [
+        "http://www.naiveui.com"
+      ],
+      "demoLinks": [],
+      "licenseReferences": [
+        "## License",
+        "Naive UI is licensed under the [MIT license](https://opensource.org/licenses/MIT)."
+      ],
+      "readmeUrl": "https://raw.githubusercontent.com/tusen-ai/naive-ui/HEAD/README.md"
+    },
+    {
+      "name": "Shoelace",
+      "url": "https://shoelace.style",
+      "category": "文档与组件库",
+      "kind": "docs",
+      "repo": "shoelace-style/shoelace",
+      "sourceType": "product",
+      "referenceUrl": "https://github.com/shoelace-style/shoelace",
+      "checkedAt": "2026-10-19T14:32:31.149Z",
+      "readmeStatus": 200,
+      "matchingLinks": [
+        "https://shoelace.style"
+      ],
+      "demoLinks": [
+        "https://esbuild.github.io/"
+      ],
+      "licenseReferences": [
+        "> **Shoelace is sunset.** There is no active development on this codebase. The library remains available under the MIT license for existing use, but **please do not open issues, pull requests, or feature requests here**—direct those to **[Web Awesome",
+        "**What “Sunset” Means:** Shoelace has **no active development**. **Issues, pull requests, and feature requests** belong on **[Web Awesome](https://github.com/shoelace-style/webawesome)**, not this repository. The published package remains available u",
+        "Shoelace is open source under the MIT license, but **this repository is not accepting contributions.** For bug reports, features, and pull requests, use **[Web Awesome](https://webawesome.com)** ([repository](https://github.com/shoelace-style/webawes"
+      ],
+      "readmeUrl": "https://raw.githubusercontent.com/shoelace-style/shoelace/HEAD/README.md"
+    },
+    {
+      "name": "DaisyUI",
+      "url": "https://daisyui.com",
+      "category": "文档与组件库",
+      "kind": "docs",
+      "repo": "saadeghi/daisyui",
+      "sourceType": "product",
+      "referenceUrl": "https://github.com/saadeghi/daisyui",
+      "checkedAt": "2026-10-19T14:32:31.153Z",
+      "readmeStatus": 200,
+      "matchingLinks": [
+        "https://daisyui.com/discord/",
+        "https://daisyui.com/",
+        "https://daisyui.com/components/",
+        "https://daisyui.com/docs/install/"
+      ],
+      "demoLinks": [],
+      "licenseReferences": [
+        "[![][license]](https://github.com/saadeghi/daisyui/blob/master/LICENSE)",
+        "[license]: https://badgen.net/github/license/saadeghi/daisyui?label=License&color=1AD1A5"
+      ],
+      "readmeUrl": "https://raw.githubusercontent.com/saadeghi/daisyui/HEAD/README.md"
+    },
+    {
+      "name": "USWDS",
+      "url": "https://designsystem.digital.gov",
+      "category": "文档与组件库",
+      "kind": "docs",
+      "repo": "uswds/uswds",
+      "sourceType": "product",
+      "referenceUrl": "https://github.com/uswds/uswds",
+      "checkedAt": "2026-10-19T14:32:31.244Z",
+      "readmeStatus": 200,
+      "matchingLinks": [
+        "https://designsystem.digital.gov",
+        "https://designsystem.digital.gov/whats-new/updates/2022/04/28/introducing-uswds-3-0/",
+        "https://designsystem.digital.gov/documentation/migration",
+        "https://designsystem.digital.gov/documentation/getting-started-for-designers/",
+        "https://designsystem.digital.gov/documentation/getting-started-for-developers/",
+        "https://designsystem.digital.gov/about/monthly-calls/#march-2024-building-with-uswds-tools",
+        "https://designsystem.digital.gov/components/packages",
+        "https://designsystem.digital.gov/components",
+        "https://designsystem.digital.gov/design-tokens/",
+        "https://designsystem.digital.gov/design-tokens/color",
+        "https://designsystem.digital.gov/design-tokens/spacing-units",
+        "https://designsystem.digital.gov/design-tokens/typesetting/font-size/",
+        "https://designsystem.digital.gov/design-tokens/spacing-units/",
+        "https://designsystem.digital.gov/documentation/accessibility/"
+      ],
+      "demoLinks": [
+        "https://cfpb.github.io/design-manual/",
+        "https://pivotal-cf.github.io/pivotal-ui/"
+      ],
+      "licenseReferences": [
+        "A few parts of the U.S. Web Design System (USWDS) are not in the public domain. Attribution and licensing information for those parts are described in detail in [LICENSE.md](LICENSE.md)."
+      ],
+      "readmeUrl": "https://raw.githubusercontent.com/uswds/uswds/HEAD/README.md"
+    },
+    {
+      "name": "GOV.UK Design System",
+      "url": "https://design-system.service.gov.uk",
+      "category": "文档与组件库",
+      "kind": "docs",
+      "repo": "alphagov/govuk-design-system",
+      "sourceType": "website",
+      "referenceUrl": "https://github.com/alphagov/govuk-design-system",
+      "checkedAt": "2026-10-19T14:32:31.344Z",
+      "readmeStatus": 200,
+      "matchingLinks": [],
+      "demoLinks": [],
+      "licenseReferences": [],
+      "readmeUrl": "https://raw.githubusercontent.com/alphagov/govuk-design-system/HEAD/README.md"
+    },
+    {
+      "name": "Apache ECharts Examples",
+      "url": "https://echarts.apache.org/examples/en/index.html",
+      "category": "数据可视化与地图",
+      "kind": "visualization",
+      "repo": "apache/echarts",
+      "sourceType": "product",
+      "referenceUrl": "https://github.com/apache/echarts",
+      "checkedAt": "2026-10-19T14:32:31.438Z",
+      "readmeStatus": 200,
+      "matchingLinks": [
+        "https://echarts.apache.org/",
+        "https://echarts.apache.org/zh/index.html",
+        "https://echarts.apache.org/en/index.html",
+        "https://echarts.apache.org/download.html",
+        "https://echarts.apache.org/handbook",
+        "https://echarts.apache.org/api.html",
+        "https://echarts.apache.org/option.html",
+        "https://echarts.apache.org/examples",
+        "https://echarts.apache.org/maillist.html"
+      ],
+      "demoLinks": [],
+      "licenseReferences": [
+        "[![License](https://img.shields.io/npm/l/echarts?color=5470c6)](https://github.com/apache/echarts/blob/master/LICENSE) [![Latest npm release](https://img.shields.io/npm/v/echarts?color=91cc75)](https://www.npmjs.com/package/echarts) [![NPM downloads]",
+        "## License",
+        "ECharts is available under the Apache License V2."
+      ],
+      "readmeUrl": "https://raw.githubusercontent.com/apache/echarts/HEAD/README.md"
+    },
+    {
+      "name": "D3",
+      "url": "https://d3js.org",
+      "category": "数据可视化与地图",
+      "kind": "visualization",
+      "repo": "d3/d3",
+      "sourceType": "product",
+      "referenceUrl": "https://github.com/d3/d3",
+      "checkedAt": "2026-10-19T14:32:31.448Z",
+      "readmeStatus": 200,
+      "matchingLinks": [
+        "https://d3js.org",
+        "https://d3js.org/community"
+      ],
+      "demoLinks": [],
+      "licenseReferences": [],
+      "readmeUrl": "https://raw.githubusercontent.com/d3/d3/HEAD/README.md"
+    },
+    {
+      "name": "Observable Plot",
+      "url": "https://observablehq.com/plot",
+      "category": "数据可视化与地图",
+      "kind": "visualization",
+      "repo": "observablehq/plot",
+      "sourceType": "product",
+      "referenceUrl": "https://github.com/observablehq/plot",
+      "checkedAt": "2026-10-19T14:32:31.455Z",
+      "readmeStatus": 200,
+      "matchingLinks": [
+        "https://observablehq.com/plot/plot.svg",
+        "https://observablehq.com/plot/",
+        "https://observablehq.com/plot/features/scales",
+        "https://observablehq.com/plot/features/marks",
+        "https://observablehq.com/@observablehq/plot-gallery",
+        "https://observablehq.com/plot/community"
+      ],
+      "demoLinks": [],
+      "licenseReferences": [
+        "[**Observable Plot**](https://observablehq.com/plot/) is a free, [open-source](./LICENSE), JavaScript library for visualizing tabular data, focused on accelerating exploratory data analysis. It has a concise, memorable, yet expressive API, featuring "
+      ],
+      "readmeUrl": "https://raw.githubusercontent.com/observablehq/plot/HEAD/README.md"
+    },
+    {
+      "name": "Vega-Lite Examples",
+      "url": "https://vega.github.io/vega-lite/examples",
+      "category": "数据可视化与地图",
+      "kind": "visualization",
+      "repo": "vega/vega-lite",
+      "sourceType": "product",
+      "referenceUrl": "https://github.com/vega/vega-lite",
+      "checkedAt": "2026-10-19T14:32:31.588Z",
+      "readmeStatus": 200,
+      "matchingLinks": [
+        "https://vega.github.io/vega-lite/",
+        "https://vega.github.io/",
+        "https://vega.github.io/vega-lite/docs/",
+        "https://vega.github.io/vega-lite/examples/",
+        "https://vega.github.io/vega-lite/usage/embed.html",
+        "https://vega.github.io/vega-lite/tutorials/getting_started.html",
+        "https://vega.github.io/editor/#/examples/vega-lite/bar",
+        "https://vega.github.io/vega/about/code-of-conduct/"
+      ],
+      "demoLinks": [
+        "https://vega.github.io/vega-lite/",
+        "https://vega.github.io/",
+        "https://vega.github.io/vega-lite/docs/",
+        "https://vega.github.io/vega-lite/examples/",
+        "https://vega.github.io/vega-lite/usage/embed.html",
+        "https://vega.github.io/vega-lite/tutorials/getting_started.html",
+        "https://vega.github.io/editor/#/examples/vega-lite/bar",
+        "https://vega.github.io/vega/about/code-of-conduct/",
+        "https://kanitw.github.io"
+      ],
+      "licenseReferences": [
+        "The development of Vega-Lite is led by the alumni and members of the [University of Washington Interactive Data Lab](https://idl.cs.washington.edu) (UW IDL), including [Kanit \"Ham\" Wongsuphasawat](https://kanitw.github.io) (now at Databricks), [Domin"
+      ],
+      "readmeUrl": "https://raw.githubusercontent.com/vega/vega-lite/HEAD/README.md"
+    },
+    {
+      "name": "Chart.js Samples",
+      "url": "https://www.chartjs.org/docs/latest/samples",
+      "category": "数据可视化与地图",
+      "kind": "visualization",
+      "repo": "chartjs/Chart.js",
+      "sourceType": "product",
+      "referenceUrl": "https://github.com/chartjs/Chart.js",
+      "checkedAt": "2026-10-19T14:32:31.627Z",
+      "readmeStatus": 200,
+      "matchingLinks": [
+        "https://www.chartjs.org/",
+        "https://www.chartjs.org/media/logo-title.svg",
+        "https://www.chartjs.org/docs/latest/getting-started/installation.html",
+        "https://www.chartjs.org/docs/latest/",
+        "https://www.chartjs.org/docs/latest/getting-started/index",
+        "https://www.chartjs.org/docs/latest/general/data-structures",
+        "https://www.chartjs.org/docs/latest/configuration/index",
+        "https://www.chartjs.org/docs/latest/charts/line",
+        "https://www.chartjs.org/docs/latest/axes/index",
+        "https://www.chartjs.org/docs/latest/developers/index",
+        "https://www.chartjs.org/samples/",
+        "https://www.chartjs.org/docs/2.9.4/",
+        "https://www.chartjs.org/docs/master/developers/contributing.html#building-and-testing",
+        "https://www.chartjs.org/docs/master/developers/contributing"
+      ],
+      "demoLinks": [],
+      "licenseReferences": [
+        "## License",
+        "Chart.js is available under the [MIT license](LICENSE.md)."
+      ],
+      "readmeUrl": "https://raw.githubusercontent.com/chartjs/Chart.js/HEAD/README.md"
+    },
+    {
+      "name": "Nivo",
+      "url": "https://nivo.rocks",
+      "category": "数据可视化与地图",
+      "kind": "visualization",
+      "repo": "plouc/nivo",
+      "sourceType": "product",
+      "referenceUrl": "https://github.com/plouc/nivo",
+      "checkedAt": "2026-10-19T14:32:31.704Z",
+      "readmeStatus": 200,
+      "matchingLinks": [
+        "https://nivo.rocks",
+        "http://nivo.rocks/",
+        "http://nivo.rocks/components/?filter=svg",
+        "http://nivo.rocks/components/?filter=html",
+        "http://nivo.rocks/components/?filter=canvas",
+        "http://nivo.rocks/guides/patterns/",
+        "http://nivo.rocks/guides/gradients/",
+        "http://nivo.rocks/guides/theming/",
+        "http://nivo.rocks/components/",
+        "http://nivo.rocks/guides/axes/",
+        "http://nivo.rocks/guides/colors/",
+        "http://nivo.rocks/guides/legends/"
+      ],
+      "demoLinks": [],
+      "licenseReferences": [
+        "[![License][license-image]][license-url]",
+        "[license-image]: https://img.shields.io/github/license/plouc/nivo.svg?style=flat-square",
+        "[license-url]: https://github.com/plouc/nivo/blob/master/LICENSE.md"
+      ],
+      "readmeUrl": "https://raw.githubusercontent.com/plouc/nivo/HEAD/README.md"
+    },
+    {
+      "name": "Recharts",
+      "url": "https://recharts.org",
+      "category": "数据可视化与地图",
+      "kind": "visualization",
+      "repo": "recharts/recharts",
+      "sourceType": "product",
+      "referenceUrl": "https://github.com/recharts/recharts",
+      "checkedAt": "2026-10-19T14:32:31.733Z",
+      "readmeStatus": 200,
+      "matchingLinks": [],
+      "demoLinks": [
+        "https://recharts.github.io/en-US/storybook",
+        "https://recharts.github.io"
+      ],
+      "licenseReferences": [
+        "[![MIT License](https://img.shields.io/badge/license-MIT-blue.svg?style=flat)](/LICENSE)",
+        "Thanks to JetBrains for providing OSS development license for their IDEs.",
+        "## License"
+      ],
+      "readmeUrl": "https://raw.githubusercontent.com/recharts/recharts/HEAD/README.md"
+    },
+    {
+      "name": "AntV G2",
+      "url": "https://g2.antv.antgroup.com",
+      "category": "数据可视化与地图",
+      "kind": "visualization",
+      "repo": "antvis/G2",
+      "sourceType": "product",
+      "referenceUrl": "https://github.com/antvis/G2",
+      "checkedAt": "2026-10-19T14:32:31.745Z",
+      "readmeStatus": 200,
+      "matchingLinks": [
+        "https://g2.antv.antgroup.com/manual/introduction/what-is-g2",
+        "https://g2.antv.antgroup.com/examples",
+        "https://g2.antv.antgroup.com/manual/quick-start",
+        "https://g2.antv.antgroup.com/api/overview"
+      ],
+      "demoLinks": [],
+      "licenseReferences": [
+        "[![npm License](https://img.shields.io/npm/l/@antv/g2.svg)](https://www.npmjs.com/package/@antv/g2)",
+        "## 📄 License",
+        "MIT@[AntV](https://github.com/antvis)."
+      ],
+      "readmeUrl": "https://raw.githubusercontent.com/antvis/G2/HEAD/README.md"
+    },
+    {
+      "name": "AntV X6",
+      "url": "https://x6.antv.antgroup.com",
+      "category": "数据可视化与地图",
+      "kind": "visualization",
+      "repo": "antvis/X6",
+      "sourceType": "product",
+      "referenceUrl": "https://github.com/antvis/X6",
+      "checkedAt": "2026-10-19T14:32:31.875Z",
+      "readmeStatus": 200,
+      "matchingLinks": [
+        "https://x6.antv.antgroup.com",
+        "https://x6.antv.antgroup.com/en/tutorial/about",
+        "https://x6.antv.antgroup.com/en/tutorial/getting-started",
+        "https://x6.antv.antgroup.com/en/examples"
+      ],
+      "demoLinks": [],
+      "licenseReferences": [
+        "  <img src=\"https://img.shields.io/github/license/antvis/x6?style=for-the-badge\" alt=\"MIT License\">",
+        "## 📄 License",
+        "[MIT](./LICENSE)."
+      ],
+      "readmeUrl": "https://raw.githubusercontent.com/antvis/X6/HEAD/README.md"
+    },
+    {
+      "name": "React Flow",
+      "url": "https://reactflow.dev",
+      "category": "数据可视化与地图",
+      "kind": "visualization",
+      "repo": "xyflow/xyflow",
+      "sourceType": "product",
+      "referenceUrl": "https://github.com/xyflow/xyflow",
+      "checkedAt": "2026-10-19T14:32:31.944Z",
+      "readmeStatus": 200,
+      "matchingLinks": [
+        "https://reactflow.dev/",
+        "https://reactflow.dev/pro",
+        "https://reactflow.dev/learn"
+      ],
+      "demoLinks": [],
+      "licenseReferences": [
+        "![GitHub License MIT](https://img.shields.io/github/license/wbkd/react-flow?color=%23ff0072)",
+        "**Are you using React Flow or Svelte Flow at your organization and making money from it?** Awesome! We rely on your support to keep our libraries developed and maintained under an MIT License, just how we like it. For React Flow you can do that on th",
+        "## License"
+      ],
+      "readmeUrl": "https://raw.githubusercontent.com/xyflow/xyflow/HEAD/README.md"
+    },
+    {
+      "name": "Mermaid Live Editor",
+      "url": "https://mermaid.live",
+      "category": "数据可视化与地图",
+      "kind": "app",
+      "repo": "mermaid-js/mermaid-live-editor",
+      "sourceType": "website",
+      "referenceUrl": "https://github.com/mermaid-js/mermaid-live-editor",
+      "checkedAt": "2026-10-19T14:32:31.962Z",
+      "readmeStatus": 200,
+      "matchingLinks": [
+        "https://mermaid.live/"
+      ],
+      "demoLinks": [],
+      "licenseReferences": [],
+      "readmeUrl": "https://raw.githubusercontent.com/mermaid-js/mermaid-live-editor/HEAD/README.md"
+    },
+    {
+      "name": "Excalidraw Mermaid",
+      "url": "https://mermaid-to-excalidraw.vercel.app",
+      "category": "数据可视化与地图",
+      "kind": "app",
+      "repo": "excalidraw/mermaid-to-excalidraw",
+      "sourceType": "website",
+      "referenceUrl": "https://github.com/excalidraw/mermaid-to-excalidraw",
+      "checkedAt": "2026-10-19T14:32:32.052Z",
+      "readmeStatus": 200,
+      "matchingLinks": [
+        "https://mermaid-to-excalidraw.vercel.app"
+      ],
+      "demoLinks": [
+        "https://mermaid-to-excalidraw.vercel.app"
+      ],
+      "licenseReferences": [],
+      "readmeUrl": "https://raw.githubusercontent.com/excalidraw/mermaid-to-excalidraw/HEAD/README.md"
+    },
+    {
+      "name": "Leaflet",
+      "url": "https://leafletjs.com",
+      "category": "数据可视化与地图",
+      "kind": "visualization",
+      "repo": "Leaflet/Leaflet",
+      "sourceType": "product",
+      "referenceUrl": "https://github.com/Leaflet/Leaflet",
+      "checkedAt": "2026-10-19T14:32:32.062Z",
+      "readmeStatus": 200,
+      "matchingLinks": [
+        "http://leafletjs.com/#features",
+        "http://leafletjs.com/plugins.html",
+        "http://leafletjs.com/reference.html",
+        "http://leafletjs.com",
+        "http://leafletjs.com/download.html"
+      ],
+      "demoLinks": [],
+      "licenseReferences": [],
+      "readmeUrl": "https://raw.githubusercontent.com/Leaflet/Leaflet/HEAD/README.md"
+    },
+    {
+      "name": "MapLibre GL JS",
+      "url": "https://maplibre.org/maplibre-gl-js/docs",
+      "category": "数据可视化与地图",
+      "kind": "visualization",
+      "repo": "maplibre/maplibre-gl-js",
+      "sourceType": "product",
+      "referenceUrl": "https://github.com/maplibre/maplibre-gl-js",
+      "checkedAt": "2026-10-19T14:32:32.069Z",
+      "readmeStatus": 200,
+      "matchingLinks": [
+        "https://maplibre.org/img/maplibre-logos/maplibre-logo-for-dark-bg.svg",
+        "https://maplibre.org/img/maplibre-logos/maplibre-logo-for-light-bg.svg",
+        "https://maplibre.org/maplibre-gl-js/docs/API/",
+        "https://maplibre.org/maplibre-gl-js/docs/examples/",
+        "https://maplibre.org/maplibre-gl-js/docs/assets/examples/display-a-map.png",
+        "https://maplibre.org/maplibre-gl-js/docs/assets/examples/3d-terrain.png",
+        "https://maplibre.org/maplibre-gl-js/docs/assets/examples/animate-a-series-of-images.png",
+        "https://maplibre.org/maplibre-gl-js/docs/assets/examples/create-a-heatmap-layer.png",
+        "https://maplibre.org/maplibre-gl-js/docs/assets/examples/display-buildings-in-3d.png",
+        "https://maplibre.org/maplibre-gl-js/docs/assets/examples/visualize-population-density.png",
+        "https://maplibre.org/sponsors/",
+        "https://maplibre.org/img/aws-logo.svg",
+        "https://maplibre.org/img/msft-logo.svg",
+        "https://maplibre.org/img/mierune-logo.svg",
+        "https://maplibre.org/img/komoot-logo.svg"
+      ],
+      "demoLinks": [
+        "https://demotiles.maplibre.org/style.json',",
+        "https://visgl.github.io/react-map-gl/docs/get-started"
+      ],
+      "licenseReferences": [
+        "[![License](https://img.shields.io/badge/License-BSD_3--Clause-blue.svg?style=flat)](LICENSE.txt) [![Version](https://img.shields.io/npm/v/maplibre-gl?style=flat)](https://www.npmjs.com/package/maplibre-gl) [![CI](https://github.com/maplibre/maplibre",
+        "It originated as an open-source fork of [mapbox-gl-js](https://github.com/mapbox/mapbox-gl-js), before their switch to a non-OSS license in December 2020. The library's initial versions (1.x) were intended to be a drop-in replacement for the Mapbox’s",
+        "Please keep in mind: Unauthorized backports are the biggest threat to the MapLibre project. It is unacceptable to backport code from mapbox-gl-js, which is not covered by the former BSD-3 license. If you are unsure about this issue, [please ask](http"
+      ],
+      "readmeUrl": "https://raw.githubusercontent.com/maplibre/maplibre-gl-js/HEAD/README.md"
+    },
+    {
+      "name": "OpenLayers",
+      "url": "https://openlayers.org",
+      "category": "数据可视化与地图",
+      "kind": "visualization",
+      "repo": "openlayers/openlayers",
+      "sourceType": "product",
+      "referenceUrl": "https://github.com/openlayers/openlayers",
+      "checkedAt": "2026-10-19T14:32:32.168Z",
+      "readmeStatus": 200,
+      "matchingLinks": [
+        "https://openlayers.org/",
+        "https://openlayers.org/en/latest/examples/",
+        "https://openlayers.org/workshop/",
+        "https://openlayers.org/en/latest/apidoc/"
+      ],
+      "demoLinks": [],
+      "licenseReferences": [
+        "[OpenLayers](https://openlayers.org/) is a high-performance, feature-packed library for creating interactive maps on the web. It can display map tiles, vector data and markers loaded from any source on any web page. OpenLayers has been developed to f"
+      ],
+      "readmeUrl": "https://raw.githubusercontent.com/openlayers/openlayers/HEAD/README.md"
+    },
+    {
+      "name": "deck.gl",
+      "url": "https://deck.gl",
+      "category": "数据可视化与地图",
+      "kind": "visualization",
+      "repo": "visgl/deck.gl",
+      "sourceType": "product",
+      "referenceUrl": "https://github.com/visgl/deck.gl",
+      "checkedAt": "2026-10-19T14:32:32.256Z",
+      "readmeStatus": 200,
+      "matchingLinks": [
+        "https://deck.gl",
+        "https://deck.gl/docs",
+        "https://deck.gl/examples",
+        "https://deck.gl/playground"
+      ],
+      "demoLinks": [
+        "https://visgl.github.io/deck.gl",
+        "https://symbolixau.github.io/mapdeck/articles/mapdeck.html",
+        "https://vega.github.io/"
+      ],
+      "licenseReferences": [],
+      "readmeUrl": "https://raw.githubusercontent.com/visgl/deck.gl/HEAD/README.md"
+    },
+    {
+      "name": "Kepler.gl Demo",
+      "url": "https://kepler.gl/demo",
+      "category": "数据可视化与地图",
+      "kind": "app",
+      "repo": "keplergl/kepler.gl",
+      "sourceType": "website",
+      "referenceUrl": "https://github.com/keplergl/kepler.gl",
+      "checkedAt": "2026-10-19T14:32:32.382Z",
+      "readmeStatus": 200,
+      "matchingLinks": [
+        "https://kepler.gl",
+        "https://kepler.gl/#/demo",
+        "http://kepler.gl",
+        "https://kepler.gl/demo",
+        "http://kepler.gl/#/demo",
+        "http://www.kepler.gl/"
+      ],
+      "demoLinks": [
+        "https://kepler.gl/#/demo",
+        "https://kepler.gl/demo",
+        "http://kepler.gl/#/demo"
+      ],
+      "licenseReferences": [
+        "  <a href='https://opensource.org/licenses/MIT'>",
+        "    <img src='https://img.shields.io/badge/License-MIT-blue.svg' alt='MIT License' />"
+      ],
+      "readmeUrl": "https://raw.githubusercontent.com/keplergl/kepler.gl/HEAD/README.md"
+    },
+    {
+      "name": "OpenStreetMap",
+      "url": "https://www.openstreetmap.org",
+      "category": "数据可视化与地图",
+      "kind": "app",
+      "repo": "openstreetmap/openstreetmap-website",
+      "sourceType": "website",
+      "referenceUrl": "https://github.com/openstreetmap/openstreetmap-website",
+      "checkedAt": "2026-10-19T14:32:32.388Z",
+      "readmeStatus": 200,
+      "matchingLinks": [
+        "https://www.openstreetmap.org"
+      ],
+      "demoLinks": [],
+      "licenseReferences": [
+        "# License",
+        "This software is licensed under the [GNU General Public License 2.0](https://www.gnu.org/licenses/old-licenses/gpl-2.0.txt),",
+        "a copy of which can be found in the [LICENSE](LICENSE) file."
+      ],
+      "readmeUrl": "https://raw.githubusercontent.com/openstreetmap/openstreetmap-website/HEAD/README.md"
+    },
+    {
+      "name": "Our World in Data",
+      "url": "https://ourworldindata.org",
+      "category": "数据可视化与地图",
+      "kind": "visualization",
+      "repo": "owid/owid-grapher",
+      "sourceType": "product",
+      "referenceUrl": "https://github.com/owid/owid-grapher",
+      "checkedAt": "2026-10-19T14:32:32.541Z",
+      "readmeStatus": 200,
+      "matchingLinks": [
+        "https://ourworldindata.org",
+        "https://ourworldindata.org/grapher/life-expectancy.svg",
+        "https://ourworldindata.org/grapher/life-expectancy",
+        "https://ourworldindata.org/explorers/migration"
+      ],
+      "demoLinks": [],
+      "licenseReferences": [
+        "## 📜 Licence",
+        "reference. **It is no longer available under the MIT licence.** You may view",
+        "consider your request. See [LICENSE.md](LICENSE.md) for the full terms and"
+      ],
+      "readmeUrl": "https://raw.githubusercontent.com/owid/owid-grapher/HEAD/README.md"
+    },
+    {
+      "name": "Gapminder Tools",
+      "url": "https://www.gapminder.org/tools",
+      "category": "数据可视化与地图",
+      "kind": "app",
+      "repo": "gapminder/gapminder-tools",
+      "sourceType": "website",
+      "referenceUrl": "https://github.com/gapminder/gapminder-tools",
+      "checkedAt": "2026-10-19T14:32:32.555Z",
+      "readmeStatus": 404,
+      "error": "README HTTP 404"
+    },
+    {
+      "name": "Squoosh",
+      "url": "https://squoosh.app",
+      "category": "在线工具与开源应用",
+      "kind": "app",
+      "repo": "GoogleChromeLabs/squoosh",
+      "sourceType": "website",
+      "referenceUrl": "https://github.com/GoogleChromeLabs/squoosh",
+      "checkedAt": "2026-10-19T14:32:32.561Z",
+      "readmeStatus": 200,
+      "matchingLinks": [
+        "https://squoosh.app"
+      ],
+      "demoLinks": [],
+      "licenseReferences": [],
+      "readmeUrl": "https://raw.githubusercontent.com/GoogleChromeLabs/squoosh/HEAD/README.md"
+    },
+    {
+      "name": "SVGOMG",
+      "url": "https://jakearchibald.github.io/svgomg",
+      "category": "在线工具与开源应用",
+      "kind": "app",
+      "repo": "jakearchibald/svgomg",
+      "sourceType": "website",
+      "referenceUrl": "https://github.com/jakearchibald/svgomg",
+      "checkedAt": "2026-10-19T14:32:32.609Z",
+      "readmeStatus": 200,
+      "matchingLinks": [
+        "https://jakearchibald.github.io/svgomg/"
+      ],
+      "demoLinks": [
+        "https://jakearchibald.github.io/svgomg/"
+      ],
+      "licenseReferences": [],
+      "readmeUrl": "https://raw.githubusercontent.com/jakearchibald/svgomg/HEAD/README.md"
+    },
+    {
+      "name": "Photopea",
+      "url": "https://www.photopea.com",
+      "category": "在线工具与开源应用",
+      "kind": "app",
+      "repo": null,
+      "sourceType": "unknown"
+    },
+    {
+      "name": "diagrams.net",
+      "url": "https://app.diagrams.net",
+      "category": "在线工具与开源应用",
+      "kind": "app",
+      "repo": "jgraph/drawio",
+      "sourceType": "website",
+      "referenceUrl": "https://github.com/jgraph/drawio",
+      "checkedAt": "2026-10-19T14:32:32.699Z",
+      "readmeStatus": 200,
+      "matchingLinks": [],
+      "demoLinks": [
+        "https://jgraph.github.io/drawio/src/main/webapp/index.html"
+      ],
+      "licenseReferences": [
+        "## License",
+        "The source code in this repository is licensed under the [Apache License 2.0](LICENSE).",
+        "Some icons are originally defined by third-party copyright holders; we have verified that all original licenses permit use in this project. Additional third-party JavaScript libraries are included, all with licenses compatible with Apache 2.0 (no GPL"
+      ],
+      "readmeUrl": "https://raw.githubusercontent.com/jgraph/drawio/HEAD/README.md"
+    },
+    {
+      "name": "JSON Crack",
+      "url": "https://jsoncrack.com/editor",
+      "category": "在线工具与开源应用",
+      "kind": "app",
+      "repo": "AykutSarac/jsoncrack.com",
+      "sourceType": "website",
+      "referenceUrl": "https://github.com/AykutSarac/jsoncrack.com",
+      "checkedAt": "2026-10-19T14:32:32.707Z",
+      "readmeStatus": 200,
+      "matchingLinks": [
+        "https://jsoncrack.com"
+      ],
+      "demoLinks": [
+        "https://hackernews-badge.vercel.app/api?id=32626873"
+      ],
+      "licenseReferences": [
+        "1. Clone the repo into a public GitHub repository (or fork https://github.com/AykutSarac/jsoncrack.com/fork). If you plan to distribute the code, read the [`LICENSE`](/LICENSE.md) for additional details.",
+        "<!-- LICENSE -->",
+        "## License"
+      ],
+      "readmeUrl": "https://raw.githubusercontent.com/AykutSarac/jsoncrack.com/HEAD/README.md"
+    },
+    {
+      "name": "IT Tools",
+      "url": "https://it-tools.tech",
+      "category": "在线工具与开源应用",
+      "kind": "app",
+      "repo": "CorentinTh/it-tools",
+      "sourceType": "website",
+      "referenceUrl": "https://github.com/CorentinTh/it-tools",
+      "checkedAt": "2026-10-19T14:32:32.790Z",
+      "readmeStatus": 200,
+      "matchingLinks": [
+        "https://it-tools.tech"
+      ],
+      "demoLinks": [
+        "https://contrib.rocks/preview?repo=corentinth/it-tools"
+      ],
+      "licenseReferences": [
+        "## License",
+        "This project is under the [GNU GPLv3](LICENSE)."
+      ],
+      "readmeUrl": "https://raw.githubusercontent.com/CorentinTh/it-tools/HEAD/README.md"
+    },
+    {
+      "name": "CyberChef",
+      "url": "https://gchq.github.io/CyberChef",
+      "category": "在线工具与开源应用",
+      "kind": "app",
+      "repo": "gchq/CyberChef",
+      "sourceType": "website",
+      "referenceUrl": "https://github.com/gchq/CyberChef",
+      "checkedAt": "2026-10-19T14:32:32.872Z",
+      "readmeStatus": 200,
+      "matchingLinks": [
+        "https://gchq.github.io/CyberChef/#recipe=Operation(",
+        "https://gchq.github.io/CyberChef",
+        "https://gchq.github.io/CyberChef/#recipe=From_Base64('A-Za-z0-9%2B/%3D',true",
+        "https://gchq.github.io/CyberChef/#recipe=Translate_DateTime_Format('Standard%20date%20and%20time','DD/MM/YYYY%20HH:mm:ss','UTC','dddd%20Do%20MMMM%20YYYY%20HH:mm:ss%20Z%20z','Australia/Queensland'",
+        "https://gchq.github.io/CyberChef/#recipe=Parse_IPv6_address(",
+        "https://gchq.github.io/CyberChef/#recipe=From_Hexdump(",
+        "https://gchq.github.io/CyberChef/#recipe=RC4(%7B'option':'UTF8','string':'secret'%7D,'Hex','Hex'",
+        "https://gchq.github.io/CyberChef/#recipe=Fork('%5C%5Cn','%5C%5Cn',false",
+        "https://gchq.github.io/CyberChef/#recipe=Register('key%3D(%5B%5C%5Cda-f%5D*",
+        "https://gchq.github.io/CyberChef/#recipe=Register('(.%7B32%7D",
+        "https://gchq.github.io/CyberChef/#recipe=XOR(%7B'option':'Hex','string':'3a'%7D,'Standard',false",
+        "https://gchq.github.io/CyberChef/#recipe=Magic(3,false,false",
+        "https://gchq.github.io/CyberChef/#recipe=AES_Decrypt(%7B'option':'Hex','string':'1748e7179bd56570d51fa4ba287cc3e5'%7D,%7B'option':'Hex','string':'$R0'%7D,16,'CTR','Hex','Raw',%7B'option':'Hex','string':''%7D,%7B'option':'Hex','string':''%7D,'From%20start'"
+      ],
+      "demoLinks": [
+        "https://gchq.github.io/CyberChef/#recipe=Operation(",
+        "https://gchq.github.io/CyberChef",
+        "https://gchq.github.io/CyberChef/#recipe=From_Base64('A-Za-z0-9%2B/%3D',true",
+        "https://gchq.github.io/CyberChef/#recipe=Translate_DateTime_Format('Standard%20date%20and%20time','DD/MM/YYYY%20HH:mm:ss','UTC','dddd%20Do%20MMMM%20YYYY%20HH:mm:ss%20Z%20z','Australia/Queensland'",
+        "https://gchq.github.io/CyberChef/#recipe=Parse_IPv6_address(",
+        "https://gchq.github.io/CyberChef/#recipe=From_Hexdump(",
+        "https://gchq.github.io/CyberChef/#recipe=RC4(%7B'option':'UTF8','string':'secret'%7D,'Hex','Hex'",
+        "https://gchq.github.io/CyberChef/#recipe=Fork('%5C%5Cn','%5C%5Cn',false",
+        "https://gchq.github.io/CyberChef/#recipe=Register('key%3D(%5B%5C%5Cda-f%5D*",
+        "https://gchq.github.io/CyberChef/#recipe=Register('(.%7B32%7D",
+        "https://gchq.github.io/CyberChef/#recipe=XOR(%7B'option':'Hex','string':'3a'%7D,'Standard',false",
+        "https://gchq.github.io/CyberChef/#recipe=Magic(3,false,false"
+      ],
+      "licenseReferences": [
+        "[![](https://img.shields.io/badge/license-Apache%202.0-blue.svg)](https://github.com/gchq/CyberChef/blob/master/LICENSE)",
+        " - Submit a pull request. If you are doing this for the first time, you will be prompted to sign the [GCHQ Contributor Licence Agreement](https://cla-assistant.io/gchq/CyberChef) via the CLA assistant on the pull request. This will also ask whether y",
+        "CyberChef is released under the [Apache 2.0 Licence](https://www.apache.org/licenses/LICENSE-2.0) and is covered by [Crown Copyright](https://www.nationalarchives.gov.uk/information-management/re-using-public-sector-information/uk-government-licensin"
+      ],
+      "readmeUrl": "https://raw.githubusercontent.com/gchq/CyberChef/HEAD/README.md"
+    },
+    {
+      "name": "Hoppscotch",
+      "url": "https://hoppscotch.io",
+      "category": "在线工具与开源应用",
+      "kind": "app",
+      "repo": "hoppscotch/hoppscotch",
+      "sourceType": "website",
+      "referenceUrl": "https://github.com/hoppscotch/hoppscotch",
+      "checkedAt": "2026-10-19T14:32:32.876Z",
+      "readmeStatus": 200,
+      "matchingLinks": [
+        "https://hoppscotch.io",
+        "https://hoppscotch.io/discord",
+        "https://hoppscotch.io/telegram",
+        "https://hoppscotch.io/settings"
+      ],
+      "demoLinks": [],
+      "licenseReferences": [
+        "## License",
+        "This project is licensed under the [MIT License](https://opensource.org/licenses/MIT) — see the [`LICENSE`](LICENSE) file for details."
+      ],
+      "readmeUrl": "https://raw.githubusercontent.com/hoppscotch/hoppscotch/HEAD/README.md"
+    },
+    {
+      "name": "Regex101",
+      "url": "https://regex101.com",
+      "category": "在线工具与开源应用",
+      "kind": "app",
+      "repo": null,
+      "sourceType": "unknown"
+    },
+    {
+      "name": "RegExr",
+      "url": "https://regexr.com",
+      "category": "在线工具与开源应用",
+      "kind": "app",
+      "repo": "gskinner/regexr",
+      "sourceType": "website",
+      "referenceUrl": "https://github.com/gskinner/regexr",
+      "checkedAt": "2026-10-19T14:32:32.916Z",
+      "readmeStatus": 200,
+      "matchingLinks": [
+        "http://regexr.com/"
+      ],
+      "demoLinks": [],
+      "licenseReferences": [
+        "# License",
+        "This version of RegExr is licensed under GPL v3. If you're interested in using the source under other terms, feel free to [get in touch](https://gskinner.com)."
+      ],
+      "readmeUrl": "https://raw.githubusercontent.com/gskinner/regexr/HEAD/README.md"
+    },
+    {
+      "name": "Carbon",
+      "url": "https://carbon.now.sh",
+      "category": "在线工具与开源应用",
+      "kind": "app",
+      "repo": "carbon-app/carbon",
+      "sourceType": "website",
+      "referenceUrl": "https://github.com/carbon-app/carbon",
+      "checkedAt": "2026-10-19T14:32:32.962Z",
+      "readmeStatus": 200,
+      "matchingLinks": [
+        "https://carbon.now.sh/3208813b324d82a9ebd197e4b1c3bae8",
+        "https://carbon.now.sh"
+      ],
+      "demoLinks": [
+        "https://yonicd.github.io/carbonate/",
+        "https://wooooooak.github.io/"
+      ],
+      "licenseReferences": [
+        "  <a href=\"/LICENSE\">",
+        "    <img src=\"https://img.shields.io/github/license/carbon-app/carbon.svg\" alt=\"MIT License\" />",
+        "#### License"
+      ],
+      "readmeUrl": "https://raw.githubusercontent.com/carbon-app/carbon/HEAD/README.md"
+    },
+    {
+      "name": "Ray.so",
+      "url": "https://ray.so",
+      "category": "在线工具与开源应用",
+      "kind": "app",
+      "repo": "raycast/ray-so",
+      "sourceType": "website",
+      "referenceUrl": "https://github.com/raycast/ray-so",
+      "checkedAt": "2026-10-19T14:32:33.028Z",
+      "readmeStatus": 200,
+      "matchingLinks": [
+        "https://ray.so"
+      ],
+      "demoLinks": [],
+      "licenseReferences": [],
+      "readmeUrl": "https://raw.githubusercontent.com/raycast/ray-so/HEAD/README.md"
+    },
+    {
+      "name": "Reactive Resume",
+      "url": "https://rxresu.me",
+      "category": "在线工具与开源应用",
+      "kind": "app",
+      "repo": "AmruthPillai/Reactive-Resume",
+      "sourceType": "product",
+      "referenceUrl": "https://github.com/AmruthPillai/Reactive-Resume",
+      "checkedAt": "2026-10-19T14:32:33.193Z",
+      "readmeStatus": 200,
+      "matchingLinks": [
+        "https://rxresu.me",
+        "https://rxresu.me/ats-checker"
+      ],
+      "demoLinks": [],
+      "licenseReferences": [
+        "    <img src=\"https://img.shields.io/github/license/reactive-resume/reactive-resume?style=flat-square\" alt=\"License\" />",
+        "You own your data. The codebase is open source under the MIT license, with no tracking, no ads, and no paid tier. Optional AI features use a provider you connect; hosting and provider usage may have their own costs.",
+        "## License"
+      ],
+      "readmeUrl": "https://raw.githubusercontent.com/AmruthPillai/Reactive-Resume/HEAD/README.md"
+    },
+    {
+      "name": "OpenResume",
+      "url": "https://www.open-resume.com",
+      "category": "在线工具与开源应用",
+      "kind": "app",
+      "repo": "xitanggg/open-resume",
+      "sourceType": "website",
+      "referenceUrl": "https://github.com/xitanggg/open-resume",
+      "checkedAt": "2026-10-19T14:32:33.233Z",
+      "readmeStatus": 200,
+      "matchingLinks": [
+        "https://open-resume.com",
+        "https://open-resume.com/resume-parser"
+      ],
+      "demoLinks": [
+        "https://i.ibb.co/jzcrrt8/resume-builder-demo-optimize.gif",
+        "https://i.ibb.co/JvSVwNk/resume-parser-demo-optimize.gif"
+      ],
+      "licenseReferences": [],
+      "readmeUrl": "https://raw.githubusercontent.com/xitanggg/open-resume/HEAD/README.md"
+    },
+    {
+      "name": "PairDrop",
+      "url": "https://pairdrop.net",
+      "category": "在线工具与开源应用",
+      "kind": "app",
+      "repo": "schlagmichdoch/PairDrop",
+      "sourceType": "website",
+      "referenceUrl": "https://github.com/schlagmichdoch/PairDrop",
+      "checkedAt": "2026-10-19T14:32:33.259Z",
+      "readmeStatus": 200,
+      "matchingLinks": [
+        "https://pairdrop.net"
+      ],
+      "demoLinks": [
+        "https://gildas-lormeau.github.io/zip.js/"
+      ],
+      "licenseReferences": [
+        "* [NoSleep](https://github.com/richtr/NoSleep.js) display sleep, add wake lock ([MIT](licenses/MIT-NoSleep))",
+        "* [heic2any](https://github.com/alexcorvi/heic2any) HEIC/HEIF to PNG/GIF/JPEG ([MIT](licenses/MIT-heic2any))"
+      ],
+      "readmeUrl": "https://raw.githubusercontent.com/schlagmichdoch/PairDrop/HEAD/README.md"
+    },
+    {
+      "name": "LocalSend",
+      "url": "https://localsend.org",
+      "category": "在线工具与开源应用",
+      "kind": "homepage",
+      "repo": "localsend/localsend",
+      "sourceType": "product",
+      "referenceUrl": "https://github.com/localsend/localsend",
+      "checkedAt": "2026-10-19T14:32:33.351Z",
+      "readmeStatus": 200,
+      "matchingLinks": [
+        "https://localsend.org",
+        "https://localsend.org/img/sponsors/tesmu.svg",
+        "https://localsend.org/img/screenshot-iphone.webp",
+        "https://localsend.org/img/screenshot-pc.webp"
+      ],
+      "demoLinks": [],
+      "licenseReferences": [],
+      "readmeUrl": "https://raw.githubusercontent.com/localsend/localsend/HEAD/README.md"
+    },
+    {
+      "name": "Stirling PDF",
+      "url": "https://www.stirlingpdf.com",
+      "category": "在线工具与开源应用",
+      "kind": "homepage",
+      "repo": "Stirling-Tools/Stirling-PDF",
+      "sourceType": "product",
+      "referenceUrl": "https://github.com/Stirling-Tools/Stirling-PDF",
+      "checkedAt": "2026-10-19T14:32:33.523Z",
+      "readmeStatus": 200,
+      "matchingLinks": [],
+      "demoLinks": [],
+      "licenseReferences": [
+        "## License",
+        "Stirling PDF is open-core. See [LICENSE](LICENSE) for details."
+      ],
+      "readmeUrl": "https://raw.githubusercontent.com/Stirling-Tools/Stirling-PDF/HEAD/README.md"
+    },
+    {
+      "name": "HedgeDoc",
+      "url": "https://hedgedoc.org",
+      "category": "在线工具与开源应用",
+      "kind": "homepage",
+      "repo": "hedgedoc/hedgedoc",
+      "sourceType": "product",
+      "referenceUrl": "https://github.com/hedgedoc/hedgedoc",
+      "checkedAt": "2026-10-19T14:32:33.561Z",
+      "readmeStatus": 200,
+      "matchingLinks": [
+        "https://hedgedoc.org",
+        "https://hedgedoc.org/history/",
+        "https://hedgedoc.org/demo/"
+      ],
+      "demoLinks": [
+        "https://hedgedoc.org/demo/",
+        "https://demo.hedgedoc.org/features"
+      ],
+      "licenseReferences": [
+        "SPDX-License-Identifier: CC-BY-SA-4.0",
+        "# License",
+        "The license does not include the HedgeDoc logo, whose terms of usage can be found in"
+      ],
+      "readmeUrl": "https://raw.githubusercontent.com/hedgedoc/hedgedoc/HEAD/README.md"
+    },
+    {
+      "name": "Hoarder / Karakeep",
+      "url": "https://karakeep.app",
+      "category": "在线工具与开源应用",
+      "kind": "homepage",
+      "repo": "karakeep-app/karakeep",
+      "sourceType": "product",
+      "referenceUrl": "https://github.com/karakeep-app/karakeep",
+      "checkedAt": "2026-10-19T14:32:33.680Z",
+      "readmeStatus": 200,
+      "matchingLinks": [],
+      "demoLinks": [],
+      "licenseReferences": [
+        "## License",
+        "Karakeep is licensed under [AGPL-3.0](https://github.com/karakeep-app/karakeep/blob/main/LICENSE) and owned by [Localhost Labs Ltd](https://localhostlabs.co.uk)."
+      ],
+      "readmeUrl": "https://raw.githubusercontent.com/karakeep-app/karakeep/HEAD/README.md"
+    },
+    {
+      "name": "Mealie",
+      "url": "https://mealie.io",
+      "category": "在线工具与开源应用",
+      "kind": "homepage",
+      "repo": "mealie-recipes/mealie",
+      "sourceType": "product",
+      "referenceUrl": "https://github.com/mealie-recipes/mealie",
+      "checkedAt": "2026-10-19T14:32:33.819Z",
+      "readmeStatus": 200,
+      "matchingLinks": [],
+      "demoLinks": [
+        "https://demo.mealie.io/",
+        "https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fipitio.github.io%2Fbackage%2Fmealie-recipes%2Fmealie%2Fmealie.json&query=%24.downloads&style=flat-square&label=ghcr%20pulls"
+      ],
+      "licenseReferences": [
+        "[![AGPL License][license-shield]][license-url]",
+        "<!-- LICENSE -->",
+        "## License"
+      ],
+      "readmeUrl": "https://raw.githubusercontent.com/mealie-recipes/mealie/HEAD/README.md"
+    },
+    {
+      "name": "Immich",
+      "url": "https://immich.app",
+      "category": "在线工具与开源应用",
+      "kind": "homepage",
+      "repo": "immich-app/immich",
+      "sourceType": "product",
+      "referenceUrl": "https://github.com/immich-app/immich",
+      "checkedAt": "2026-10-19T14:32:33.831Z",
+      "readmeStatus": 200,
+      "matchingLinks": [
+        "https://immich.app",
+        "https://immich.app/.",
+        "https://immich.app/roadmap"
+      ],
+      "demoLinks": [
+        "https://demo.immich.app",
+        "https://demo.immich.app`"
+      ],
+      "licenseReferences": [
+        "  <a href=\"https://opensource.org/license/agpl-v3\"><img src=\"https://img.shields.io/badge/License-AGPL_v3-blue.svg?color=3F51B5&style=for-the-badge&label=License&logoColor=000000&labelColor=ececec\" alt=\"License: AGPLv3\"></a>"
+      ],
+      "readmeUrl": "https://raw.githubusercontent.com/immich-app/immich/HEAD/README.md"
+    },
+    {
+      "name": "Jellyfin",
+      "url": "https://jellyfin.org",
+      "category": "在线工具与开源应用",
+      "kind": "homepage",
+      "repo": "jellyfin/jellyfin",
+      "sourceType": "product",
+      "referenceUrl": "https://github.com/jellyfin/jellyfin",
+      "checkedAt": "2026-10-19T14:32:33.906Z",
+      "readmeStatus": 200,
+      "matchingLinks": [
+        "https://jellyfin.org/docs/",
+        "https://jellyfin.org/docs/general/getting-help",
+        "https://jellyfin.org/docs/general/about",
+        "https://jellyfin.org/downloads",
+        "https://jellyfin.org/docs/general/installation/",
+        "https://jellyfin.org/docs/general/quick-start",
+        "https://jellyfin.org/docs/general/installation/source",
+        "https://jellyfin.org/docs/general/contributing/issues",
+        "https://jellyfin.org/contribute",
+        "https://jellyfin.org/docs/general/contributing/",
+        "https://jellyfin.org/docs/general/community-standards",
+        "https://jellyfin.org/docs/general/contributing/index.html",
+        "https://jellyfin.org/docs/general/contributing/development.html",
+        "https://jellyfin.org/docs/general/contributing/development.html#set-up-your-copy-of-the-repo",
+        "https://jellyfin.org/docs/general/installation/linux#repository-manual"
+      ],
+      "demoLinks": [],
+      "licenseReferences": [
+        "<a href=\"https://github.com/jellyfin/jellyfin\"><img alt=\"GPL 2.0 License\" src=\"https://img.shields.io/github/license/jellyfin/jellyfin.svg\"/></a>"
+      ],
+      "readmeUrl": "https://raw.githubusercontent.com/jellyfin/jellyfin/HEAD/README.md"
+    },
+    {
+      "name": "Home Assistant",
+      "url": "https://www.home-assistant.io",
+      "category": "在线工具与开源应用",
+      "kind": "homepage",
+      "repo": "home-assistant/frontend",
+      "sourceType": "product",
+      "referenceUrl": "https://github.com/home-assistant/frontend",
+      "checkedAt": "2026-10-19T14:32:33.971Z",
+      "readmeStatus": 200,
+      "matchingLinks": [
+        "https://home-assistant.io",
+        "https://www.home-assistant.io/developers/frontend/"
+      ],
+      "demoLinks": [
+        "https://demo.home-assistant.io/"
+      ],
+      "licenseReferences": [
+        "## License"
+      ],
+      "readmeUrl": "https://raw.githubusercontent.com/home-assistant/frontend/HEAD/README.md"
+    },
+    {
+      "name": "Actual Budget",
+      "url": "https://actualbudget.org",
+      "category": "在线工具与开源应用",
+      "kind": "homepage",
+      "repo": "actualbudget/actual",
+      "sourceType": "product",
+      "referenceUrl": "https://github.com/actualbudget/actual",
+      "checkedAt": "2026-10-19T14:32:34.124Z",
+      "readmeStatus": 200,
+      "matchingLinks": [
+        "https://actualbudget.org/docs/contributing/",
+        "https://actualbudget.org/docs",
+        "https://actualbudget.org/docs/faq",
+        "https://actualbudget.org/docs/install/fly",
+        "https://actualbudget.org/docs/install/docker",
+        "https://actualbudget.org/download/",
+        "https://actualbudget.org/docs/install/",
+        "https://actualbudget.org/docs/getting-started/envelope-budgeting",
+        "https://actualbudget.org/docs/getting-started/starting-fresh",
+        "https://actualbudget.org/docs/migration/",
+        "https://actualbudget.org/docs/contributing/project-details",
+        "https://actualbudget.org/docs/contributing/i18n/"
+      ],
+      "demoLinks": [],
+      "licenseReferences": [],
+      "readmeUrl": "https://raw.githubusercontent.com/actualbudget/actual/HEAD/README.md"
+    },
+    {
+      "name": "Formbricks",
+      "url": "https://formbricks.com",
+      "category": "在线工具与开源应用",
+      "kind": "homepage",
+      "repo": "formbricks/formbricks",
+      "sourceType": "product",
+      "referenceUrl": "https://github.com/formbricks/formbricks",
+      "checkedAt": "2026-10-19T14:32:34.127Z",
+      "readmeStatus": 200,
+      "matchingLinks": [
+        "https://formbricks.com",
+        "https://formbricks.com/",
+        "https://formbricks.com/docs/self-hosting/deployment",
+        "https://formbricks.com/docs/self-hosting/enterprise"
+      ],
+      "demoLinks": [],
+      "licenseReferences": [
+        "<a href=\"https://github.com/formbricks/formbricks/blob/main/LICENSE\"><img src=\"https://img.shields.io/badge/License-AGPL-purple\" alt=\"License\"></a> <a href=\"https://github.com/formbricks/formbricks/stargazers\"><img src=\"https://img.shields.io/github/",
+        "- [License](#license)",
+        "Formbricks is available Open-Source under AGPLv3 license. You can host Formbricks on your own servers using Docker without a subscription."
+      ],
+      "readmeUrl": "https://raw.githubusercontent.com/formbricks/formbricks/HEAD/README.md"
+    },
+    {
+      "name": "Appsmith",
+      "url": "https://www.appsmith.com",
+      "category": "在线工具与开源应用",
+      "kind": "homepage",
+      "repo": "appsmithorg/appsmith",
+      "sourceType": "product",
+      "referenceUrl": "https://github.com/appsmithorg/appsmith",
+      "checkedAt": "2026-10-19T14:32:34.150Z",
+      "readmeStatus": 200,
+      "matchingLinks": [
+        "https://www.appsmith.com?utm_source=github&utm_medium=organic&utm_campaign=readme",
+        "https://www.appsmith.com/templates?utm_source=github&utm_medium=organic&utm_campaign=readme&utm_content=support",
+        "https://www.appsmith.com/ai"
+      ],
+      "demoLinks": [
+        "https://github.com/akash-codemonk",
+        "https://github.com/sunil-codemonk"
+      ],
+      "licenseReferences": [
+        "## License",
+        "Appsmith is licensed under the terms of [Apache License 2.0](https://github.com/appsmithorg/appsmith/blob/release/LICENSE)."
+      ],
+      "readmeUrl": "https://raw.githubusercontent.com/appsmithorg/appsmith/HEAD/README.md"
+    },
+    {
+      "name": "ToolJet",
+      "url": "https://www.tooljet.com",
+      "category": "在线工具与开源应用",
+      "kind": "homepage",
+      "repo": "ToolJet/ToolJet",
+      "sourceType": "product",
+      "referenceUrl": "https://github.com/ToolJet/ToolJet",
+      "checkedAt": "2026-10-19T14:32:34.170Z",
+      "readmeStatus": 200,
+      "matchingLinks": [
+        "https://tooljet.com",
+        "https://tooljet.com/slack"
+      ],
+      "demoLinks": [],
+      "licenseReferences": [
+        "[![GitHub license which is AGPL license](https://img.shields.io/github/license/ToolJet/ToolJet)](https://github.com/ToolJet/ToolJet)",
+        "## License",
+        "ToolJet © 2023, ToolJet Solutions Inc - Released under the GNU Affero General Public License v3.0."
+      ],
+      "readmeUrl": "https://raw.githubusercontent.com/ToolJet/ToolJet/HEAD/README.md"
+    },
+    {
+      "name": "Budibase",
+      "url": "https://budibase.com",
+      "category": "在线工具与开源应用",
+      "kind": "homepage",
+      "repo": "Budibase/budibase",
+      "sourceType": "product",
+      "referenceUrl": "https://github.com/Budibase/budibase",
+      "checkedAt": "2026-10-19T14:32:34.212Z",
+      "readmeStatus": 200,
+      "matchingLinks": [
+        "https://www.budibase.com",
+        "https://budibase.com"
+      ],
+      "demoLinks": [
+        "https://res.cloudinary.com/daog6scxm/image/upload/v1775572268/github/Agent_preview.jpg"
+      ],
+      "licenseReferences": [
+        "## 📝 License",
+        "Budibase is open-source, licensed as [GPL v3](https://www.gnu.org/licenses/gpl-3.0.en.html). The client and component libraries are licensed as [MPL](https://directory.fsf.org/wiki/License:MPL-2.0) - so the apps you build can be licensed however you "
+      ],
+      "readmeUrl": "https://raw.githubusercontent.com/Budibase/budibase/HEAD/README.md"
+    },
+    {
+      "name": "NocoDB",
+      "url": "https://nocodb.com",
+      "category": "在线工具与开源应用",
+      "kind": "homepage",
+      "repo": "nocodb/nocodb",
+      "sourceType": "product",
+      "referenceUrl": "https://github.com/nocodb/nocodb",
+      "checkedAt": "2026-10-19T14:32:34.321Z",
+      "readmeStatus": 200,
+      "matchingLinks": [
+        "https://www.nocodb.com",
+        "http://www.nocodb.com",
+        "https://nocodb.com/docs/self-hosting"
+      ],
+      "demoLinks": [],
+      "licenseReferences": [
+        "# License",
+        "This project is licensed under <a href=\"./LICENSE.md\">Sustainable Use License</a>."
+      ],
+      "readmeUrl": "https://raw.githubusercontent.com/nocodb/nocodb/HEAD/README.md"
+    },
+    {
+      "name": "Baserow",
+      "url": "https://baserow.io",
+      "category": "在线工具与开源应用",
+      "kind": "homepage",
+      "repo": null,
+      "sourceType": "unknown"
+    },
+    {
+      "name": "ERPNext",
+      "url": "https://frappe.io/erpnext",
+      "category": "在线工具与开源应用",
+      "kind": "homepage",
+      "repo": "frappe/erpnext",
+      "sourceType": "product",
+      "referenceUrl": "https://github.com/frappe/erpnext",
+      "checkedAt": "2026-10-19T14:32:34.442Z",
+      "readmeStatus": 200,
+      "matchingLinks": [
+        "https://frappe.io/erpnext",
+        "https://frappe.io/files/try-on-fc-white.png",
+        "https://frappe.io/files/try-on-fc-black.png",
+        "https://frappe.io",
+        "https://frappe.io/files/Frappe-white.png",
+        "https://frappe.io/files/Frappe-black.png"
+      ],
+      "demoLinks": [
+        "https://erpnext-demo.frappe.cloud/api/method/erpnext_demo.erpnext_demo.auth.login_demo",
+        "https://erpnext-demo.frappe.cloud/app/home"
+      ],
+      "licenseReferences": [],
+      "readmeUrl": "https://raw.githubusercontent.com/frappe/erpnext/HEAD/README.md"
+    },
+    {
+      "name": "Odoo",
+      "url": "https://www.odoo.com",
+      "category": "在线工具与开源应用",
+      "kind": "homepage",
+      "repo": "odoo/odoo",
+      "sourceType": "product",
+      "referenceUrl": "https://github.com/odoo/odoo",
+      "checkedAt": "2026-10-19T14:32:34.458Z",
+      "readmeStatus": 200,
+      "matchingLinks": [
+        "https://www.odoo.com/documentation/master",
+        "https://www.odoo.com/forum/help-1",
+        "https://www.odoo.com/page/crm",
+        "https://www.odoo.com/app/website",
+        "https://www.odoo.com/app/ecommerce",
+        "https://www.odoo.com/app/inventory",
+        "https://www.odoo.com/app/project",
+        "https://www.odoo.com/app/accounting",
+        "https://www.odoo.com/app/point-of-sale-shop",
+        "https://www.odoo.com/app/employees",
+        "https://www.odoo.com/app/social-marketing",
+        "https://www.odoo.com/app/manufacturing",
+        "https://www.odoo.com/",
+        "https://www.odoo.com",
+        "https://www.odoo.com/documentation/master/administration/install/install.html"
+      ],
+      "demoLinks": [],
+      "licenseReferences": [],
+      "readmeUrl": "https://raw.githubusercontent.com/odoo/odoo/HEAD/README.md"
+    },
+    {
+      "name": "WebGL Fluid Simulation",
+      "url": "https://paveldogreat.github.io/WebGL-Fluid-Simulation",
+      "category": "交互实验与游戏",
+      "kind": "experiment",
+      "repo": "PavelDoGreat/WebGL-Fluid-Simulation",
+      "sourceType": "website",
+      "referenceUrl": "https://github.com/PavelDoGreat/WebGL-Fluid-Simulation",
+      "checkedAt": "2026-10-19T14:32:34.463Z",
+      "readmeStatus": 200,
+      "matchingLinks": [
+        "https://paveldogreat.github.io/WebGL-Fluid-Simulation/"
+      ],
+      "demoLinks": [
+        "https://paveldogreat.github.io/WebGL-Fluid-Simulation/"
+      ],
+      "licenseReferences": [
+        "## License",
+        "The code is available under the [MIT license](LICENSE)"
+      ],
+      "readmeUrl": "https://raw.githubusercontent.com/PavelDoGreat/WebGL-Fluid-Simulation/HEAD/README.md"
+    },
+    {
+      "name": "WebGL Water",
+      "url": "https://madebyevan.com/webgl-water",
+      "category": "交互实验与游戏",
+      "kind": "experiment",
+      "repo": "evanw/webgl-water",
+      "sourceType": "website",
+      "referenceUrl": "https://github.com/evanw/webgl-water",
+      "checkedAt": "2026-10-19T14:32:34.490Z",
+      "readmeStatus": 200,
+      "matchingLinks": [
+        "http://madebyevan.com/webgl-water/"
+      ],
+      "demoLinks": [],
+      "licenseReferences": [],
+      "readmeUrl": "https://raw.githubusercontent.com/evanw/webgl-water/HEAD/README.md"
+    },
+    {
+      "name": "The Book of Shaders",
+      "url": "https://thebookofshaders.com",
+      "category": "交互实验与游戏",
+      "kind": "experiment",
+      "repo": "patriciogonzalezvivo/thebookofshaders",
+      "sourceType": "website",
+      "referenceUrl": "https://github.com/patriciogonzalezvivo/thebookofshaders",
+      "checkedAt": "2026-10-19T14:32:34.523Z",
+      "readmeStatus": 200,
+      "matchingLinks": [
+        "https://thebookofshaders.com/appendix/02/"
+      ],
+      "demoLinks": [],
+      "licenseReferences": [
+        "## LICENSE"
+      ],
+      "readmeUrl": "https://raw.githubusercontent.com/patriciogonzalezvivo/thebookofshaders/HEAD/README.md"
+    },
+    {
+      "name": "Shadertoy",
+      "url": "https://www.shadertoy.com",
+      "category": "交互实验与游戏",
+      "kind": "collection",
+      "repo": null,
+      "sourceType": "unknown"
+    },
+    {
+      "name": "p5.js Examples",
+      "url": "https://p5js.org/examples",
+      "category": "交互实验与游戏",
+      "kind": "experiment",
+      "repo": "processing/p5.js",
+      "sourceType": "product",
+      "referenceUrl": "https://github.com/processing/p5.js",
+      "checkedAt": "2026-10-19T14:32:34.654Z",
+      "readmeStatus": 200,
+      "matchingLinks": [
+        "https://p5js.org",
+        "https://p5js.org/contribute/access",
+        "https://p5js.org/tutorials/get-started/",
+        "https://p5js.org/reference",
+        "https://p5js.org/tutorials",
+        "https://p5js.org/examples/",
+        "https://p5js.org/libraries",
+        "https://p5js.org/community",
+        "https://p5js.org/reference/",
+        "https://p5js.org/tutorials/",
+        "https://p5js.org/libraries/",
+        "https://p5js.org/community/",
+        "https://p5js.org/contribute/contributor_guidelines",
+        "https://p5js.org/contribute",
+        "https://p5js.org/contribute/contributor_guidelines/#quick-get-started-for-developers"
+      ],
+      "demoLinks": [],
+      "licenseReferences": [],
+      "readmeUrl": "https://raw.githubusercontent.com/processing/p5.js/HEAD/README.md"
+    },
+    {
+      "name": "Hydra",
+      "url": "https://hydra.ojack.xyz",
+      "category": "交互实验与游戏",
+      "kind": "experiment",
+      "repo": "hydra-synth/hydra",
+      "sourceType": "website",
+      "referenceUrl": "https://github.com/hydra-synth/hydra",
+      "checkedAt": "2026-10-19T14:32:34.786Z",
+      "readmeStatus": 200,
+      "matchingLinks": [
+        "https://hydra.ojack.xyz"
+      ],
+      "demoLinks": [
+        "https://kynd.github.io/reactive_buffers_experiment/"
+      ],
+      "licenseReferences": [],
+      "readmeUrl": "https://raw.githubusercontent.com/hydra-synth/hydra/HEAD/README.md"
+    },
+    {
+      "name": "Patatap",
+      "url": "https://patatap.com",
+      "category": "交互实验与游戏",
+      "kind": "experiment",
+      "repo": null,
+      "sourceType": "unknown"
+    },
+    {
+      "name": "Chrome Music Lab",
+      "url": "https://musiclab.chromeexperiments.com",
+      "category": "交互实验与游戏",
+      "kind": "experiment",
+      "repo": "googlecreativelab/chrome-music-lab",
+      "sourceType": "product",
+      "referenceUrl": "https://github.com/googlecreativelab/chrome-music-lab",
+      "checkedAt": "2026-10-19T14:32:34.801Z",
+      "readmeStatus": 200,
+      "matchingLinks": [
+        "https://musiclab.chromeexperiments.com"
+      ],
+      "demoLinks": [],
+      "licenseReferences": [],
+      "readmeUrl": "https://raw.githubusercontent.com/googlecreativelab/chrome-music-lab/HEAD/README.md"
+    },
+    {
+      "name": "Chrome Music Lab Song Maker",
+      "url": "https://musiclab.chromeexperiments.com/Song-Maker",
+      "category": "交互实验与游戏",
+      "kind": "experiment",
+      "repo": null,
+      "sourceType": "unknown"
+    },
+    {
+      "name": "2048",
+      "url": "https://play2048.co",
+      "category": "交互实验与游戏",
+      "kind": "experiment",
+      "repo": "gabrielecirulli/2048",
+      "sourceType": "website",
+      "referenceUrl": "https://github.com/gabrielecirulli/2048",
+      "checkedAt": "2026-10-19T14:32:34.805Z",
+      "readmeStatus": 200,
+      "matchingLinks": [],
+      "demoLinks": [
+        "http://gabrielecirulli.github.io/2048/"
+      ],
+      "licenseReferences": [
+        "## License",
+        "2048 is licensed under the [MIT license.](https://github.com/gabrielecirulli/2048/blob/master/LICENSE.txt)"
+      ],
+      "readmeUrl": "https://raw.githubusercontent.com/gabrielecirulli/2048/HEAD/README.md"
+    },
+    {
+      "name": "Hextris",
+      "url": "https://hextris.io",
+      "category": "交互实验与游戏",
+      "kind": "experiment",
+      "repo": "Hextris/hextris",
+      "sourceType": "website",
+      "referenceUrl": "https://github.com/Hextris/hextris",
+      "checkedAt": "2026-10-19T14:32:34.811Z",
+      "readmeStatus": 200,
+      "matchingLinks": [
+        "http://www.hextris.io"
+      ],
+      "demoLinks": [
+        "https://hextris.github.io/hextris",
+        "http://hextris.github.io/presskit/info.html"
+      ],
+      "licenseReferences": [
+        "## License",
+        "it under the terms of the GNU General Public License as published by",
+        "the Free Software Foundation, either version 3 of the License, or"
+      ],
+      "readmeUrl": "https://raw.githubusercontent.com/Hextris/hextris/HEAD/README.md"
+    },
+    {
+      "name": "Sandspiel",
+      "url": "https://sandspiel.club",
+      "category": "交互实验与游戏",
+      "kind": "experiment",
+      "repo": "MaxBittker/sandspiel",
+      "sourceType": "website",
+      "referenceUrl": "https://github.com/MaxBittker/sandspiel",
+      "checkedAt": "2026-10-19T14:32:34.889Z",
+      "readmeStatus": 200,
+      "matchingLinks": [
+        "https://sandspiel.club"
+      ],
+      "demoLinks": [],
+      "licenseReferences": [],
+      "readmeUrl": "https://raw.githubusercontent.com/MaxBittker/sandspiel/HEAD/README.md"
+    },
+    {
+      "name": "Little Alchemy 2",
+      "url": "https://littlealchemy2.com",
+      "category": "交互实验与游戏",
+      "kind": "experiment",
+      "repo": null,
+      "sourceType": "unknown"
+    },
+    {
+      "name": "Nicky Case",
+      "url": "https://ncase.me",
+      "category": "交互实验与游戏",
+      "kind": "collection",
+      "repo": "ncase/ncase.github.io",
+      "sourceType": "website",
+      "referenceUrl": "https://github.com/ncase/ncase.github.io",
+      "checkedAt": "2026-10-19T14:32:34.978Z",
+      "readmeStatus": 200,
+      "matchingLinks": [
+        "http://ncase.me"
+      ],
+      "demoLinks": [],
+      "licenseReferences": [],
+      "readmeUrl": "https://raw.githubusercontent.com/ncase/ncase.github.io/HEAD/README.md"
+    },
+    {
+      "name": "The Evolution of Trust",
+      "url": "https://ncase.me/trust",
+      "category": "交互实验与游戏",
+      "kind": "experiment",
+      "repo": "ncase/trust",
+      "sourceType": "website",
+      "referenceUrl": "https://github.com/ncase/trust",
+      "checkedAt": "2026-10-19T14:32:35.098Z",
+      "readmeStatus": 200,
+      "matchingLinks": [
+        "http://ncase.me/trust/",
+        "http://ncase.me/trust-hu/",
+        "http://ncase.me/trust-bg/",
+        "http://ncase.me/trust-et/"
+      ],
+      "demoLinks": [
+        "https://kazzkiq.github.io/balloon.css/",
+        "https://htlife.github.io/trust_jp/",
+        "https://audreyt.github.io/trust-zh-TW/",
+        "https://brunolemos.github.io/trust/",
+        "https://ayowel.github.io/trust/",
+        "https://ccamara.github.io/trust/",
+        "https://maeriens.github.io/trust/",
+        "https://notdotteam.github.io/trust/",
+        "https://jkoelling.github.io/trust/",
+        "https://lvdt.github.io/trust/",
+        "https://osaatcioglu.github.io/trust",
+        "https://sin.github.io/trust/"
+      ],
+      "licenseReferences": [
+        "#\t\"LICENSE\"",
+        "[Creative Commons Zero](https://github.com/ncase/trust/blob/gh-pages/LICENSE): it's a public domain dedication, so basically, do whatever you want! Attribution is super appreciated, but I'm not gonna send legal goons after you or anything."
+      ],
+      "readmeUrl": "https://raw.githubusercontent.com/ncase/trust/HEAD/README.md"
+    },
+    {
+      "name": "LOOPY",
+      "url": "https://ncase.me/loopy",
+      "category": "交互实验与游戏",
+      "kind": "experiment",
+      "repo": "ncase/loopy",
+      "sourceType": "website",
+      "referenceUrl": "https://github.com/ncase/loopy",
+      "checkedAt": "2026-10-19T14:32:35.118Z",
+      "readmeStatus": 200,
+      "matchingLinks": [
+        "http://ncase.me/loopy/",
+        "http://ncase.me/loopy/v1.1/pages/examples"
+      ],
+      "demoLinks": [
+        "https://kazzkiq.github.io/balloon.css/"
+      ],
+      "licenseReferences": [],
+      "readmeUrl": "https://raw.githubusercontent.com/ncase/loopy/HEAD/README.md"
+    },
+    {
+      "name": "Neal.fun",
+      "url": "https://neal.fun",
+      "category": "交互实验与游戏",
+      "kind": "collection",
+      "repo": null,
+      "sourceType": "unknown"
+    },
+    {
+      "name": "Red Blob Games",
+      "url": "https://www.redblobgames.com",
+      "category": "交互实验与游戏",
+      "kind": "experiment",
+      "repo": null,
+      "sourceType": "unknown"
+    },
+    {
+      "name": "NASA",
+      "url": "https://www.nasa.gov",
+      "category": "文化与公共服务",
+      "kind": "homepage",
+      "repo": null,
+      "sourceType": "unknown"
+    },
+    {
+      "name": "European Space Agency",
+      "url": "https://www.esa.int",
+      "category": "文化与公共服务",
+      "kind": "homepage",
+      "repo": null,
+      "sourceType": "unknown"
+    },
+    {
+      "name": "CERN",
+      "url": "https://home.cern",
+      "category": "文化与公共服务",
+      "kind": "homepage",
+      "repo": null,
+      "sourceType": "unknown"
+    },
+    {
+      "name": "Smithsonian",
+      "url": "https://www.si.edu",
+      "category": "文化与公共服务",
+      "kind": "homepage",
+      "repo": null,
+      "sourceType": "unknown"
+    },
+    {
+      "name": "Rijksmuseum",
+      "url": "https://www.rijksmuseum.nl/en",
+      "category": "文化与公共服务",
+      "kind": "homepage",
+      "repo": null,
+      "sourceType": "unknown"
+    },
+    {
+      "name": "The Met",
+      "url": "https://www.metmuseum.org",
+      "category": "文化与公共服务",
+      "kind": "homepage",
+      "repo": null,
+      "sourceType": "unknown"
+    },
+    {
+      "name": "Victoria and Albert Museum",
+      "url": "https://www.vam.ac.uk",
+      "category": "文化与公共服务",
+      "kind": "homepage",
+      "repo": null,
+      "sourceType": "unknown"
+    },
+    {
+      "name": "GOV.UK",
+      "url": "https://www.gov.uk",
+      "category": "文化与公共服务",
+      "kind": "homepage",
+      "repo": null,
+      "sourceType": "unknown"
+    },
+    {
+      "name": "Internet Archive",
+      "url": "https://archive.org",
+      "category": "文化与公共服务",
+      "kind": "homepage",
+      "repo": null,
+      "sourceType": "unknown"
+    },
+    {
+      "name": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org",
+      "category": "文化与公共服务",
+      "kind": "homepage",
+      "repo": null,
+      "sourceType": "unknown"
+    },
+    {
+      "name": "Airbnb",
+      "url": "https://www.airbnb.com",
+      "category": "商业与生活方式",
+      "kind": "homepage",
+      "repo": null,
+      "sourceType": "unknown"
+    },
+    {
+      "name": "Booking.com",
+      "url": "https://www.booking.com",
+      "category": "商业与生活方式",
+      "kind": "homepage",
+      "repo": null,
+      "sourceType": "unknown"
+    },
+    {
+      "name": "Patagonia",
+      "url": "https://www.patagonia.com",
+      "category": "商业与生活方式",
+      "kind": "homepage",
+      "repo": null,
+      "sourceType": "unknown"
+    },
+    {
+      "name": "Aesop",
+      "url": "https://www.aesop.com",
+      "category": "商业与生活方式",
+      "kind": "homepage",
+      "repo": null,
+      "sourceType": "unknown"
+    },
+    {
+      "name": "MUJI",
+      "url": "https://www.muji.com",
+      "category": "商业与生活方式",
+      "kind": "homepage",
+      "repo": null,
+      "sourceType": "unknown"
+    },
+    {
+      "name": "IKEA",
+      "url": "https://www.ikea.com",
+      "category": "商业与生活方式",
+      "kind": "homepage",
+      "repo": null,
+      "sourceType": "unknown"
+    },
+    {
+      "name": "Spotify",
+      "url": "https://www.spotify.com",
+      "category": "商业与生活方式",
+      "kind": "homepage",
+      "repo": null,
+      "sourceType": "unknown"
+    },
+    {
+      "name": "Wise",
+      "url": "https://wise.com",
+      "category": "商业与生活方式",
+      "kind": "homepage",
+      "repo": null,
+      "sourceType": "unknown"
+    },
+    {
+      "name": "Revolut",
+      "url": "https://www.revolut.com",
+      "category": "商业与生活方式",
+      "kind": "homepage",
+      "repo": null,
+      "sourceType": "unknown"
+    },
+    {
+      "name": "Headspace",
+      "url": "https://www.headspace.com",
+      "category": "商业与生活方式",
+      "kind": "homepage",
+      "repo": null,
+      "sourceType": "unknown"
+    }
+  ]
+}

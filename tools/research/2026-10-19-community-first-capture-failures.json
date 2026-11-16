@@ -1,0 +1,47 @@
+[
+  {
+    "site": "AdminLTE Demo",
+    "url": "https://adminlte.io/themes/v3",
+    "error": "Page.captureScreenshot timed out"
+  },
+  {
+    "site": "shadcn Admin",
+    "url": "https://shadcn-admin.netlify.app",
+    "error": "截图过小，可能未渲染"
+  },
+  {
+    "site": "Scalar",
+    "url": "https://scalar.com",
+    "error": "Page.captureScreenshot timed out"
+  },
+  {
+    "site": "diagrams.net",
+    "url": "https://app.diagrams.net",
+    "error": "截图过小，可能未渲染"
+  },
+  {
+    "site": "CyberChef",
+    "url": "https://gchq.github.io/CyberChef",
+    "error": "截图过小，可能未渲染"
+  },
+  {
+    "site": "Regex101",
+    "url": "https://regex101.com",
+    "error": "截图过小，可能未渲染"
+  },
+  {
+    "site": "Odoo",
+    "url": "https://www.odoo.com",
+    "error": "网页访问受限/验证码"
+  },
+  {
+    "site": "Patatap",
+    "url": "https://patatap.com",
+    "error": "截图过小，可能未渲染"
+  },
+  {
+    "site": "MUJI",
+    "url": "https://www.muji.com",
+    "error": "net::ERR_HTTP2_PROTOCOL_ERROR"
+  }
+]

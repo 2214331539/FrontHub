@@ -1,0 +1,1909 @@
+{
+  "todoist_com": {
+    "addedAt": "2026-10-19",
+    "reviewedAt": "2026-10-19",
+    "referenceUrl": "https://www.todoist.com/"
+  },
+  "superlist_com": {
+    "addedAt": "2026-10-19",
+    "reviewedAt": "2026-10-19",
+    "referenceUrl": "https://www.superlist.com/"
+  },
+  "sunsama_com": {
+    "addedAt": "2026-10-19",
+    "reviewedAt": "2026-10-19",
+    "referenceUrl": "https://www.sunsama.com/"
+  },
+  "akiflow_com": {
+    "addedAt": "2026-10-19",
+    "reviewedAt": "2026-10-19",
+    "referenceUrl": "https://akiflow.com/"
+  },
+  "routine_co": {
+    "addedAt": "2026-10-19",
+    "reviewedAt": "2026-10-19",
+    "referenceUrl": "https://routine.co/"
+  },
+  "morgen_so": {
+    "addedAt": "2026-10-19",
+    "reviewedAt": "2026-10-19",
+    "referenceUrl": "https://www.morgen.so/"
+  },
+  "amie_so": {
+    "addedAt": "2026-10-19",
+    "reviewedAt": "2026-10-19",
+    "referenceUrl": "https://amie.so/"
+  },
+  "goodnotes_com": {
+    "addedAt": "2026-10-19",
+    "reviewedAt": "2026-10-19",
+    "referenceUrl": "https://www.goodnotes.com/"
+  },
+  "notability_com": {
+    "addedAt": "2026-10-19",
+    "reviewedAt": "2026-10-19",
+    "referenceUrl": "https://notability.com/"
+  },
+  "fabric_so": {
+    "addedAt": "2026-10-19",
+    "reviewedAt": "2026-10-19",
+    "referenceUrl": "https://fabric.so/"
+  },
+  "wisprflow_ai": {
+    "addedAt": "2026-10-19",
+    "reviewedAt": "2026-10-19",
+    "referenceUrl": "https://wisprflow.ai/"
+  },
+  "base44_com": {
+    "addedAt": "2026-10-19",
+    "reviewedAt": "2026-10-19",
+    "referenceUrl": "https://base44.com/"
+  },
+  "tavus_io": {
+    "addedAt": "2026-10-19",
+    "reviewedAt": "2026-10-19",
+    "referenceUrl": "https://www.tavus.io/"
+  },
+  "hebbia_com": {
+    "addedAt": "2026-10-19",
+    "reviewedAt": "2026-10-19",
+    "referenceUrl": "https://www.hebbia.com/"
+  },
+  "netlify_com": {
+    "addedAt": "2026-10-19",
+    "reviewedAt": "2026-10-19",
+    "referenceUrl": "https://www.netlify.com/"
+  },
+  "vite_dev": {
+    "addedAt": "2026-10-19",
+    "reviewedAt": "2026-10-19",
+    "referenceUrl": "https://vite.dev/",
+    "kind": "docs"
+  },
+  "react_dev": {
+    "addedAt": "2026-10-19",
+    "reviewedAt": "2026-10-19",
+    "referenceUrl": "https://react.dev/",
+    "kind": "docs"
+  },
+  "vuejs_org": {
+    "addedAt": "2026-10-19",
+    "reviewedAt": "2026-10-19",
+    "referenceUrl": "https://vuejs.org/",
+    "kind": "docs"
+  },
+  "gsap_com": {
+    "addedAt": "2026-10-19",
+    "reviewedAt": "2026-10-19",
+    "referenceUrl": "https://gsap.com/",
+    "kind": "docs"
+  },
+  "motion_dev": {
+    "addedAt": "2026-10-19",
+    "reviewedAt": "2026-10-19",
+    "referenceUrl": "https://motion.dev/",
+    "kind": "docs"
+  },
+  "threejs_org": {
+    "addedAt": "2026-10-19",
+    "reviewedAt": "2026-10-19",
+    "referenceUrl": "https://threejs.org/",
+    "kind": "visualization"
+  },
+  "babylonjs_com": {
+    "addedAt": "2026-10-19",
+    "reviewedAt": "2026-10-19",
+    "referenceUrl": "https://babylonjs.com/",
+    "kind": "visualization"
+  },
+  "rspack_rs": {
+    "addedAt": "2026-10-19",
+    "reviewedAt": "2026-10-19",
+    "referenceUrl": "https://rspack.rs/",
+    "kind": "docs"
+  },
+  "rsbuild_rs": {
+    "addedAt": "2026-10-19",
+    "reviewedAt": "2026-10-19",
+    "referenceUrl": "https://rsbuild.rs/",
+    "kind": "docs"
+  },
+  "tanstack_com": {
+    "addedAt": "2026-10-19",
+    "reviewedAt": "2026-10-19",
+    "referenceUrl": "https://tanstack.com/",
+    "kind": "docs"
+  },
+  "hono_dev": {
+    "addedAt": "2026-10-19",
+    "reviewedAt": "2026-10-19",
+    "referenceUrl": "https://hono.dev/",
+    "kind": "docs"
+  },
+  "elysiajs_com": {
+    "addedAt": "2026-10-19",
+    "reviewedAt": "2026-10-19",
+    "referenceUrl": "https://elysiajs.com/",
+    "kind": "docs"
+  },
+  "orm_drizzle_team": {
+    "addedAt": "2026-10-19",
+    "reviewedAt": "2026-10-19",
+    "referenceUrl": "https://orm.drizzle.team/",
+    "kind": "docs"
+  },
+  "prisma_io": {
+    "addedAt": "2026-10-19",
+    "reviewedAt": "2026-10-19",
+    "referenceUrl": "https://www.prisma.io/",
+    "kind": "docs"
+  },
+  "appwrite_io": {
+    "addedAt": "2026-10-19",
+    "reviewedAt": "2026-10-19",
+    "referenceUrl": "https://appwrite.io/"
+  },
+  "pocketbase_io": {
+    "addedAt": "2026-10-19",
+    "reviewedAt": "2026-10-19",
+    "referenceUrl": "https://pocketbase.io/"
+  },
+  "storyblok_com": {
+    "addedAt": "2026-10-19",
+    "reviewedAt": "2026-10-19",
+    "referenceUrl": "https://www.storyblok.com/"
+  },
+  "prismic_io": {
+    "addedAt": "2026-10-19",
+    "reviewedAt": "2026-10-19",
+    "referenceUrl": "https://prismic.io/"
+  },
+  "datocms_com": {
+    "addedAt": "2026-10-19",
+    "reviewedAt": "2026-10-19",
+    "referenceUrl": "https://www.datocms.com/"
+  },
+  "mintlify_com": {
+    "addedAt": "2026-10-19",
+    "reviewedAt": "2026-10-19",
+    "referenceUrl": "https://www.mintlify.com/"
+  },
+  "starlight_astro_build": {
+    "addedAt": "2026-10-19",
+    "reviewedAt": "2026-10-19",
+    "referenceUrl": "https://starlight.astro.build/",
+    "kind": "docs"
+  },
+  "docusaurus_io": {
+    "addedAt": "2026-10-19",
+    "reviewedAt": "2026-10-19",
+    "referenceUrl": "https://docusaurus.io/",
+    "kind": "docs"
+  },
+  "browserbase_com": {
+    "addedAt": "2026-10-19",
+    "reviewedAt": "2026-10-19",
+    "referenceUrl": "https://www.browserbase.com/"
+  },
+  "steel_dev": {
+    "addedAt": "2026-10-19",
+    "reviewedAt": "2026-10-19",
+    "referenceUrl": "https://steel.dev/"
+  },
+  "firecrawl_dev": {
+    "addedAt": "2026-10-19",
+    "reviewedAt": "2026-10-19",
+    "referenceUrl": "https://www.firecrawl.dev/"
+  },
+  "inertiajs_com": {
+    "addedAt": "2026-10-19",
+    "reviewedAt": "2026-10-19",
+    "referenceUrl": "https://inertiajs.com/",
+    "kind": "docs"
+  },
+  "lusion_co": {
+    "addedAt": "2026-10-19",
+    "reviewedAt": "2026-10-19",
+    "referenceUrl": "https://lusion.co/"
+  },
+  "activetheory_net": {
+    "addedAt": "2026-10-19",
+    "reviewedAt": "2026-10-19",
+    "referenceUrl": "https://activetheory.net/"
+  },
+  "locomotive_ca_en": {
+    "addedAt": "2026-10-19",
+    "reviewedAt": "2026-10-19",
+    "referenceUrl": "https://locomotive.ca/en"
+  },
+  "resn_co_nz": {
+    "addedAt": "2026-10-19",
+    "reviewedAt": "2026-10-19",
+    "referenceUrl": "https://resn.co.nz/"
+  },
+  "dogstudio_co": {
+    "addedAt": "2026-10-19",
+    "reviewedAt": "2026-10-19",
+    "referenceUrl": "https://dogstudio.co/"
+  },
+  "immersive-g_com": {
+    "addedAt": "2026-10-19",
+    "reviewedAt": "2026-10-19",
+    "referenceUrl": "https://immersive-g.com/"
+  },
+  "unseen_co": {
+    "addedAt": "2026-10-19",
+    "reviewedAt": "2026-10-19",
+    "referenceUrl": "https://unseen.co/"
+  },
+  "instrument_com": {
+    "addedAt": "2026-10-19",
+    "reviewedAt": "2026-10-19",
+    "referenceUrl": "https://www.instrument.com/"
+  },
+  "koto_com": {
+    "addedAt": "2026-10-19",
+    "reviewedAt": "2026-10-19",
+    "referenceUrl": "https://koto.com/"
+  },
+  "pentagram_com": {
+    "addedAt": "2026-10-19",
+    "reviewedAt": "2026-10-19",
+    "referenceUrl": "https://www.pentagram.com/"
+  },
+  "studiofreight_com": {
+    "addedAt": "2026-10-19",
+    "reviewedAt": "2026-10-19",
+    "referenceUrl": "https://studiofreight.com/"
+  },
+  "basicagency_com": {
+    "addedAt": "2026-10-19",
+    "reviewedAt": "2026-10-19",
+    "referenceUrl": "https://www.basicagency.com/"
+  },
+  "how_studio": {
+    "addedAt": "2026-10-19",
+    "reviewedAt": "2026-10-19",
+    "referenceUrl": "https://how.studio/"
+  },
+  "work_co": {
+    "addedAt": "2026-10-19",
+    "reviewedAt": "2026-10-19",
+    "referenceUrl": "https://work.co/"
+  },
+  "buck_co": {
+    "addedAt": "2026-10-19",
+    "reviewedAt": "2026-10-19",
+    "referenceUrl": "https://buck.co/"
+  },
+  "area17_com": {
+    "addedAt": "2026-10-19",
+    "reviewedAt": "2026-10-19",
+    "referenceUrl": "https://area17.com/"
+  },
+  "pangrampangram_com": {
+    "addedAt": "2026-10-19",
+    "reviewedAt": "2026-10-19",
+    "referenceUrl": "https://pangrampangram.com/"
+  },
+  "grillitype_com": {
+    "addedAt": "2026-10-19",
+    "reviewedAt": "2026-10-19",
+    "referenceUrl": "https://www.grillitype.com/"
+  },
+  "abcdinamo_com": {
+    "addedAt": "2026-10-19",
+    "reviewedAt": "2026-10-19",
+    "referenceUrl": "https://abcdinamo.com/"
+  },
+  "linearity_io": {
+    "addedAt": "2026-10-19",
+    "reviewedAt": "2026-10-19",
+    "referenceUrl": "https://www.linearity.io/"
+  },
+  "penpot_app": {
+    "addedAt": "2026-10-19",
+    "reviewedAt": "2026-10-19",
+    "referenceUrl": "https://penpot.app/"
+  },
+  "sketch_com": {
+    "addedAt": "2026-10-19",
+    "reviewedAt": "2026-10-19",
+    "referenceUrl": "https://www.sketch.com/"
+  },
+  "semplice_com": {
+    "addedAt": "2026-10-19",
+    "reviewedAt": "2026-10-19",
+    "referenceUrl": "https://www.semplice.com/"
+  },
+  "front_com": {
+    "addedAt": "2026-10-19",
+    "reviewedAt": "2026-10-19",
+    "referenceUrl": "https://front.com/"
+  },
+  "helpscout_com": {
+    "addedAt": "2026-10-19",
+    "reviewedAt": "2026-10-19",
+    "referenceUrl": "https://www.helpscout.com/"
+  },
+  "crisp_chat_en": {
+    "addedAt": "2026-10-19",
+    "reviewedAt": "2026-10-19",
+    "referenceUrl": "https://crisp.chat/en/"
+  },
+  "customer_io": {
+    "addedAt": "2026-10-19",
+    "reviewedAt": "2026-10-19",
+    "referenceUrl": "https://customer.io/"
+  },
+  "loops_so": {
+    "addedAt": "2026-10-19",
+    "reviewedAt": "2026-10-19",
+    "referenceUrl": "https://loops.so/"
+  },
+  "mixpanel_com_home": {
+    "addedAt": "2026-10-19",
+    "reviewedAt": "2026-10-19",
+    "referenceUrl": "https://mixpanel.com/home/"
+  },
+  "amplitude_com": {
+    "addedAt": "2026-10-19",
+    "reviewedAt": "2026-10-19",
+    "referenceUrl": "https://amplitude.com/"
+  },
+  "metaview_ai": {
+    "addedAt": "2026-10-19",
+    "reviewedAt": "2026-10-19",
+    "referenceUrl": "https://www.metaview.ai/"
+  },
+  "clay_com": {
+    "addedAt": "2026-10-19",
+    "reviewedAt": "2026-10-19",
+    "referenceUrl": "https://www.clay.com/"
+  },
+  "dovetail_com": {
+    "addedAt": "2026-10-19",
+    "reviewedAt": "2026-10-19",
+    "referenceUrl": "https://dovetail.com/"
+  },
+  "maze_co": {
+    "addedAt": "2026-10-19",
+    "reviewedAt": "2026-10-19",
+    "referenceUrl": "https://maze.co/"
+  },
+  "equals_com": {
+    "addedAt": "2026-10-19",
+    "reviewedAt": "2026-10-19",
+    "referenceUrl": "https://equals.com/"
+  },
+  "incident_io": {
+    "addedAt": "2026-10-19",
+    "reviewedAt": "2026-10-19",
+    "referenceUrl": "https://incident.io/"
+  },
+  "1password_com": {
+    "addedAt": "2026-10-19",
+    "reviewedAt": "2026-10-19",
+    "referenceUrl": "https://1password.com/"
+  },
+  "frontendmentor_io": {
+    "addedAt": "2026-10-19",
+    "reviewedAt": "2026-10-19",
+    "referenceUrl": "https://www.frontendmentor.io/"
+  },
+  "master_dev": {
+    "addedAt": "2026-10-19",
+    "reviewedAt": "2026-10-19",
+    "referenceUrl": "https://master.dev/"
+  },
+  "scrimba_com": {
+    "addedAt": "2026-10-19",
+    "reviewedAt": "2026-10-19",
+    "referenceUrl": "https://scrimba.com/"
+  },
+  "exercism_org": {
+    "addedAt": "2026-10-19",
+    "reviewedAt": "2026-10-19",
+    "referenceUrl": "https://exercism.org/"
+  },
+  "web_dev": {
+    "addedAt": "2026-10-19",
+    "reviewedAt": "2026-10-19",
+    "referenceUrl": "https://web.dev/?hl=de",
+    "kind": "docs"
+  },
+  "css-for-js_dev": {
+    "addedAt": "2026-10-19",
+    "reviewedAt": "2026-10-19",
+    "referenceUrl": "https://css-for-js.dev/"
+  },
+  "ouraring_com": {
+    "addedAt": "2026-10-19",
+    "reviewedAt": "2026-10-19",
+    "referenceUrl": "https://ouraring.com/"
+  },
+  "eightsleep_com": {
+    "addedAt": "2026-10-19",
+    "reviewedAt": "2026-10-19",
+    "referenceUrl": "https://www.eightsleep.com/"
+  },
+  "fellowproducts_com": {
+    "addedAt": "2026-10-19",
+    "reviewedAt": "2026-10-19",
+    "referenceUrl": "https://fellowproducts.com/"
+  },
+  "rivian_com": {
+    "addedAt": "2026-10-19",
+    "reviewedAt": "2026-10-19",
+    "referenceUrl": "https://rivian.com/"
+  },
+  "polestar_com_us": {
+    "addedAt": "2026-10-19",
+    "reviewedAt": "2026-10-19",
+    "referenceUrl": "https://www.polestar.com/us/"
+  },
+  "op_al": {
+    "addedAt": "2026-10-19",
+    "reviewedAt": "2026-10-19",
+    "referenceUrl": "https://op.al/"
+  },
+  "ghost_org": {
+    "addedAt": "2026-10-19",
+    "reviewedAt": "2026-10-19",
+    "referenceUrl": "https://ghost.org/"
+  },
+  "beehiiv_com": {
+    "addedAt": "2026-10-19",
+    "reviewedAt": "2026-10-19",
+    "referenceUrl": "https://www.beehiiv.com/"
+  },
+  "kit_com": {
+    "addedAt": "2026-10-19",
+    "reviewedAt": "2026-10-19",
+    "referenceUrl": "https://kit.com/"
+  },
+  "fathom_ai": {
+    "addedAt": "2026-10-19",
+    "reviewedAt": "2026-10-19",
+    "referenceUrl": "https://www.fathom.ai/"
+  },
+  "typeform_com": {
+    "addedAt": "2026-10-19",
+    "reviewedAt": "2026-10-19",
+    "referenceUrl": "https://www.typeform.com/"
+  },
+  "linear_vc": {
+    "addedAt": "2026-10-19",
+    "reviewedAt": "2026-10-19",
+    "referenceUrl": "https://www.linear.vc/"
+  },
+  "luxcapital_com": {
+    "addedAt": "2026-10-19",
+    "reviewedAt": "2026-10-19",
+    "referenceUrl": "https://www.luxcapital.com/"
+  },
+  "firstround_com": {
+    "addedAt": "2026-10-19",
+    "reviewedAt": "2026-10-19",
+    "referenceUrl": "https://www.firstround.com/"
+  },
+  "bestsaaswebdesigns_com": {
+    "addedAt": "2026-10-19",
+    "reviewedAt": "2026-10-19",
+    "referenceUrl": "https://bestsaaswebdesigns.com/",
+    "kind": "collection"
+  },
+  "httpster_net": {
+    "addedAt": "2026-10-19",
+    "reviewedAt": "2026-10-19",
+    "referenceUrl": "https://httpster.net/",
+    "kind": "collection"
+  },
+  "preview_tabler_io": {
+    "addedAt": "2026-10-19T14:35:54+00:00",
+    "reviewedAt": "2026-10-19",
+    "batchId": "2026-10-19-community",
+    "kind": "template",
+    "referenceUrl": "https://github.com/tabler/tabler",
+    "source": {
+      "type": "website",
+      "url": "https://github.com/tabler/tabler"
+    }
+  },
+  "adminlte_io_themes_v3": {
+    "addedAt": "2026-10-19T14:35:54+00:00",
+    "reviewedAt": "2026-10-19",
+    "batchId": "2026-10-19-community",
+    "kind": "template",
+    "referenceUrl": "https://github.com/ColorlibHQ/AdminLTE",
+    "source": {
+      "type": "website",
+      "url": "https://github.com/ColorlibHQ/AdminLTE"
+    }
+  },
+  "coreui_io_demos_bootstrap_5_0_free": {
+    "addedAt": "2026-10-19T14:35:54+00:00",
+    "reviewedAt": "2026-10-19",
+    "batchId": "2026-10-19-community",
+    "kind": "template",
+    "referenceUrl": "https://github.com/coreui/coreui-free-bootstrap-admin-template",
+    "source": {
+      "type": "website",
+      "url": "https://github.com/coreui/coreui-free-bootstrap-admin-template"
+    }
+  },
+  "startbootstrap_github_io_startbootstrap-sb-admin-2": {
+    "addedAt": "2026-10-19T14:35:54+00:00",
+    "reviewedAt": "2026-10-19",
+    "batchId": "2026-10-19-community",
+    "kind": "template",
+    "referenceUrl": "https://github.com/StartBootstrap/startbootstrap-sb-admin-2",
+    "source": {
+      "type": "website",
+      "url": "https://github.com/StartBootstrap/startbootstrap-sb-admin-2"
+    }
+  },
+  "demos_themeselection_com_sneat-bootstrap-html-admin-template-free_html": {
+    "addedAt": "2026-10-19T14:35:54+00:00",
+    "reviewedAt": "2026-10-19",
+    "batchId": "2026-10-19-community",
+    "kind": "template",
+    "referenceUrl": "https://github.com/themeselection/sneat-bootstrap-html-admin-template-free",
+    "source": {
+      "type": "website",
+      "url": "https://github.com/themeselection/sneat-bootstrap-html-admin-template-free"
+    }
+  },
+  "panjiachen_github_io_vue-element-admin": {
+    "addedAt": "2026-10-19T14:35:54+00:00",
+    "reviewedAt": "2026-10-19",
+    "batchId": "2026-10-19-community",
+    "kind": "template",
+    "referenceUrl": "https://github.com/PanJiaChen/vue-element-admin",
+    "source": {
+      "type": "website",
+      "url": "https://github.com/PanJiaChen/vue-element-admin"
+    }
+  },
+  "preview_pro_ant_design": {
+    "addedAt": "2026-10-19T14:35:54+00:00",
+    "reviewedAt": "2026-10-19",
+    "batchId": "2026-10-19-community",
+    "kind": "template",
+    "referenceUrl": "https://github.com/ant-design/ant-design-pro",
+    "source": {
+      "type": "website",
+      "url": "https://github.com/ant-design/ant-design-pro"
+    }
+  },
+  "naive_soybeanjs_cn": {
+    "addedAt": "2026-10-19T14:35:54+00:00",
+    "reviewedAt": "2026-10-19",
+    "batchId": "2026-10-19-community",
+    "kind": "template",
+    "referenceUrl": "https://github.com/soybeanjs/soybean-admin",
+    "source": {
+      "type": "website",
+      "url": "https://github.com/soybeanjs/soybean-admin"
+    }
+  },
+  "www_vben_pro": {
+    "addedAt": "2026-10-19T14:35:54+00:00",
+    "reviewedAt": "2026-10-19",
+    "batchId": "2026-10-19-community",
+    "kind": "template",
+    "referenceUrl": "https://github.com/vbenjs/vue-vben-admin",
+    "source": {
+      "type": "website",
+      "url": "https://github.com/vbenjs/vue-vben-admin"
+    }
+  },
+  "shadcn-admin_netlify_app": {
+    "addedAt": "2026-10-19T14:35:54+00:00",
+    "reviewedAt": "2026-10-19",
+    "batchId": "2026-10-19-community",
+    "kind": "template",
+    "referenceUrl": "https://github.com/satnaing/shadcn-admin",
+    "source": {
+      "type": "website",
+      "url": "https://github.com/satnaing/shadcn-admin"
+    }
+  },
+  "admin_vuestic_dev": {
+    "addedAt": "2026-10-19T14:35:54+00:00",
+    "reviewedAt": "2026-10-19",
+    "batchId": "2026-10-19-community",
+    "kind": "template",
+    "referenceUrl": "https://github.com/epicmaxco/vuestic-admin",
+    "source": {
+      "type": "website",
+      "url": "https://github.com/epicmaxco/vuestic-admin"
+    }
+  },
+  "colorlib_com_polygon_gentelella_index_html": {
+    "addedAt": "2026-10-19T14:35:54+00:00",
+    "reviewedAt": "2026-10-19",
+    "batchId": "2026-10-19-community",
+    "kind": "template",
+    "referenceUrl": "https://github.com/ColorlibHQ/gentelella",
+    "source": {
+      "type": "website",
+      "url": "https://github.com/ColorlibHQ/gentelella"
+    }
+  },
+  "sakai_primevue_org": {
+    "addedAt": "2026-10-19T14:35:54+00:00",
+    "reviewedAt": "2026-10-19",
+    "batchId": "2026-10-19-community",
+    "kind": "template",
+    "referenceUrl": "https://github.com/primefaces/sakai-vue",
+    "source": {
+      "type": "website",
+      "url": "https://github.com/primefaces/sakai-vue"
+    }
+  },
+  "astro-paper_pages_dev": {
+    "addedAt": "2026-10-19T14:35:54+00:00",
+    "reviewedAt": "2026-10-19",
+    "batchId": "2026-10-19-community",
+    "kind": "template",
+    "referenceUrl": "https://github.com/satnaing/astro-paper",
+    "source": {
+      "type": "website",
+      "url": "https://github.com/satnaing/astro-paper"
+    }
+  },
+  "fuwari_vercel_app": {
+    "addedAt": "2026-10-19T14:35:54+00:00",
+    "reviewedAt": "2026-10-19",
+    "batchId": "2026-10-19-community",
+    "kind": "template",
+    "referenceUrl": "https://github.com/saicaca/fuwari",
+    "source": {
+      "type": "website",
+      "url": "https://github.com/saicaca/fuwari"
+    }
+  },
+  "astrowind_vercel_app": {
+    "addedAt": "2026-10-19T14:35:54+00:00",
+    "reviewedAt": "2026-10-19",
+    "batchId": "2026-10-19-community",
+    "kind": "template",
+    "referenceUrl": "https://github.com/onwidget/astrowind",
+    "source": {
+      "type": "website",
+      "url": "https://github.com/onwidget/astrowind"
+    }
+  },
+  "astro-cactus_chriswilliams_dev": {
+    "addedAt": "2026-10-19T14:35:54+00:00",
+    "reviewedAt": "2026-10-19",
+    "batchId": "2026-10-19-community",
+    "kind": "template",
+    "referenceUrl": "https://github.com/chrismwilliams/astro-theme-cactus",
+    "source": {
+      "type": "website",
+      "url": "https://github.com/chrismwilliams/astro-theme-cactus"
+    }
+  },
+  "astro-nano-demo_vercel_app": {
+    "addedAt": "2026-10-19T14:35:54+00:00",
+    "reviewedAt": "2026-10-19",
+    "batchId": "2026-10-19-community",
+    "kind": "template",
+    "referenceUrl": "https://github.com/markhorn-dev/astro-nano",
+    "source": {
+      "type": "website",
+      "url": "https://github.com/markhorn-dev/astro-nano"
+    }
+  },
+  "astro-sphere-demo_vercel_app": {
+    "addedAt": "2026-10-19T14:35:54+00:00",
+    "reviewedAt": "2026-10-19",
+    "batchId": "2026-10-19-community",
+    "kind": "template",
+    "referenceUrl": "https://github.com/markhorn-dev/astro-sphere",
+    "source": {
+      "type": "website",
+      "url": "https://github.com/markhorn-dev/astro-sphere"
+    }
+  },
+  "adityatelange_github_io_hugo-papermod": {
+    "addedAt": "2026-10-19T14:35:54+00:00",
+    "reviewedAt": "2026-10-19",
+    "batchId": "2026-10-19-community",
+    "kind": "template",
+    "referenceUrl": "https://github.com/adityatelange/hugo-PaperMod",
+    "source": {
+      "type": "website",
+      "url": "https://github.com/adityatelange/hugo-PaperMod"
+    }
+  },
+  "book_alxs_dev": {
+    "addedAt": "2026-10-19T14:35:54+00:00",
+    "reviewedAt": "2026-10-19",
+    "batchId": "2026-10-19-community",
+    "kind": "template",
+    "referenceUrl": "https://github.com/alex-shpak/hugo-book",
+    "source": {
+      "type": "website",
+      "url": "https://github.com/alex-shpak/hugo-book"
+    }
+  },
+  "cotes2020_github_io_chirpy-demo": {
+    "addedAt": "2026-10-19T14:35:54+00:00",
+    "reviewedAt": "2026-10-19",
+    "batchId": "2026-10-19-community",
+    "kind": "template",
+    "referenceUrl": "https://github.com/cotes2020/jekyll-theme-chirpy",
+    "source": {
+      "type": "website",
+      "url": "https://github.com/cotes2020/jekyll-theme-chirpy"
+    }
+  },
+  "mmistakes_github_io_minimal-mistakes": {
+    "addedAt": "2026-10-19T14:35:54+00:00",
+    "reviewedAt": "2026-10-19",
+    "batchId": "2026-10-19-community",
+    "kind": "template",
+    "referenceUrl": "https://github.com/mmistakes/minimal-mistakes",
+    "source": {
+      "type": "website",
+      "url": "https://github.com/mmistakes/minimal-mistakes"
+    }
+  },
+  "beautifuljekyll_com": {
+    "addedAt": "2026-10-19T14:35:54+00:00",
+    "reviewedAt": "2026-10-19",
+    "batchId": "2026-10-19-community",
+    "kind": "template",
+    "referenceUrl": "https://github.com/daattali/beautiful-jekyll",
+    "source": {
+      "type": "website",
+      "url": "https://github.com/daattali/beautiful-jekyll"
+    }
+  },
+  "alshedivat_github_io_al-folio": {
+    "addedAt": "2026-10-19T14:35:54+00:00",
+    "reviewedAt": "2026-10-19",
+    "batchId": "2026-10-19-community",
+    "kind": "template",
+    "referenceUrl": "https://github.com/alshedivat/al-folio",
+    "source": {
+      "type": "website",
+      "url": "https://github.com/alshedivat/al-folio"
+    }
+  },
+  "just-the-docs_github_io_just-the-docs": {
+    "addedAt": "2026-10-19T14:35:54+00:00",
+    "reviewedAt": "2026-10-19",
+    "batchId": "2026-10-19-community",
+    "kind": "template",
+    "referenceUrl": "https://github.com/just-the-docs/just-the-docs",
+    "source": {
+      "type": "website",
+      "url": "https://github.com/just-the-docs/just-the-docs"
+    }
+  },
+  "html5up_net": {
+    "addedAt": "2026-10-19T14:35:54+00:00",
+    "reviewedAt": "2026-10-19",
+    "batchId": "2026-10-19-community",
+    "kind": "collection",
+    "referenceUrl": "https://html5up.net"
+  },
+  "startbootstrap_com": {
+    "addedAt": "2026-10-19T14:35:54+00:00",
+    "reviewedAt": "2026-10-19",
+    "batchId": "2026-10-19-community",
+    "kind": "collection",
+    "referenceUrl": "https://startbootstrap.com"
+  },
+  "vitepress_dev": {
+    "addedAt": "2026-10-19T14:35:54+00:00",
+    "reviewedAt": "2026-10-19",
+    "batchId": "2026-10-19-community",
+    "kind": "docs",
+    "referenceUrl": "https://github.com/vuejs/vitepress",
+    "source": {
+      "type": "product",
+      "url": "https://github.com/vuejs/vitepress"
+    }
+  },
+  "nextra_site": {
+    "addedAt": "2026-10-19T14:35:54+00:00",
+    "reviewedAt": "2026-10-19",
+    "batchId": "2026-10-19-community",
+    "kind": "docs",
+    "referenceUrl": "https://github.com/shuding/nextra",
+    "source": {
+      "type": "product",
+      "url": "https://github.com/shuding/nextra"
+    }
+  },
+  "fumadocs_dev": {
+    "addedAt": "2026-10-19T14:35:54+00:00",
+    "reviewedAt": "2026-10-19",
+    "batchId": "2026-10-19-community",
+    "kind": "docs",
+    "referenceUrl": "https://github.com/fuma-nama/fumadocs",
+    "source": {
+      "type": "product",
+      "url": "https://github.com/fuma-nama/fumadocs"
+    }
+  },
+  "squidfunk_github_io_mkdocs-material": {
+    "addedAt": "2026-10-19T14:35:54+00:00",
+    "reviewedAt": "2026-10-19",
+    "batchId": "2026-10-19-community",
+    "kind": "docs",
+    "referenceUrl": "https://github.com/squidfunk/mkdocs-material",
+    "source": {
+      "type": "product",
+      "url": "https://github.com/squidfunk/mkdocs-material"
+    }
+  },
+  "docsify_js_org": {
+    "addedAt": "2026-10-19T14:35:54+00:00",
+    "reviewedAt": "2026-10-19",
+    "batchId": "2026-10-19-community",
+    "kind": "docs",
+    "referenceUrl": "https://github.com/docsifyjs/docsify",
+    "source": {
+      "type": "product",
+      "url": "https://github.com/docsifyjs/docsify"
+    }
+  },
+  "scalar_com": {
+    "addedAt": "2026-10-19T14:35:54+00:00",
+    "reviewedAt": "2026-10-19",
+    "batchId": "2026-10-19-community",
+    "kind": "docs",
+    "referenceUrl": "https://github.com/scalar/scalar",
+    "source": {
+      "type": "product",
+      "url": "https://github.com/scalar/scalar"
+    }
+  },
+  "storybook_js_org": {
+    "addedAt": "2026-10-19T14:35:54+00:00",
+    "reviewedAt": "2026-10-19",
+    "batchId": "2026-10-19-community",
+    "kind": "docs",
+    "referenceUrl": "https://github.com/storybookjs/storybook",
+    "source": {
+      "type": "product",
+      "url": "https://github.com/storybookjs/storybook"
+    }
+  },
+  "www_radix-ui_com": {
+    "addedAt": "2026-10-19T14:35:54+00:00",
+    "reviewedAt": "2026-10-19",
+    "batchId": "2026-10-19-community",
+    "kind": "docs",
+    "referenceUrl": "https://github.com/radix-ui/primitives",
+    "source": {
+      "type": "product",
+      "url": "https://github.com/radix-ui/primitives"
+    }
+  },
+  "mantine_dev": {
+    "addedAt": "2026-10-19T14:35:54+00:00",
+    "reviewedAt": "2026-10-19",
+    "batchId": "2026-10-19-community",
+    "kind": "docs",
+    "referenceUrl": "https://github.com/mantinedev/mantine",
+    "source": {
+      "type": "product",
+      "url": "https://github.com/mantinedev/mantine"
+    }
+  },
+  "chakra-ui_com": {
+    "addedAt": "2026-10-19T14:35:54+00:00",
+    "reviewedAt": "2026-10-19",
+    "batchId": "2026-10-19-community",
+    "kind": "docs",
+    "referenceUrl": "https://github.com/chakra-ui/chakra-ui",
+    "source": {
+      "type": "product",
+      "url": "https://github.com/chakra-ui/chakra-ui"
+    }
+  },
+  "ant_design": {
+    "addedAt": "2026-10-19T14:35:54+00:00",
+    "reviewedAt": "2026-10-19",
+    "batchId": "2026-10-19-community",
+    "kind": "docs",
+    "referenceUrl": "https://github.com/ant-design/ant-design",
+    "source": {
+      "type": "product",
+      "url": "https://github.com/ant-design/ant-design"
+    }
+  },
+  "element-plus_org": {
+    "addedAt": "2026-10-19T14:35:54+00:00",
+    "reviewedAt": "2026-10-19",
+    "batchId": "2026-10-19-community",
+    "kind": "docs",
+    "referenceUrl": "https://github.com/element-plus/element-plus",
+    "source": {
+      "type": "product",
+      "url": "https://github.com/element-plus/element-plus"
+    }
+  },
+  "www_naiveui_com": {
+    "addedAt": "2026-10-19T14:35:54+00:00",
+    "reviewedAt": "2026-10-19",
+    "batchId": "2026-10-19-community",
+    "kind": "docs",
+    "referenceUrl": "https://github.com/tusen-ai/naive-ui",
+    "source": {
+      "type": "product",
+      "url": "https://github.com/tusen-ai/naive-ui"
+    }
+  },
+  "shoelace_style": {
+    "addedAt": "2026-10-19T14:35:54+00:00",
+    "reviewedAt": "2026-10-19",
+    "batchId": "2026-10-19-community",
+    "kind": "docs",
+    "referenceUrl": "https://github.com/shoelace-style/shoelace",
+    "source": {
+      "type": "product",
+      "url": "https://github.com/shoelace-style/shoelace"
+    }
+  },
+  "daisyui_com": {
+    "addedAt": "2026-10-19T14:35:54+00:00",
+    "reviewedAt": "2026-10-19",
+    "batchId": "2026-10-19-community",
+    "kind": "docs",
+    "referenceUrl": "https://github.com/saadeghi/daisyui",
+    "source": {
+      "type": "product",
+      "url": "https://github.com/saadeghi/daisyui"
+    }
+  },
+  "designsystem_digital_gov": {
+    "addedAt": "2026-10-19T14:35:54+00:00",
+    "reviewedAt": "2026-10-19",
+    "batchId": "2026-10-19-community",
+    "kind": "docs",
+    "referenceUrl": "https://github.com/uswds/uswds",
+    "source": {
+      "type": "product",
+      "url": "https://github.com/uswds/uswds"
+    }
+  },
+  "design-system_service_gov_uk": {
+    "addedAt": "2026-10-19T14:35:54+00:00",
+    "reviewedAt": "2026-10-19",
+    "batchId": "2026-10-19-community",
+    "kind": "docs",
+    "referenceUrl": "https://github.com/alphagov/govuk-design-system",
+    "source": {
+      "type": "website",
+      "url": "https://github.com/alphagov/govuk-design-system"
+    }
+  },
+  "echarts_apache_org_examples_en_index_html": {
+    "addedAt": "2026-10-19T14:35:54+00:00",
+    "reviewedAt": "2026-10-19",
+    "batchId": "2026-10-19-community",
+    "kind": "visualization",
+    "referenceUrl": "https://github.com/apache/echarts",
+    "source": {
+      "type": "product",
+      "url": "https://github.com/apache/echarts"
+    }
+  },
+  "d3js_org": {
+    "addedAt": "2026-10-19T14:35:54+00:00",
+    "reviewedAt": "2026-10-19",
+    "batchId": "2026-10-19-community",
+    "kind": "visualization",
+    "referenceUrl": "https://github.com/d3/d3",
+    "source": {
+      "type": "product",
+      "url": "https://github.com/d3/d3"
+    }
+  },
+  "vega_github_io_vega-lite_examples": {
+    "addedAt": "2026-10-19T14:35:54+00:00",
+    "reviewedAt": "2026-10-19",
+    "batchId": "2026-10-19-community",
+    "kind": "visualization",
+    "referenceUrl": "https://github.com/vega/vega-lite",
+    "source": {
+      "type": "product",
+      "url": "https://github.com/vega/vega-lite"
+    }
+  },
+  "www_chartjs_org_docs_latest_samples": {
+    "addedAt": "2026-10-19T14:35:54+00:00",
+    "reviewedAt": "2026-10-19",
+    "batchId": "2026-10-19-community",
+    "kind": "visualization",
+    "referenceUrl": "https://github.com/chartjs/Chart.js",
+    "source": {
+      "type": "product",
+      "url": "https://github.com/chartjs/Chart.js"
+    }
+  },
+  "nivo_rocks": {
+    "addedAt": "2026-10-19T14:35:54+00:00",
+    "reviewedAt": "2026-10-19",
+    "batchId": "2026-10-19-community",
+    "kind": "visualization",
+    "referenceUrl": "https://github.com/plouc/nivo",
+    "source": {
+      "type": "product",
+      "url": "https://github.com/plouc/nivo"
+    }
+  },
+  "recharts_github_io": {
+    "addedAt": "2026-10-19T14:35:54+00:00",
+    "reviewedAt": "2026-10-19",
+    "batchId": "2026-10-19-community",
+    "kind": "visualization",
+    "referenceUrl": "https://github.com/recharts/recharts",
+    "source": {
+      "type": "product",
+      "url": "https://github.com/recharts/recharts"
+    }
+  },
+  "g2_antv_antgroup_com": {
+    "addedAt": "2026-10-19T14:35:54+00:00",
+    "reviewedAt": "2026-10-19",
+    "batchId": "2026-10-19-community",
+    "kind": "visualization",
+    "referenceUrl": "https://github.com/antvis/G2",
+    "source": {
+      "type": "product",
+      "url": "https://github.com/antvis/G2"
+    }
+  },
+  "x6_antv_antgroup_com": {
+    "addedAt": "2026-10-19T14:35:54+00:00",
+    "reviewedAt": "2026-10-19",
+    "batchId": "2026-10-19-community",
+    "kind": "visualization",
+    "referenceUrl": "https://github.com/antvis/X6",
+    "source": {
+      "type": "product",
+      "url": "https://github.com/antvis/X6"
+    }
+  },
+  "reactflow_dev": {
+    "addedAt": "2026-10-19T14:35:54+00:00",
+    "reviewedAt": "2026-10-19",
+    "batchId": "2026-10-19-community",
+    "kind": "visualization",
+    "referenceUrl": "https://github.com/xyflow/xyflow",
+    "source": {
+      "type": "product",
+      "url": "https://github.com/xyflow/xyflow"
+    }
+  },
+  "mermaid_live": {
+    "addedAt": "2026-10-19T14:35:54+00:00",
+    "reviewedAt": "2026-10-19",
+    "batchId": "2026-10-19-community",
+    "kind": "app",
+    "referenceUrl": "https://github.com/mermaid-js/mermaid-live-editor",
+    "source": {
+      "type": "website",
+      "url": "https://github.com/mermaid-js/mermaid-live-editor"
+    }
+  },
+  "mermaid-to-excalidraw_vercel_app": {
+    "addedAt": "2026-10-19T14:35:54+00:00",
+    "reviewedAt": "2026-10-19",
+    "batchId": "2026-10-19-community",
+    "kind": "app",
+    "referenceUrl": "https://github.com/excalidraw/mermaid-to-excalidraw",
+    "source": {
+      "type": "website",
+      "url": "https://github.com/excalidraw/mermaid-to-excalidraw"
+    }
+  },
+  "leafletjs_com": {
+    "addedAt": "2026-10-19T14:35:54+00:00",
+    "reviewedAt": "2026-10-19",
+    "batchId": "2026-10-19-community",
+    "kind": "visualization",
+    "referenceUrl": "https://github.com/Leaflet/Leaflet",
+    "source": {
+      "type": "product",
+      "url": "https://github.com/Leaflet/Leaflet"
+    }
+  },
+  "maplibre_org_maplibre-gl-js_docs": {
+    "addedAt": "2026-10-19T14:35:54+00:00",
+    "reviewedAt": "2026-10-19",
+    "batchId": "2026-10-19-community",
+    "kind": "visualization",
+    "referenceUrl": "https://github.com/maplibre/maplibre-gl-js",
+    "source": {
+      "type": "product",
+      "url": "https://github.com/maplibre/maplibre-gl-js"
+    }
+  },
+  "openlayers_org": {
+    "addedAt": "2026-10-19T14:35:54+00:00",
+    "reviewedAt": "2026-10-19",
+    "batchId": "2026-10-19-community",
+    "kind": "visualization",
+    "referenceUrl": "https://github.com/openlayers/openlayers",
+    "source": {
+      "type": "product",
+      "url": "https://github.com/openlayers/openlayers"
+    }
+  },
+  "deck_gl": {
+    "addedAt": "2026-10-19T14:35:54+00:00",
+    "reviewedAt": "2026-10-19",
+    "batchId": "2026-10-19-community",
+    "kind": "visualization",
+    "referenceUrl": "https://github.com/visgl/deck.gl",
+    "source": {
+      "type": "product",
+      "url": "https://github.com/visgl/deck.gl"
+    }
+  },
+  "kepler_gl_demo": {
+    "addedAt": "2026-10-19T14:35:54+00:00",
+    "reviewedAt": "2026-10-19",
+    "batchId": "2026-10-19-community",
+    "kind": "app",
+    "referenceUrl": "https://github.com/keplergl/kepler.gl",
+    "source": {
+      "type": "website",
+      "url": "https://github.com/keplergl/kepler.gl"
+    }
+  },
+  "www_openstreetmap_org": {
+    "addedAt": "2026-10-19T14:35:54+00:00",
+    "reviewedAt": "2026-10-19",
+    "batchId": "2026-10-19-community",
+    "kind": "app",
+    "referenceUrl": "https://github.com/openstreetmap/openstreetmap-website",
+    "source": {
+      "type": "website",
+      "url": "https://github.com/openstreetmap/openstreetmap-website"
+    }
+  },
+  "ourworldindata_org": {
+    "addedAt": "2026-10-19T14:35:54+00:00",
+    "reviewedAt": "2026-10-19",
+    "batchId": "2026-10-19-community",
+    "kind": "visualization",
+    "referenceUrl": "https://github.com/owid/owid-grapher",
+    "source": {
+      "type": "product",
+      "url": "https://github.com/owid/owid-grapher"
+    }
+  },
+  "www_gapminder_org_tools": {
+    "addedAt": "2026-10-19T14:35:54+00:00",
+    "reviewedAt": "2026-10-19",
+    "batchId": "2026-10-19-community",
+    "kind": "app",
+    "referenceUrl": "https://github.com/Gapminder/tools-page",
+    "source": {
+      "type": "website",
+      "url": "https://github.com/Gapminder/tools-page"
+    }
+  },
+  "squoosh_app": {
+    "addedAt": "2026-10-19T14:35:54+00:00",
+    "reviewedAt": "2026-10-19",
+    "batchId": "2026-10-19-community",
+    "kind": "app",
+    "referenceUrl": "https://github.com/GoogleChromeLabs/squoosh",
+    "source": {
+      "type": "website",
+      "url": "https://github.com/GoogleChromeLabs/squoosh"
+    }
+  },
+  "jakearchibald_github_io_svgomg": {
+    "addedAt": "2026-10-19T14:35:54+00:00",
+    "reviewedAt": "2026-10-19",
+    "batchId": "2026-10-19-community",
+    "kind": "app",
+    "referenceUrl": "https://github.com/jakearchibald/svgomg",
+    "source": {
+      "type": "website",
+      "url": "https://github.com/jakearchibald/svgomg"
+    }
+  },
+  "www_photopea_com": {
+    "addedAt": "2026-10-19T14:35:54+00:00",
+    "reviewedAt": "2026-10-19",
+    "batchId": "2026-10-19-community",
+    "kind": "app",
+    "referenceUrl": "https://www.photopea.com"
+  },
+  "app_diagrams_net": {
+    "addedAt": "2026-10-19T14:35:54+00:00",
+    "reviewedAt": "2026-10-19",
+    "batchId": "2026-10-19-community",
+    "kind": "app",
+    "referenceUrl": "https://github.com/jgraph/drawio",
+    "source": {
+      "type": "website",
+      "url": "https://github.com/jgraph/drawio"
+    }
+  },
+  "jsoncrack_com_editor": {
+    "addedAt": "2026-10-19T14:35:54+00:00",
+    "reviewedAt": "2026-10-19",
+    "batchId": "2026-10-19-community",
+    "kind": "app",
+    "referenceUrl": "https://github.com/AykutSarac/jsoncrack.com",
+    "source": {
+      "type": "website",
+      "url": "https://github.com/AykutSarac/jsoncrack.com"
+    }
+  },
+  "it-tools_tech": {
+    "addedAt": "2026-10-19T14:35:54+00:00",
+    "reviewedAt": "2026-10-19",
+    "batchId": "2026-10-19-community",
+    "kind": "app",
+    "referenceUrl": "https://github.com/CorentinTh/it-tools",
+    "source": {
+      "type": "website",
+      "url": "https://github.com/CorentinTh/it-tools"
+    }
+  },
+  "gchq_github_io_cyberchef": {
+    "addedAt": "2026-10-19T14:35:54+00:00",
+    "reviewedAt": "2026-10-19",
+    "batchId": "2026-10-19-community",
+    "kind": "app",
+    "referenceUrl": "https://github.com/gchq/CyberChef",
+    "source": {
+      "type": "website",
+      "url": "https://github.com/gchq/CyberChef"
+    }
+  },
+  "hoppscotch_io": {
+    "addedAt": "2026-10-19T14:35:54+00:00",
+    "reviewedAt": "2026-10-19",
+    "batchId": "2026-10-19-community",
+    "kind": "app",
+    "referenceUrl": "https://github.com/hoppscotch/hoppscotch",
+    "source": {
+      "type": "website",
+      "url": "https://github.com/hoppscotch/hoppscotch"
+    }
+  },
+  "regex101_com": {
+    "addedAt": "2026-10-19T14:35:54+00:00",
+    "reviewedAt": "2026-10-19",
+    "batchId": "2026-10-19-community",
+    "kind": "app",
+    "referenceUrl": "https://regex101.com"
+  },
+  "regexr_com": {
+    "addedAt": "2026-10-19T14:35:54+00:00",
+    "reviewedAt": "2026-10-19",
+    "batchId": "2026-10-19-community",
+    "kind": "app",
+    "referenceUrl": "https://github.com/gskinner/regexr",
+    "source": {
+      "type": "website",
+      "url": "https://github.com/gskinner/regexr"
+    }
+  },
+  "carbon_now_sh": {
+    "addedAt": "2026-10-19T14:35:54+00:00",
+    "reviewedAt": "2026-10-19",
+    "batchId": "2026-10-19-community",
+    "kind": "app",
+    "referenceUrl": "https://github.com/carbon-app/carbon",
+    "source": {
+      "type": "website",
+      "url": "https://github.com/carbon-app/carbon"
+    }
+  },
+  "ray_so": {
+    "addedAt": "2026-10-19T14:35:54+00:00",
+    "reviewedAt": "2026-10-19",
+    "batchId": "2026-10-19-community",
+    "kind": "app",
+    "referenceUrl": "https://github.com/raycast/ray-so",
+    "source": {
+      "type": "website",
+      "url": "https://github.com/raycast/ray-so"
+    }
+  },
+  "rxresu_me": {
+    "addedAt": "2026-10-19T14:35:54+00:00",
+    "reviewedAt": "2026-10-19",
+    "batchId": "2026-10-19-community",
+    "kind": "app",
+    "referenceUrl": "https://github.com/AmruthPillai/Reactive-Resume",
+    "source": {
+      "type": "product",
+      "url": "https://github.com/AmruthPillai/Reactive-Resume"
+    }
+  },
+  "www_open-resume_com": {
+    "addedAt": "2026-10-19T14:35:54+00:00",
+    "reviewedAt": "2026-10-19",
+    "batchId": "2026-10-19-community",
+    "kind": "app",
+    "referenceUrl": "https://github.com/xitanggg/open-resume",
+    "source": {
+      "type": "website",
+      "url": "https://github.com/xitanggg/open-resume"
+    }
+  },
+  "pairdrop_net": {
+    "addedAt": "2026-10-19T14:35:54+00:00",
+    "reviewedAt": "2026-10-19",
+    "batchId": "2026-10-19-community",
+    "kind": "app",
+    "referenceUrl": "https://github.com/schlagmichdoch/PairDrop",
+    "source": {
+      "type": "website",
+      "url": "https://github.com/schlagmichdoch/PairDrop"
+    }
+  },
+  "localsend_org": {
+    "addedAt": "2026-10-19T14:35:54+00:00",
+    "reviewedAt": "2026-10-19",
+    "batchId": "2026-10-19-community",
+    "kind": "homepage",
+    "referenceUrl": "https://github.com/localsend/localsend",
+    "source": {
+      "type": "product",
+      "url": "https://github.com/localsend/localsend"
+    }
+  },
+  "www_stirling_com": {
+    "addedAt": "2026-10-19T14:35:54+00:00",
+    "reviewedAt": "2026-10-19",
+    "batchId": "2026-10-19-community",
+    "kind": "homepage",
+    "referenceUrl": "https://github.com/Stirling-Tools/Stirling-PDF",
+    "source": {
+      "type": "product",
+      "url": "https://github.com/Stirling-Tools/Stirling-PDF"
+    }
+  },
+  "hedgedoc_org": {
+    "addedAt": "2026-10-19T14:35:54+00:00",
+    "reviewedAt": "2026-10-19",
+    "batchId": "2026-10-19-community",
+    "kind": "homepage",
+    "referenceUrl": "https://github.com/hedgedoc/hedgedoc",
+    "source": {
+      "type": "product",
+      "url": "https://github.com/hedgedoc/hedgedoc"
+    }
+  },
+  "karakeep_app": {
+    "addedAt": "2026-10-19T14:35:54+00:00",
+    "reviewedAt": "2026-10-19",
+    "batchId": "2026-10-19-community",
+    "kind": "homepage",
+    "referenceUrl": "https://github.com/karakeep-app/karakeep",
+    "source": {
+      "type": "product",
+      "url": "https://github.com/karakeep-app/karakeep"
+    }
+  },
+  "mealie_io": {
+    "addedAt": "2026-10-19T14:35:54+00:00",
+    "reviewedAt": "2026-10-19",
+    "batchId": "2026-10-19-community",
+    "kind": "docs",
+    "referenceUrl": "https://github.com/mealie-recipes/mealie",
+    "source": {
+      "type": "product",
+      "url": "https://github.com/mealie-recipes/mealie"
+    }
+  },
+  "immich_app": {
+    "addedAt": "2026-10-19T14:35:54+00:00",
+    "reviewedAt": "2026-10-19",
+    "batchId": "2026-10-19-community",
+    "kind": "homepage",
+    "referenceUrl": "https://github.com/immich-app/immich",
+    "source": {
+      "type": "product",
+      "url": "https://github.com/immich-app/immich"
+    }
+  },
+  "jellyfin_org": {
+    "addedAt": "2026-10-19T14:35:54+00:00",
+    "reviewedAt": "2026-10-19",
+    "batchId": "2026-10-19-community",
+    "kind": "homepage",
+    "referenceUrl": "https://github.com/jellyfin/jellyfin",
+    "source": {
+      "type": "product",
+      "url": "https://github.com/jellyfin/jellyfin"
+    }
+  },
+  "www_home-assistant_io": {
+    "addedAt": "2026-10-19T14:35:54+00:00",
+    "reviewedAt": "2026-10-19",
+    "batchId": "2026-10-19-community",
+    "kind": "homepage",
+    "referenceUrl": "https://github.com/home-assistant/frontend",
+    "source": {
+      "type": "product",
+      "url": "https://github.com/home-assistant/frontend"
+    }
+  },
+  "actualbudget_org": {
+    "addedAt": "2026-10-19T14:35:54+00:00",
+    "reviewedAt": "2026-10-19",
+    "batchId": "2026-10-19-community",
+    "kind": "homepage",
+    "referenceUrl": "https://github.com/actualbudget/actual",
+    "source": {
+      "type": "product",
+      "url": "https://github.com/actualbudget/actual"
+    }
+  },
+  "formbricks_com": {
+    "addedAt": "2026-10-19T14:35:54+00:00",
+    "reviewedAt": "2026-10-19",
+    "batchId": "2026-10-19-community",
+    "kind": "homepage",
+    "referenceUrl": "https://github.com/formbricks/formbricks",
+    "source": {
+      "type": "product",
+      "url": "https://github.com/formbricks/formbricks"
+    }
+  },
+  "www_appsmith_com": {
+    "addedAt": "2026-10-19T14:35:54+00:00",
+    "reviewedAt": "2026-10-19",
+    "batchId": "2026-10-19-community",
+    "kind": "homepage",
+    "referenceUrl": "https://github.com/appsmithorg/appsmith",
+    "source": {
+      "type": "product",
+      "url": "https://github.com/appsmithorg/appsmith"
+    }
+  },
+  "www_tooljet_com": {
+    "addedAt": "2026-10-19T14:35:54+00:00",
+    "reviewedAt": "2026-10-19",
+    "batchId": "2026-10-19-community",
+    "kind": "homepage",
+    "referenceUrl": "https://github.com/ToolJet/ToolJet",
+    "source": {
+      "type": "product",
+      "url": "https://github.com/ToolJet/ToolJet"
+    }
+  },
+  "budibase_com": {
+    "addedAt": "2026-10-19T14:35:54+00:00",
+    "reviewedAt": "2026-10-19",
+    "batchId": "2026-10-19-community",
+    "kind": "homepage",
+    "referenceUrl": "https://github.com/Budibase/budibase",
+    "source": {
+      "type": "product",
+      "url": "https://github.com/Budibase/budibase"
+    }
+  },
+  "nocodb_com": {
+    "addedAt": "2026-10-19T14:35:54+00:00",
+    "reviewedAt": "2026-10-19",
+    "batchId": "2026-10-19-community",
+    "kind": "homepage",
+    "referenceUrl": "https://github.com/nocodb/nocodb",
+    "source": {
+      "type": "product",
+      "url": "https://github.com/nocodb/nocodb"
+    }
+  },
+  "baserow_io": {
+    "addedAt": "2026-10-19T14:35:54+00:00",
+    "reviewedAt": "2026-10-19",
+    "batchId": "2026-10-19-community",
+    "kind": "homepage",
+    "referenceUrl": "https://baserow.io"
+  },
+  "frappe_io_erpnext": {
+    "addedAt": "2026-10-19T14:35:54+00:00",
+    "reviewedAt": "2026-10-19",
+    "batchId": "2026-10-19-community",
+    "kind": "homepage",
+    "referenceUrl": "https://github.com/frappe/erpnext",
+    "source": {
+      "type": "product",
+      "url": "https://github.com/frappe/erpnext"
+    }
+  },
+  "www_odoo_com": {
+    "addedAt": "2026-10-19T14:35:54+00:00",
+    "reviewedAt": "2026-10-19",
+    "batchId": "2026-10-19-community",
+    "kind": "homepage",
+    "referenceUrl": "https://github.com/odoo/odoo",
+    "source": {
+      "type": "product",
+      "url": "https://github.com/odoo/odoo"
+    }
+  },
+  "paveldogreat_github_io_webgl-fluid-simulation": {
+    "addedAt": "2026-10-19T14:35:54+00:00",
+    "reviewedAt": "2026-10-19",
+    "batchId": "2026-10-19-community",
+    "kind": "experiment",
+    "referenceUrl": "https://github.com/PavelDoGreat/WebGL-Fluid-Simulation",
+    "source": {
+      "type": "website",
+      "url": "https://github.com/PavelDoGreat/WebGL-Fluid-Simulation"
+    }
+  },
+  "madebyevan_com_webgl-water": {
+    "addedAt": "2026-10-19T14:35:54+00:00",
+    "reviewedAt": "2026-10-19",
+    "batchId": "2026-10-19-community",
+    "kind": "experiment",
+    "referenceUrl": "https://github.com/evanw/webgl-water",
+    "source": {
+      "type": "website",
+      "url": "https://github.com/evanw/webgl-water"
+    }
+  },
+  "thebookofshaders_com": {
+    "addedAt": "2026-10-19T14:35:54+00:00",
+    "reviewedAt": "2026-10-19",
+    "batchId": "2026-10-19-community",
+    "kind": "experiment",
+    "referenceUrl": "https://github.com/patriciogonzalezvivo/thebookofshaders",
+    "source": {
+      "type": "website",
+      "url": "https://github.com/patriciogonzalezvivo/thebookofshaders"
+    }
+  },
+  "p5js_org_examples": {
+    "addedAt": "2026-10-19T14:35:54+00:00",
+    "reviewedAt": "2026-10-19",
+    "batchId": "2026-10-19-community",
+    "kind": "experiment",
+    "referenceUrl": "https://github.com/processing/p5.js",
+    "source": {
+      "type": "product",
+      "url": "https://github.com/processing/p5.js"
+    }
+  },
+  "hydra_ojack_xyz": {
+    "addedAt": "2026-10-19T14:35:54+00:00",
+    "reviewedAt": "2026-10-19",
+    "batchId": "2026-10-19-community",
+    "kind": "experiment",
+    "referenceUrl": "https://github.com/hydra-synth/hydra",
+    "source": {
+      "type": "website",
+      "url": "https://github.com/hydra-synth/hydra"
+    }
+  },
+  "patatap_com": {
+    "addedAt": "2026-10-19T14:35:54+00:00",
+    "reviewedAt": "2026-10-19",
+    "batchId": "2026-10-19-community",
+    "kind": "experiment",
+    "referenceUrl": "https://patatap.com"
+  },
+  "musiclab_chromeexperiments_com": {
+    "addedAt": "2026-10-19T14:35:54+00:00",
+    "reviewedAt": "2026-10-19",
+    "batchId": "2026-10-19-community",
+    "kind": "experiment",
+    "referenceUrl": "https://github.com/googlecreativelab/chrome-music-lab",
+    "source": {
+      "type": "product",
+      "url": "https://github.com/googlecreativelab/chrome-music-lab"
+    }
+  },
+  "musiclab_chromeexperiments_com_song-maker": {
+    "addedAt": "2026-10-19T14:35:54+00:00",
+    "reviewedAt": "2026-10-19",
+    "batchId": "2026-10-19-community",
+    "kind": "experiment",
+    "referenceUrl": "https://musiclab.chromeexperiments.com/Song-Maker"
+  },
+  "gabrielecirulli_github_io_2048": {
+    "addedAt": "2026-10-19T14:35:54+00:00",
+    "reviewedAt": "2026-10-19",
+    "batchId": "2026-10-19-community",
+    "kind": "experiment",
+    "referenceUrl": "https://github.com/gabrielecirulli/2048",
+    "source": {
+      "type": "website",
+      "url": "https://github.com/gabrielecirulli/2048"
+    }
+  },
+  "sandspiel_club": {
+    "addedAt": "2026-10-19T14:35:54+00:00",
+    "reviewedAt": "2026-10-19",
+    "batchId": "2026-10-19-community",
+    "kind": "experiment",
+    "referenceUrl": "https://github.com/MaxBittker/sandspiel",
+    "source": {
+      "type": "website",
+      "url": "https://github.com/MaxBittker/sandspiel"
+    }
+  },
+  "littlealchemy2_com": {
+    "addedAt": "2026-10-19T14:35:54+00:00",
+    "reviewedAt": "2026-10-19",
+    "batchId": "2026-10-19-community",
+    "kind": "experiment",
+    "referenceUrl": "https://littlealchemy2.com"
+  },
+  "ncase_me": {
+    "addedAt": "2026-10-19T14:35:54+00:00",
+    "reviewedAt": "2026-10-19",
+    "batchId": "2026-10-19-community",
+    "kind": "collection",
+    "referenceUrl": "https://github.com/ncase/ncase.github.io",
+    "source": {
+      "type": "website",
+      "url": "https://github.com/ncase/ncase.github.io"
+    }
+  },
+  "ncase_me_trust": {
+    "addedAt": "2026-10-19T14:35:54+00:00",
+    "reviewedAt": "2026-10-19",
+    "batchId": "2026-10-19-community",
+    "kind": "experiment",
+    "referenceUrl": "https://github.com/ncase/trust",
+    "source": {
+      "type": "website",
+      "url": "https://github.com/ncase/trust"
+    }
+  },
+  "ncase_me_loopy": {
+    "addedAt": "2026-10-19T14:35:54+00:00",
+    "reviewedAt": "2026-10-19",
+    "batchId": "2026-10-19-community",
+    "kind": "experiment",
+    "referenceUrl": "https://github.com/ncase/loopy",
+    "source": {
+      "type": "website",
+      "url": "https://github.com/ncase/loopy"
+    }
+  },
+  "www_redblobgames_com": {
+    "addedAt": "2026-10-19T14:35:54+00:00",
+    "reviewedAt": "2026-10-19",
+    "batchId": "2026-10-19-community",
+    "kind": "experiment",
+    "referenceUrl": "https://www.redblobgames.com"
+  },
+  "www_nasa_gov": {
+    "addedAt": "2026-10-19T14:35:54+00:00",
+    "reviewedAt": "2026-10-19",
+    "batchId": "2026-10-19-community",
+    "kind": "homepage",
+    "referenceUrl": "https://www.nasa.gov"
+  },
+  "www_esa_int": {
+    "addedAt": "2026-10-19T14:35:54+00:00",
+    "reviewedAt": "2026-10-19",
+    "batchId": "2026-10-19-community",
+    "kind": "homepage",
+    "referenceUrl": "https://www.esa.int"
+  },
+  "home_cern": {
+    "addedAt": "2026-10-19T14:35:54+00:00",
+    "reviewedAt": "2026-10-19",
+    "batchId": "2026-10-19-community",
+    "kind": "homepage",
+    "referenceUrl": "https://home.cern"
+  },
+  "www_rijksmuseum_nl_en": {
+    "addedAt": "2026-10-19T14:35:54+00:00",
+    "reviewedAt": "2026-10-19",
+    "batchId": "2026-10-19-community",
+    "kind": "homepage",
+    "referenceUrl": "https://www.rijksmuseum.nl/en"
+  },
+  "www_vam_ac_uk": {
+    "addedAt": "2026-10-19T14:35:54+00:00",
+    "reviewedAt": "2026-10-19",
+    "batchId": "2026-10-19-community",
+    "kind": "homepage",
+    "referenceUrl": "https://www.vam.ac.uk"
+  },
+  "www_gov_uk": {
+    "addedAt": "2026-10-19T14:35:54+00:00",
+    "reviewedAt": "2026-10-19",
+    "batchId": "2026-10-19-community",
+    "kind": "homepage",
+    "referenceUrl": "https://www.gov.uk"
+  },
+  "archive_org": {
+    "addedAt": "2026-10-19T14:35:54+00:00",
+    "reviewedAt": "2026-10-19",
+    "batchId": "2026-10-19-community",
+    "kind": "homepage",
+    "referenceUrl": "https://archive.org"
+  },
+  "commons_wikimedia_org_wiki_main_page": {
+    "addedAt": "2026-10-19T14:35:54+00:00",
+    "reviewedAt": "2026-10-19",
+    "batchId": "2026-10-19-community",
+    "kind": "homepage",
+    "referenceUrl": "https://commons.wikimedia.org/wiki/Main_Page"
+  },
+  "www_airbnb_com": {
+    "addedAt": "2026-10-19T14:35:54+00:00",
+    "reviewedAt": "2026-10-19",
+    "batchId": "2026-10-19-community",
+    "kind": "homepage",
+    "referenceUrl": "https://www.airbnb.com"
+  },
+  "www_patagonia_com": {
+    "addedAt": "2026-10-19T14:35:54+00:00",
+    "reviewedAt": "2026-10-19",
+    "batchId": "2026-10-19-community",
+    "kind": "homepage",
+    "referenceUrl": "https://www.patagonia.com"
+  },
+  "www_muji_com": {
+    "addedAt": "2026-10-19T14:35:54+00:00",
+    "reviewedAt": "2026-10-19",
+    "batchId": "2026-10-19-community",
+    "kind": "homepage",
+    "referenceUrl": "https://www.muji.com"
+  },
+  "www_ikea_com": {
+    "addedAt": "2026-10-19T14:35:54+00:00",
+    "reviewedAt": "2026-10-19",
+    "batchId": "2026-10-19-community",
+    "kind": "homepage",
+    "referenceUrl": "https://www.ikea.com"
+  },
+  "open_spotify_com": {
+    "addedAt": "2026-10-19T14:35:54+00:00",
+    "reviewedAt": "2026-10-19",
+    "batchId": "2026-10-19-community",
+    "kind": "app",
+    "referenceUrl": "https://open.spotify.com"
+  },
+  "wise_com": {
+    "addedAt": "2026-10-19T14:35:54+00:00",
+    "reviewedAt": "2026-10-19",
+    "batchId": "2026-10-19-community",
+    "kind": "homepage",
+    "referenceUrl": "https://wise.com"
+  },
+  "www_headspace_com": {
+    "addedAt": "2026-10-19T14:35:54+00:00",
+    "reviewedAt": "2026-10-19",
+    "batchId": "2026-10-19-community",
+    "kind": "homepage",
+    "referenceUrl": "https://www.headspace.com"
+  },
+  "astro_build": {
+    "kind": "docs"
+  },
+  "nextjs_org": {
+    "kind": "docs"
+  },
+  "svelte_dev": {
+    "kind": "docs"
+  },
+  "nuxt_com": {
+    "kind": "docs"
+  },
+  "tailwindcss_com": {
+    "kind": "docs"
+  },
+  "ui_shadcn_com": {
+    "kind": "docs"
+  },
+  "excalidraw_com": {
+    "kind": "app"
+  },
+  "tldraw_com": {
+    "kind": "app"
+  },
+  "awwwards_com": {
+    "kind": "collection"
+  },
+  "godly_website": {
+    "kind": "collection"
+  },
+  "land-book_com": {
+    "kind": "collection"
+  },
+  "lapa_ninja": {
+    "kind": "collection"
+  },
+  "onepagelove_com": {
+    "kind": "collection"
+  },
+  "landingfolio_com": {
+    "kind": "collection"
+  },
+  "siteinspire_com": {
+    "kind": "collection"
+  },
+  "minimal_gallery": {
+    "kind": "collection"
+  },
+  "mobbin_com": {
+    "kind": "collection"
+  },
+  "pageflows_com": {
+    "kind": "collection"
+  },
+  "refero_design": {
+    "kind": "collection"
+  },
+  "dribbble_com": {
+    "kind": "collection"
+  },
+  "behance_net": {
+    "kind": "collection"
+  },
+  "tympanus_net_codrops": {
+    "kind": "collection"
+  },
+  "designspells_com": {
+    "kind": "collection"
+  },
+  "webflow_com_made-in-webflow": {
+    "kind": "collection"
+  },
+  "framer_com_marketplace": {
+    "kind": "collection"
+  },
+  "webawesome_com": {
+    "addedAt": "2026-10-19T14:35:54+00:00",
+    "reviewedAt": "2026-10-19",
+    "batchId": "2026-10-19-community",
+    "kind": "docs",
+    "referenceUrl": "https://github.com/shoelace-style/webawesome",
+    "source": {
+      "type": "product",
+      "url": "https://github.com/shoelace-style/webawesome"
+    }
+  },
+  "zensical_org": {
+    "addedAt": "2026-10-19T14:35:54+00:00",
+    "reviewedAt": "2026-10-19",
+    "batchId": "2026-10-19-community",
+    "kind": "docs",
+    "referenceUrl": "https://github.com/zensical/zensical",
+    "source": {
+      "type": "product",
+      "url": "https://github.com/zensical/zensical"
+    }
+  }
+}

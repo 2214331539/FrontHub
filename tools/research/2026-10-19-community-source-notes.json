@@ -1,0 +1,55 @@
+{
+  "reviewedAt": "2026-10-19",
+  "observations": [
+    {
+      "name": "Gapminder Tools",
+      "source": "https://github.com/Gapminder/tools-page",
+      "evidence": "README demo links to gapminder.org/tools; replaces incorrect initial candidate repository"
+    },
+    {
+      "name": "Radix UI",
+      "source": "https://github.com/radix-ui/primitives",
+      "evidence": "README links Radix Primitives; themes URL now redirects to the Radix homepage"
+    },
+    {
+      "name": "Shoelace",
+      "source": "https://shoelace.style/",
+      "evidence": "Official page says sunset with no active development and links Web Awesome"
+    },
+    {
+      "name": "Material for MkDocs",
+      "source": "https://squidfunk.github.io/mkdocs-material/",
+      "evidence": "Official page announces end of life on 2027-05-05 and recommends Zensical"
+    },
+    {
+      "name": "Web Awesome",
+      "source": "https://github.com/shoelace-style/webawesome",
+      "evidence": "Public repository and official webawesome.com support page confirm relationship"
+    },
+    {
+      "name": "Zensical",
+      "source": "https://github.com/zensical/zensical",
+      "evidence": "Public README and official zensical.org identify the Material for MkDocs successor"
+    },
+    {
+      "name": "diagrams.net",
+      "source": "https://github.com/jgraph/drawio",
+      "evidence": "README points to app.diagrams.net with trailing prose punctuation"
+    },
+    {
+      "name": "Karakeep",
+      "source": "https://github.com/karakeep-app/karakeep",
+      "evidence": "README links official docs.karakeep.app; project formerly named Hoarder"
+    },
+    {
+      "name": "GOV.UK Design System",
+      "source": "https://github.com/alphagov/govuk-design-system",
+      "evidence": "Official GitHub repository About links GOV.UK design system"
+    },
+    {
+      "name": "Mealie",
+      "source": "https://github.com/mealie-recipes/mealie",
+      "evidence": "README links docs.mealie.io; homepage renders the documentation"
+    }
+  ]
+}

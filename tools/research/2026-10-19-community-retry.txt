@@ -1,0 +1,20 @@
+# 后台与管理模板
+Soybean Admin|naive.soybeanjs.cn|浅色,精致,产品演示|Vue 管理后台演示，参考多布局切换与主题设置
+# 后台与管理模板
+Gentelella|preview.colorlib.com/theme/gentelella/index.html|专业,浅色,产品演示|多页后台模板，参考统计图表、日历与表单组件
+# 博客与作品集
+Hugo Book|book.alxs.dev|极简,浅色,专业|书籍式文档模板，参考双侧导航与分章节阅读
+# 博客与作品集
+Chirpy|cotes2020.github.io/chirpy-demo|浅色,编辑感,精致|Jekyll 博客主题，参考时间线、标签与文章阅读页
+# 文档与组件库
+Radix Themes|www.radix-ui.com|极简,精致,产品演示|组件设计系统，参考排版、表单与主题配置
+# 数据可视化与地图
+Recharts|recharts.github.io|浅色,专业,产品演示|React 图表库，参考图表演示与组件化说明
+# 在线工具与开源应用
+Stirling PDF|www.stirling.com|浅色,专业,产品演示|文档处理工具产品页，参考任务分类与功能导航
+# 交互实验与游戏
+2048|gabrielecirulli.github.io/2048|极简,活泼,产品演示|滑动合并游戏，参考键盘操作、分数反馈与状态动画
+# 文化与公共服务
+Wikimedia Commons|commons.wikimedia.org/wiki/Main_Page|浅色,专业,编辑感|开放媒体资料库，参考分类检索与授权信息展示
+# 商业与生活方式
+Spotify|open.spotify.com|大胆,动态,大视觉|音频产品网站，参考订阅方案、内容层级与品牌排版

@@ -1,0 +1,146 @@
+# 后台与管理模板
+Tabler Demo|preview.tabler.io|浅色,专业,产品演示|多页管理后台，参考紧凑表格、筛选栏与统计卡片|template|tabler/tabler|website
+AdminLTE Demo|adminlte.io/themes/v3|浅色,专业,产品演示|经典 Bootstrap 管理台，参考仪表盘、表单与侧边导航|template|ColorlibHQ/AdminLTE|website
+CoreUI Demo|coreui.io/demos/bootstrap/5.0/free|专业,浅色,产品演示|企业后台演示，参考数据摘要与管理界面布局|template|coreui/coreui-free-bootstrap-admin-template|website
+Flowbite Admin|flowbite-admin-dashboard.vercel.app|浅色,专业,产品演示|Tailwind 后台模板，参考电商数据、用户表格和筛选|template|themesberg/flowbite-admin-dashboard|website
+SB Admin 2|startbootstrap.github.io/startbootstrap-sb-admin-2|浅色,专业,产品演示|静态 HTML 后台模板，参考报表、卡片与导航层级|template|StartBootstrap/startbootstrap-sb-admin-2|website
+Volt Dashboard|demo.themesberg.com/volt|浅色,专业,产品演示|Bootstrap 管理台，参考任务统计、表单与账号页面|template|themesberg/volt-bootstrap-5-dashboard|website
+Sneat HTML|demos.themeselection.com/sneat-bootstrap-html-admin-template-free/html|浅色,精致,产品演示|轻量后台模板，参考分析图表、账户设置与布局|template|themeselection/sneat-bootstrap-html-admin-template-free|website
+Vue Element Admin|panjiachen.github.io/vue-element-admin|专业,浅色,产品演示|Vue 管理系统演示，参考复杂表格、标签页和权限菜单|template|PanJiaChen/vue-element-admin|website
+Ant Design Pro|preview.pro.ant.design|专业,浅色,产品演示|企业应用模板，参考工作台、查询表格与分步表单|template|ant-design/ant-design-pro|website
+Soybean Admin|soybeanjs.cn|浅色,精致,产品演示|Vue 管理后台演示，参考多布局切换与主题设置|template|soybeanjs/soybean-admin|website
+Vben Admin|www.vben.pro|专业,浅色,产品演示|Vue 后台方案，参考工作台、表单与多级导航|template|vbenjs/vue-vben-admin|website
+shadcn Admin|shadcn-admin.netlify.app|极简,黑白,产品演示|React 后台演示，参考数据表、命令菜单与设置页面|template|satnaing/shadcn-admin|website
+Vuestic Admin|admin.vuestic.dev|专业,浅色,产品演示|Vue 管理台，参考项目管理、数据图表和设置流程|template|epicmaxco/vuestic-admin|website
+Gentelella|colorlib.com/polygon/gentelella/index.html|专业,浅色,产品演示|多页后台模板，参考统计图表、日历与表单组件|template|ColorlibHQ/gentelella|website
+Sakai Vue|sakai.primevue.org|浅色,精致,产品演示|PrimeVue 管理模板，参考仪表盘与完整组件页面|template|primefaces/sakai-vue|website
+Material Dashboard|demos.creative-tim.com/material-dashboard/pages/dashboard.html|浅色,专业,产品演示|Material 风格后台，参考统计面板、侧栏与卡片层级|template|creativetimofficial/material-dashboard|website
+# 博客与作品集
+AstroPaper|astro-paper.pages.dev|极简,编辑感,浅色|内容优先的博客模板，参考文章索引、标签和搜索|template|satnaing/astro-paper|website
+Fuwari|fuwari.vercel.app|浅色,活泼,精致|Astro 博客模板，参考封面、文章卡片与阅读布局|template|saicaca/fuwari|website
+AstroWind|astrowind.vercel.app|浅色,专业,精致|Astro 落地页模板，参考功能区块、定价和内容页|template|onwidget/astrowind|website
+Astro Cactus|astro-cactus.chriswilliams.dev|极简,编辑感,黑白|轻量个人博客，参考留白、归档和清晰阅读层级|template|chrismwilliams/astro-theme-cactus|website
+Astro Nano|astro-nano-demo.vercel.app|极简,黑白,编辑感|个人作品与博客模板，参考紧凑信息布局和项目列表|template|markhorn-dev/astro-nano|website
+Astro Sphere|astro-sphere-demo.vercel.app|暗色,精致,编辑感|个人站点模板，参考履历、文章与项目展示|template|markhorn-dev/astro-sphere|website
+Hugo PaperMod|adityatelange.github.io/hugo-PaperMod|极简,编辑感,浅色|Hugo 博客主题，参考长文排版、目录和归档|template|adityatelange/hugo-PaperMod|website
+Hugo Book|hugo-book-demo.netlify.app|极简,浅色,专业|书籍式文档模板，参考双侧导航与分章节阅读|template|alex-shpak/hugo-book|website
+Chirpy|chirpy.cotes.page|浅色,编辑感,精致|Jekyll 博客主题，参考时间线、标签与文章阅读页|template|cotes2020/jekyll-theme-chirpy|website
+Minimal Mistakes|mmistakes.github.io/minimal-mistakes|浅色,编辑感,专业|多用途内容主题，参考作者栏、文章归档与目录|template|mmistakes/minimal-mistakes|website
+Beautiful Jekyll|beautifuljekyll.com|浅色,编辑感,极简|个人博客模板，参考文章摘要、页头和个人介绍|template|daattali/beautiful-jekyll|website
+al-folio|alshedivat.github.io/al-folio|浅色,编辑感,专业|学术作品集，参考论文列表、研究项目和个人履历|template|alshedivat/al-folio|website
+Just the Docs|just-the-docs.github.io/just-the-docs|浅色,极简,专业|Jekyll 文档主题，参考侧栏检索与文档信息层级|template|just-the-docs/just-the-docs|website
+HTML5 UP|html5up.net|大视觉,精致,产品演示|响应式 HTML 模板集合，参考作品集与内容落地页|collection|-|unknown
+Start Bootstrap|startbootstrap.com|浅色,专业,产品演示|Bootstrap 页面模板目录，参考博客、企业和管理页面|collection|-|unknown
+# 文档与组件库
+VitePress|vitepress.dev|浅色,极简,专业|Vue 静态文档方案，参考快速检索和双栏阅读|docs|vuejs/vitepress|product
+Nextra|nextra.site|极简,黑白,专业|Next.js 文档主题，参考侧栏、目录与代码示例|docs|shuding/nextra|product
+Fumadocs|fumadocs.dev|黑白,精致,专业|文档框架示例，参考文档导航、搜索与代码展示|docs|fuma-nama/fumadocs|product
+Material for MkDocs|squidfunk.github.io/mkdocs-material|专业,浅色,产品演示|技术文档主题，参考站内搜索、导航与注释展示|docs|squidfunk/mkdocs-material|product
+Docsify|docsify.js.org|极简,浅色,专业|轻量文档站点，参考 Markdown 阅读和侧边导航|docs|docsifyjs/docsify|product
+Scalar|scalar.com|黑白,专业,精致|API 文档与客户端，参考接口浏览和请求示例|docs|scalar/scalar|product
+Storybook|storybook.js.org|浅色,活泼,专业|组件开发文档，参考组件目录、示例展示和交互控制|docs|storybookjs/storybook|product
+Radix Themes|www.radix-ui.com/themes|极简,精致,产品演示|组件设计系统，参考排版、表单与主题配置|docs|radix-ui/themes|product
+Mantine|mantine.dev|浅色,专业,产品演示|React 组件文档，参考示例与参数控制联动|docs|mantinedev/mantine|product
+Chakra UI|chakra-ui.com|浅色,精致,专业|React 组件系统，参考组件分类、令牌和示例布局|docs|chakra-ui/chakra-ui|product
+Ant Design|ant.design|浅色,专业,产品演示|企业设计系统，参考高密度组件文档与模式说明|docs|ant-design/ant-design|product
+Element Plus|element-plus.org|浅色,专业,产品演示|Vue 组件文档，参考复杂表单、表格与示例组织|docs|element-plus/element-plus|product
+Naive UI|www.naiveui.com|浅色,极简,产品演示|Vue 组件示例，参考即时配置与主题切换|docs|tusen-ai/naive-ui|product
+Shoelace|shoelace.style|浅色,专业,极简|Web Components 文档，参考跨框架组件和示例布局|docs|shoelace-style/shoelace|product
+DaisyUI|daisyui.com|活泼,产品演示,精致|Tailwind 组件集合，参考主题展示与组件状态|docs|saadeghi/daisyui|product
+USWDS|designsystem.digital.gov|浅色,专业,编辑感|美国政府设计系统，参考公共服务表单与可访问组件|docs|uswds/uswds|product
+GOV.UK Design System|design-system.service.gov.uk|黑白,专业,极简|公共服务设计系统，参考表单流程、错误提示和内容规范|docs|alphagov/govuk-design-system|website
+# 数据可视化与地图
+Apache ECharts Examples|echarts.apache.org/examples/en/index.html|专业,产品演示,浅色|交互图表示例库，参考图表分类和在线编辑布局|visualization|apache/echarts|product
+D3|d3js.org|浅色,编辑感,产品演示|数据可视化工具文档，参考图形示例与叙事排版|visualization|d3/d3|product
+Observable Plot|observablehq.com/plot|浅色,专业,编辑感|统计图表文档，参考可视化示例与代码并置|visualization|observablehq/plot|product
+Vega-Lite Examples|vega.github.io/vega-lite/examples|浅色,专业,产品演示|声明式图表示例，参考统计图形与规格编辑|visualization|vega/vega-lite|product
+Chart.js Samples|www.chartjs.org/docs/latest/samples|浅色,专业,产品演示|图表示例文档，参考图表配置、交互与动画|visualization|chartjs/Chart.js|product
+Nivo|nivo.rocks|浅色,精致,产品演示|React 图表交互展示，参考配置面板和实时预览|visualization|plouc/nivo|product
+Recharts|recharts.org|浅色,专业,产品演示|React 图表库，参考图表演示与组件化说明|visualization|recharts/recharts|product
+AntV G2|g2.antv.antgroup.com|浅色,专业,产品演示|可视化语法与示例，参考图形叙事和配置编辑|visualization|antvis/G2|product
+AntV X6|x6.antv.antgroup.com|浅色,专业,产品演示|图编辑引擎，参考节点连线、流程编排和编辑器|visualization|antvis/X6|product
+React Flow|reactflow.dev|浅色,精致,产品演示|节点编辑器，参考流程画布、端口连线与交互控件|visualization|xyflow/xyflow|product
+Mermaid Live Editor|mermaid.live|浅色,专业,产品演示|文本图表编辑器，参考编辑和预览同步的双栏布局|app|mermaid-js/mermaid-live-editor|website
+Excalidraw Mermaid|mermaid-to-excalidraw.vercel.app|浅色,产品演示,极简|将图表文本转为手绘画布，参考代码与画布联动|app|excalidraw/mermaid-to-excalidraw|website
+Leaflet|leafletjs.com|浅色,极简,专业|地图组件文档，参考轻量地图交互与示例组织|visualization|Leaflet/Leaflet|product
+MapLibre GL JS|maplibre.org/maplibre-gl-js/docs|浅色,专业,产品演示|矢量地图引擎文档，参考地图样式与交互演示|visualization|maplibre/maplibre-gl-js|product
+OpenLayers|openlayers.org|浅色,专业,产品演示|开源地图平台，参考图层、地图控件与示例检索|visualization|openlayers/openlayers|product
+deck.gl|deck.gl|暗色,大视觉,产品演示|大规模空间数据可视化，参考图层与三维地图展示|visualization|visgl/deck.gl|product
+Kepler.gl Demo|kepler.gl/demo|专业,暗色,产品演示|地理数据分析界面，参考图层面板、筛选和地图画布|app|keplergl/kepler.gl|website
+OpenStreetMap|www.openstreetmap.org|浅色,专业,产品演示|开放地图应用，参考搜索、地图工具和社区入口|app|openstreetmap/openstreetmap-website|website
+Our World in Data|ourworldindata.org|浅色,编辑感,专业|公共数据叙事，参考文章、交互图表与数据来源组织|visualization|owid/owid-grapher|product
+Gapminder Tools|www.gapminder.org/tools|浅色,专业,产品演示|统计数据探索工具，参考时间轴、动态图表和筛选|app|gapminder/gapminder-tools|website
+# 在线工具与开源应用
+Squoosh|squoosh.app|活泼,产品演示,精致|浏览器图片压缩工具，参考拖放、前后对比和参数面板|app|GoogleChromeLabs/squoosh|website
+SVGOMG|jakearchibald.github.io/svgomg|浅色,极简,产品演示|SVG 优化工具，参考即时预览与紧凑设置面板|app|jakearchibald/svgomg|website
+Photopea|www.photopea.com|暗色,专业,产品演示|浏览器图像编辑器，参考工具栏、图层与多面板工作区|app|-|unknown
+diagrams.net|app.diagrams.net|浅色,专业,产品演示|在线绘图应用，参考组件面板、画布与文件流程|app|jgraph/drawio|website
+JSON Crack|jsoncrack.com/editor|暗色,专业,产品演示|JSON 图形化编辑器，参考结构展开、节点布局和工具栏|app|AykutSarac/jsoncrack.com|website
+IT Tools|it-tools.tech|浅色,专业,产品演示|开发者工具集合，参考分类导航、即时输入和结果展示|app|CorentinTh/it-tools|website
+CyberChef|gchq.github.io/CyberChef|浅色,专业,产品演示|数据转换工作台，参考步骤编排与多栏输入输出|app|gchq/CyberChef|website
+Hoppscotch|hoppscotch.io|暗色,专业,产品演示|API 请求工具，参考请求配置、标签页和响应面板|app|hoppscotch/hoppscotch|website
+Regex101|regex101.com|暗色,专业,产品演示|正则表达式工作台，参考实时匹配、解释和测试案例|app|-|unknown
+RegExr|regexr.com|浅色,专业,产品演示|正则可视化工具，参考实时高亮与语法提示|app|gskinner/regexr|website
+Carbon|carbon.now.sh|暗色,精致,产品演示|代码图片制作工具，参考主题设置与即时导出预览|app|carbon-app/carbon|website
+Ray.so|ray.so|暗色,精致,产品演示|代码图片编辑器，参考主题、背景与代码排版控制|app|raycast/ray-so|website
+Reactive Resume|rxresu.me|浅色,精致,产品演示|简历制作工具，参考模板选择与结构化表单|app|AmruthPillai/Reactive-Resume|product
+OpenResume|www.open-resume.com|浅色,专业,产品演示|简历编辑与解析工具，参考分步输入和文档预览|app|xitanggg/open-resume|website
+PairDrop|pairdrop.net|浅色,极简,产品演示|浏览器文件互传应用，参考设备发现与轻量交互|app|schlagmichdoch/PairDrop|website
+LocalSend|localsend.org|浅色,极简,精致|局域网文件传输产品，参考跨平台下载与功能说明|homepage|localsend/localsend|product
+Stirling PDF|www.stirlingpdf.com|浅色,专业,产品演示|文档处理工具产品页，参考任务分类与功能导航|homepage|Stirling-Tools/Stirling-PDF|product
+HedgeDoc|hedgedoc.org|浅色,专业,极简|协作 Markdown 编辑器，参考编辑场景与协作说明|homepage|hedgedoc/hedgedoc|product
+Hoarder / Karakeep|karakeep.app|浅色,精致,产品演示|自托管书签管理产品，参考内容卡片与标签组织|homepage|karakeep-app/karakeep|product
+Mealie|mealie.io|浅色,精致,产品演示|食谱与膳食管理产品，参考内容分类与家庭使用场景|homepage|mealie-recipes/mealie|product
+Immich|immich.app|暗色,精致,产品演示|照片管理产品，参考相册界面、时间轴与功能展示|homepage|immich-app/immich|product
+Jellyfin|jellyfin.org|暗色,大视觉,产品演示|开源媒体中心，参考媒体海报、客户端与功能组织|homepage|jellyfin/jellyfin|product
+Home Assistant|www.home-assistant.io|浅色,产品演示,专业|智能家居平台，参考设备整合与家庭控制场景|homepage|home-assistant/frontend|product
+Actual Budget|actualbudget.org|浅色,精致,产品演示|个人预算工具，参考财务表格、分类与产品说明|homepage|actualbudget/actual|product
+Formbricks|formbricks.com|浅色,专业,产品演示|调查与反馈产品，参考问卷制作和嵌入场景展示|homepage|formbricks/formbricks|product
+Appsmith|www.appsmith.com|浅色,专业,产品演示|内部应用构建器，参考工作流、组件与编辑器展示|homepage|appsmithorg/appsmith|product
+ToolJet|www.tooljet.com|浅色,专业,产品演示|低代码业务应用平台，参考编辑器与企业场景展示|homepage|ToolJet/ToolJet|product
+Budibase|budibase.com|浅色,专业,产品演示|业务流程应用平台，参考表单、自动化与模板目录|homepage|Budibase/budibase|product
+NocoDB|nocodb.com|浅色,专业,产品演示|表格数据库产品，参考数据视图与协作界面展示|homepage|nocodb/nocodb|product
+Baserow|baserow.io|浅色,专业,产品演示|无代码数据库产品，参考表格、视图与应用构建场景|homepage|-|unknown
+ERPNext|frappe.io/erpnext|浅色,专业,产品演示|开源企业管理产品，参考财务、库存与行业方案组织|homepage|frappe/erpnext|product
+Odoo|www.odoo.com|浅色,活泼,产品演示|企业应用套件，参考跨业务模块与应用入口设计|homepage|odoo/odoo|product
+# 交互实验与游戏
+WebGL Fluid Simulation|paveldogreat.github.io/WebGL-Fluid-Simulation|暗色,动态,实验性|鼠标驱动的流体实验，参考全屏画布与即时参数控制|experiment|PavelDoGreat/WebGL-Fluid-Simulation|website
+WebGL Water|madebyevan.com/webgl-water|动态,实验性,产品演示|实时水面实验，参考鼠标交互、光照与物理反馈|experiment|evanw/webgl-water|website
+The Book of Shaders|thebookofshaders.com|实验性,编辑感,产品演示|交互着色器教材，参考代码编辑与视觉结果并置|experiment|patriciogonzalezvivo/thebookofshaders|website
+Shadertoy|www.shadertoy.com|暗色,动态,实验性|着色器创作社区，参考实时图形与代码编辑工作区|collection|-|unknown
+p5.js Examples|p5js.org/examples|浅色,实验性,产品演示|创意编程示例库，参考画布交互与示例分类|experiment|processing/p5.js|product
+Hydra|hydra.ojack.xyz|暗色,动态,实验性|实时视觉编程工具，参考代码叠层和全屏动态反馈|experiment|hydra-synth/hydra|website
+Patatap|patatap.com|动态,活泼,实验性|键盘触发的声音与图形实验，参考即时视听反馈|experiment|-|unknown
+Chrome Music Lab|musiclab.chromeexperiments.com|活泼,产品演示,实验性|音乐交互实验集合，参考触控操作和可视化教学|experiment|googlecreativelab/chrome-music-lab|product
+Chrome Music Lab Song Maker|musiclab.chromeexperiments.com/Song-Maker|活泼,产品演示,实验性|网格作曲工具，参考节奏输入、播放与即时反馈|experiment|-|unknown
+2048|play2048.co|极简,活泼,产品演示|滑动合并游戏，参考键盘操作、分数反馈与状态动画|experiment|gabrielecirulli/2048|website
+Hextris|hextris.io|暗色,动态,产品演示|旋转六边形益智游戏，参考键盘反馈与画布状态|experiment|Hextris/hextris|website
+Sandspiel|sandspiel.club|活泼,实验性,产品演示|像素沙盒，参考材料工具栏与实时物理画布|experiment|MaxBittker/sandspiel|website
+Little Alchemy 2|littlealchemy2.com|活泼,产品演示,精致|元素组合游戏，参考拖放交互、发现反馈与图鉴|experiment|-|unknown
+Nicky Case|ncase.me|编辑感,活泼,实验性|交互叙事与解释性游戏集合，参考以操作讲解概念|collection|ncase/ncase.github.io|website
+The Evolution of Trust|ncase.me/trust|编辑感,活泼,实验性|可交互的博弈解释，参考分章叙事与可操作演示|experiment|ncase/trust|website
+LOOPY|ncase.me/loopy|活泼,产品演示,实验性|系统关系模拟画布，参考手绘节点、反馈循环和播放|experiment|ncase/loopy|website
+Neal.fun|neal.fun|活泼,大视觉,实验性|浏览器互动作品集合，参考小工具、游戏和信息叙事|collection|-|unknown
+Red Blob Games|www.redblobgames.com|编辑感,实验性,产品演示|算法交互教程，参考可拖动图解与说明文字联动|experiment|-|unknown
+# 文化与公共服务
+NASA|www.nasa.gov|暗色,大视觉,编辑感|航天公共信息网站，参考新闻层级、专题与媒体展示|homepage|-|unknown
+European Space Agency|www.esa.int|大视觉,编辑感,专业|航天机构网站，参考科学专题、任务导航与图像故事|homepage|-|unknown
+CERN|home.cern|大视觉,编辑感,专业|科学机构网站，参考研究叙事、公众内容与新闻布局|homepage|-|unknown
+Smithsonian|www.si.edu|大视觉,编辑感,浅色|博物馆机构门户，参考展览导航、藏品与教育内容|homepage|-|unknown
+Rijksmuseum|www.rijksmuseum.nl/en|大视觉,编辑感,精致|艺术博物馆网站，参考藏品图像、展览与参观流程|homepage|-|unknown
+The Met|www.metmuseum.org|编辑感,大视觉,精致|艺术博物馆网站，参考策展内容、馆藏和访客服务|homepage|-|unknown
+Victoria and Albert Museum|www.vam.ac.uk|大视觉,编辑感,精致|设计博物馆网站，参考展览卡片与文化内容组织|homepage|-|unknown
+GOV.UK|www.gov.uk|极简,专业,黑白|公共服务入口，参考任务导向导航与清晰文本层级|homepage|-|unknown
+Internet Archive|archive.org|浅色,编辑感,专业|数字资料馆，参考媒体分类、检索与内容元信息|homepage|-|unknown
+Wikimedia Commons|commons.wikimedia.org|浅色,专业,编辑感|开放媒体资料库，参考分类检索与授权信息展示|homepage|-|unknown
+# 商业与生活方式
+Airbnb|www.airbnb.com|浅色,大视觉,精致|住宿与体验产品，参考搜索、筛选和图片卡片|homepage|-|unknown
+Booking.com|www.booking.com|浅色,专业,产品演示|旅行预订平台，参考目的地搜索与高密度筛选|homepage|-|unknown
+Patagonia|www.patagonia.com|大视觉,编辑感,精致|户外品牌网站，参考商品与环保故事的内容编排|homepage|-|unknown
+Aesop|www.aesop.com|极简,编辑感,精致|护肤零售网站，参考克制排版、产品细节与购物流程|homepage|-|unknown
+MUJI|www.muji.com|极简,编辑感,浅色|生活方式品牌，参考地区入口、留白与商品导航|homepage|-|unknown
+IKEA|www.ikea.com|浅色,大视觉,专业|家居零售网站，参考场景图片、分类与购物入口|homepage|-|unknown
+Spotify|www.spotify.com|大胆,动态,大视觉|音频产品网站，参考订阅方案、内容层级与品牌排版|homepage|-|unknown
+Wise|wise.com|大胆,精致,产品演示|跨境金融产品，参考费用计算、数字说明与交易流程|homepage|-|unknown
+Revolut|www.revolut.com|大视觉,精致,产品演示|数字金融产品，参考移动界面、方案比较与功能导航|homepage|-|unknown
+Headspace|www.headspace.com|活泼,浅色,精致|身心健康产品，参考插画、内容分类与订阅引导|homepage|-|unknown

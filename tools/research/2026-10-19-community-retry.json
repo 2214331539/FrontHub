@@ -1,0 +1,210 @@
+{
+  "reviewedAt": "2026-10-19T14:35:03.001Z",
+  "candidates": [
+    {
+      "id": "naive_soybeanjs_cn",
+      "name": "Soybean Admin",
+      "url": "https://naive.soybeanjs.cn",
+      "category": "后台与管理模板",
+      "tags": [
+        "浅色",
+        "精致",
+        "产品演示"
+      ],
+      "summary": "Vue 管理后台演示，参考多布局切换与主题设置",
+      "checkedAt": "2026-10-19T14:34:57.965Z",
+      "httpStatus": 200,
+      "finalUrl": "https://naive.soybeanjs.cn/",
+      "xFrameOptions": "",
+      "csp": "",
+      "title": "SoybeanAdmin",
+      "description": "",
+      "heading": "",
+      "requiresReview": false
+    },
+    {
+      "id": "preview_colorlib_com_theme_gentelella_index_html",
+      "name": "Gentelella",
+      "url": "https://preview.colorlib.com/theme/gentelella/index.html",
+      "category": "后台与管理模板",
+      "tags": [
+        "专业",
+        "浅色",
+        "产品演示"
+      ],
+      "summary": "多页后台模板，参考统计图表、日历与表单组件",
+      "checkedAt": "2026-10-19T14:34:57.974Z",
+      "error": "fetch failed",
+      "requiresReview": true
+    },
+    {
+      "id": "book_alxs_dev",
+      "name": "Hugo Book",
+      "url": "https://book.alxs.dev",
+      "category": "博客与作品集",
+      "tags": [
+        "极简",
+        "浅色",
+        "专业"
+      ],
+      "summary": "书籍式文档模板，参考双侧导航与分章节阅读",
+      "checkedAt": "2026-10-19T14:34:57.975Z",
+      "httpStatus": 200,
+      "finalUrl": "https://book.alxs.dev/",
+      "xFrameOptions": "",
+      "csp": "",
+      "title": "Hugo Book • Hugo Book",
+      "description": "",
+      "heading": "Hugo Book",
+      "requiresReview": false
+    },
+    {
+      "id": "cotes2020_github_io_chirpy-demo",
+      "name": "Chirpy",
+      "url": "https://cotes2020.github.io/chirpy-demo",
+      "category": "博客与作品集",
+      "tags": [
+        "浅色",
+        "编辑感",
+        "精致"
+      ],
+      "summary": "Jekyll 博客主题，参考时间线、标签与文章阅读页",
+      "checkedAt": "2026-10-19T14:34:57.976Z",
+      "httpStatus": 200,
+      "finalUrl": "https://chirpy.cotes.page/",
+      "xFrameOptions": "",
+      "csp": "",
+      "title": "Chirpy",
+      "description": "A minimal, responsive and feature-rich Jekyll theme for technical writing.",
+      "heading": "Getting Started",
+      "requiresReview": false,
+      "redirected": true
+    },
+    {
+      "id": "www_radix-ui_com",
+      "name": "Radix Themes",
+      "url": "https://www.radix-ui.com",
+      "category": "文档与组件库",
+      "tags": [
+        "极简",
+        "精致",
+        "产品演示"
+      ],
+      "summary": "组件设计系统，参考排版、表单与主题配置",
+      "checkedAt": "2026-10-19T14:34:57.976Z",
+      "httpStatus": 200,
+      "finalUrl": "https://www.radix-ui.com/",
+      "xFrameOptions": "",
+      "csp": "",
+      "title": "Radix UI",
+      "description": "Components, icons, and colors for building high‑quality, accessible UI. Free and open-source.",
+      "heading": "Start building your app now",
+      "requiresReview": false
+    },
+    {
+      "id": "recharts_github_io",
+      "name": "Recharts",
+      "url": "https://recharts.github.io",
+      "category": "数据可视化与地图",
+      "tags": [
+        "浅色",
+        "专业",
+        "产品演示"
+      ],
+      "summary": "React 图表库，参考图表演示与组件化说明",
+      "checkedAt": "2026-10-19T14:34:57.977Z",
+      "httpStatus": 200,
+      "finalUrl": "https://recharts.github.io/",
+      "xFrameOptions": "",
+      "csp": "",
+      "title": "Recharts",
+      "description": "Recharts - Re-designed charting library built with React and D3.",
+      "heading": "Recharts",
+      "requiresReview": false
+    },
+    {
+      "id": "www_stirling_com",
+      "name": "Stirling PDF",
+      "url": "https://www.stirling.com",
+      "category": "在线工具与开源应用",
+      "tags": [
+        "浅色",
+        "专业",
+        "产品演示"
+      ],
+      "summary": "文档处理工具产品页，参考任务分类与功能导航",
+      "checkedAt": "2026-10-19T14:34:58.991Z",
+      "httpStatus": 200,
+      "finalUrl": "https://www.stirling.com/",
+      "xFrameOptions": "",
+      "csp": "",
+      "title": "Stirling PDF - 30M+ Downloads",
+      "description": "A free, private PDF editor you can run on any infrastructure.",
+      "heading": "Your PDFs. Your AI.",
+      "requiresReview": false
+    },
+    {
+      "id": "gabrielecirulli_github_io_2048",
+      "name": "2048",
+      "url": "https://gabrielecirulli.github.io/2048",
+      "category": "交互实验与游戏",
+      "tags": [
+        "极简",
+        "活泼",
+        "产品演示"
+      ],
+      "summary": "滑动合并游戏，参考键盘操作、分数反馈与状态动画",
+      "checkedAt": "2026-10-19T14:34:58.998Z",
+      "httpStatus": 200,
+      "finalUrl": "https://gabrielecirulli.github.io/2048/",
+      "xFrameOptions": "",
+      "csp": "",
+      "title": "2048",
+      "description": "Join the numbers and get to the 2048 tile! Careful: this game is extremely addictive!",
+      "heading": "2048",
+      "requiresReview": false
+    },
+    {
+      "id": "commons_wikimedia_org_wiki_main_page",
+      "name": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/Main_Page",
+      "category": "文化与公共服务",
+      "tags": [
+        "浅色",
+        "专业",
+        "编辑感"
+      ],
+      "summary": "开放媒体资料库，参考分类检索与授权信息展示",
+      "checkedAt": "2026-10-19T14:34:59.032Z",
+      "httpStatus": 200,
+      "finalUrl": "https://commons.wikimedia.org/wiki/Main_Page",
+      "xFrameOptions": "",
+      "csp": "script-src 'unsafe-eval' blob: 'self' meta.wikimedia.org *.wikimedia.org *.wikipedia.org *.wikinews.org *.wiktionary.org *.wikibooks.org *.wikiversity.org *.wikisource.org wikisource.org *.wikiquote.org *.wikidata.org *.wikifunctions.org *.wikivoyage.org *.mediawiki.org mediawiki.org wikimedia.org *.wmflabs.org *.wmcloud.org *.toolforge.org wss://*.toolforge.org *.jsdelivr.net unpkg.com cdnjs.cloudflare.com raw.githubusercontent.com *.github.com code.jquery.com cdn.mathjax.org use.typekit.net fonts.cdnfonts.com use.fontawesome.com i.ytimg.com rsms.me doi.org localhost https://localhost:* http://localhost:* wss://localhost:* ws://localhost:* *.google.com *.gstatic.com *.googleapis.com *.translate.yandex.net yastatic.net ya.ru radically.github.io cdn.sammdot.ca cdn.fontshare.com viaf.org publicai-proxy.alaexis.workers.dev iiif.archive.org api.flickr.com live.staticflickr.com api.anthropic.com api.openai.com api.publicai.co catalogo.pusc.it parsifal.urbe.it opac.sbn.it overpass-api.de api.openrouteservice.org archive.org *.openstreetmap.org *.waymarkedtrails.org *.thunderforest.com registry.ipe.wiki analytics.ipe.wiki qlever.dev app.goacoustic.com wikipedia-archive.ourworldindata.org api.inaturalist.org inaturalist-open-data.s3.amazonaws.com validator.w3.org db.onlinewebfonts.com fontlibrary.org 'unsafe-inline' auth.wikimedia.org; default-src 'self' data: blob: https://upload.wikimedia.org https://thumb.wikimedia.org meta.wikimedia.org *.wikimedia.org *.wikipedia.org *.wikinews.org *.wiktionary.org *.wikibooks.org *.wikiversity.org *.wikisource.org wikisource.org *.wikiquote.org *.wikidata.org *.wikifunctions.org *.wikivoyage.org *.mediawiki.org mediawiki.org wikimedia.org *.wmflabs.org *.wmcloud.org *.toolforge.org wss://*.toolforge.org *.jsdelivr.net unpkg.com cdnjs.cloudflare.com raw.githubusercontent.com *.github.com code.jquery.com cdn.mathjax.org use.typekit.net fonts.cdnfonts.com use.fontawesome.com i.ytimg.com rsms.me doi.org localhost https://localhost:* http://localhost:* wss://localhost:* ws://localhost:* *.google.com *.gstatic.com *.googleapis.com *.translate.yandex.net yastatic.net ya.ru radically.github.io cdn.sammdot.ca cdn.fontshare.com viaf.org publicai-proxy.alaexis.workers.dev iiif.archive.org api.flickr.com live.staticflickr.com api.anthropic.com api.openai.com api.publicai.co catalogo.pusc.it parsifal.urbe.it opac.sbn.it overpass-api.de api.openrouteservice.org archive.org *.openstreetmap.org *.waymarkedtrails.org *.thunderforest.com registry.ipe.wiki analytics.ipe.wiki qlever.dev app.goacoustic.com wikipedia-archive.ourworldindata.org api.inaturalist.org inaturalist-open-data.s3.amazonaws.com validator.w3.org db.onlinewebfonts.com fontlibrary.org en.wikipedia.org en.wikibooks.org en.wikinews.org en.wikiquote.org en.wikisource.org en.wikiversity.org en.wikivoyage.org en.wiktionary.org www.mediawiki.org foundation.wikimedia.org incubator.wikimedia.org species.wikimedia.org wikimania.wikimedia.org www.wikidata.org www.wikifunctions.org auth.wikimedia.org; style-src 'self' data: blob: https://upload.wikimedia.org https://thumb.wikimedia.org meta.wikimedia.org *.wikimedia.org *.wikipedia.org *.wikinews.org *.wiktionary.org *.wikibooks.org *.wikiversity.org *.wikisource.org wikisource.org *.wikiquote.org *.wikidata.org *.wikifunctions.org *.wikivoyage.org *.mediawiki.org mediawiki.org wikimedia.org *.wmflabs.org *.wmcloud.org *.toolforge.org wss://*.toolforge.org *.jsdelivr.net unpkg.com cdnjs.cloudflare.com raw.githubusercontent.com *.github.com code.jquery.com cdn.mathjax.org use.typekit.net fonts.cdnfonts.com use.fontawesome.com i.ytimg.com rsms.me doi.org localhost https://localhost:* http://localhost:* wss://localhost:* ws://localhost:* *.google.com *.gstatic.com *.googleapis.com *.translate.yandex.net yastatic.net ya.ru radically.github.io cdn.sammdot.ca cdn.fontshare.com viaf.org publicai-proxy.alaexis.workers.dev iiif.archive.org api.flickr.com live.staticflickr.com api.anthropic.com api.openai.com api.publicai.co catalogo.pusc.it parsifal.urbe.it opac.sbn.it overpass-api.de api.openrouteservice.org archive.org *.openstreetmap.org *.waymarkedtrails.org *.thunderforest.com registry.ipe.wiki analytics.ipe.wiki qlever.dev app.goacoustic.com wikipedia-archive.ourworldindata.org api.inaturalist.org inaturalist-open-data.s3.amazonaws.com validator.w3.org db.onlinewebfonts.com fontlibrary.org 'unsafe-inline'; object-src 'none'; report-uri /w/api.php?action=cspreport&format=json; report-to csp-report-to-endpoint",
+      "title": "Wikimedia Commons",
+      "description": "",
+      "heading": "Main Page",
+      "requiresReview": false
+    },
+    {
+      "id": "open_spotify_com",
+      "name": "Spotify",
+      "url": "https://open.spotify.com",
+      "category": "商业与生活方式",
+      "tags": [
+        "大胆",
+        "动态",
+        "大视觉"
+      ],
+      "summary": "音频产品网站，参考订阅方案、内容层级与品牌排版",
+      "checkedAt": "2026-10-19T14:34:59.801Z",
+      "httpStatus": 200,
+      "finalUrl": "https://open.spotify.com/",
+      "xFrameOptions": "",
+      "csp": "script-src 'self' 'unsafe-eval' blob: open.spotifycdn.com open-review.spotifycdn.com quicksilver.scdn.co www.google-analytics.com www.googletagmanager.com static.ads-twitter.com analytics.twitter.com s.pinimg.com sc-static.net https://www.google.com/recaptcha/ cdn.ravenjs.com connect.facebook.net www.gstatic.com sb.scorecardresearch.com pixel-static.spotify.com cdn.cookielaw.org geolocation.onetrust.com www.fastly-insights.com static.hotjar.com script.hotjar.com https://www.googleadservices.com/pagead/conversion_async.js https://www.googleadservices.com/pagead/conversion/ https://analytics.tiktok.com/i18n/pixel/sdk.js https://analytics.tiktok.com/i18n/pixel/identify.js https://analytics.tiktok.com/i18n/pixel/config.js https://www.redditstatic.com/ads/pixel.js https://t.contentsquare.net/uxa/22f14577e19f3.js https://get.microsoft.com/badge/ms-store-badge.bundled.js https://cdn.us.heap-api.com https://heapanalytics.com 'sha256-WfsTi7oVogdF9vq5d14s2birjvCglqWF842fyHhzoNw=' 'sha256-KRzjHxCdT8icNaDOqPBdY0AlKiIh5F8r4bnbe1PQwss=' 'sha256-Z5wh7XXSBR1+mTxLSPFhywCZJt77+uP1GikAgPIsu2s=' 'sha256-o2wzIImHJ4+WWE5DCTR+myWU0UNml0+wwpDXRo++vII='; frame-ancestors 'self' https://adgen-dev.spotify.com/account/*/ad/*/details https://adgen-dev.spotify.com/preview/* https://local.spotify.net/account/*/ad/*/details https://local.spotify.net/preview/* https://app.smartly.io/*;",
+      "title": "Spotify - Web Player: Listen to Music, Podcasts, and Audiobooks Online",
+      "description": "Spotify is a digital music service that gives you access to millions of songs, podcasts, and audiobooks. Listen to your favorites online now.",
+      "heading": "",
+      "requiresReview": false
+    }
+  ]
+}

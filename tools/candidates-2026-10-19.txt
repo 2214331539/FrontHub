@@ -1,0 +1,127 @@
+# 科研与知识管理
+Todoist|todoist.com|浅色,产品演示,精致|任务管理；参考清晰的功能分组
+Superlist|superlist.com|大胆,动态,产品演示|任务协作；参考大字号与交互演示
+Sunsama|sunsama.com|浅色,精致,产品演示|每日计划；参考工作流叙事
+Akiflow|akiflow.com|暗色,产品演示,专业|日程与任务；参考快捷操作展示
+Routine|routine.co|极简,精致,产品演示|日程工作台；参考界面与留白
+Morgen|morgen.so|浅色,产品演示,专业|日程规划；参考多平台功能呈现
+Amie|amie.so|浅色,精致,产品演示|日程与效率；参考轻盈的产品展示
+Goodnotes|goodnotes.com|浅色,产品演示,活泼|数字笔记；参考手写素材与场景
+Notability|notability.com|浅色,产品演示,精致|笔记与学习；参考设备画面编排
+Fabric|fabric.so|暗色,精致,产品演示|数字资料整理；参考知识检索展示
+
+# AI 与 Agent
+Wispr Flow|wisprflow.ai|浅色,编辑感,产品演示|语音输入；参考生活场景与排版
+Base44|base44.com|大胆,产品演示,AI|应用生成；参考直接的输入入口
+Tavus|tavus.io|大视觉,AI,产品演示|视频交互；参考人物与产品演示
+Hebbia|hebbia.com|极简,专业,编辑感|企业研究工具；参考克制的视觉
+
+# 开发者平台
+Netlify|netlify.com|暗色,专业,产品演示|Web 部署；参考技术平台信息层级
+Vite|vite.dev|渐变,专业,产品演示|前端构建；参考开发者首页结构
+React|react.dev|浅色,专业,产品演示|UI 框架；参考交互示例与文档入口
+Vue.js|vuejs.org|极简,专业,浅色|前端框架；参考渐进式信息层级
+GSAP|gsap.com|大胆,动态,实验性|网页动画；参考滚动与动效演示
+Motion|motion.dev|动态,产品演示,精致|交互动画；参考可操作的示例
+Three.js|threejs.org|极简,实验性,大视觉|三维网页；参考作品画廊与案例
+Babylon.js|babylonjs.com|暗色,大视觉,实验性|三维引擎；参考实时图形展示
+Rspack|rspack.dev|暗色,专业,产品演示|Web 构建；参考性能对比与文档
+Rsbuild|rsbuild.dev|浅色,专业,极简|构建工具；参考简洁的上手路径
+TanStack|tanstack.com|大胆,专业,产品演示|前端工具集；参考多产品导航
+Hono|hono.dev|极简,专业,浅色|Web 框架；参考代码与功能分栏
+Elysia|elysiajs.com|渐变,专业,产品演示|TypeScript 框架；参考代码对照
+Drizzle ORM|orm.drizzle.team|暗色,极简,专业|数据库工具；参考命令与代码呈现
+Prisma|prisma.io|暗色,产品演示,专业|数据平台；参考开发者产品叙事
+Appwrite|appwrite.io|暗色,产品演示,专业|应用后端；参考模块化能力展示
+PocketBase|pocketbase.io|浅色,极简,产品演示|轻量后端；参考简洁的下载入口
+Directus|directus.io|浅色,产品演示,专业|数据与内容平台；参考后台演示
+Storyblok|storyblok.com|浅色,产品演示,专业|内容管理；参考可视化编辑展示
+Prismic|prismic.io|大胆,产品演示,专业|网站内容平台；参考组件叙事
+DatoCMS|datocms.com|浅色,精致,产品演示|内容管理；参考细致的功能呈现
+Mintlify|mintlify.com|极简,浅色,产品演示|文档平台；参考文档与营销页融合
+Starlight|starlight.astro.build|暗色,专业,极简|文档工具；参考直观的功能索引
+Docusaurus|docusaurus.io|浅色,活泼,专业|文档建站；参考内容导航层级
+Browserbase|browserbase.com|大胆,专业,产品演示|浏览器基础设施；参考图解演示
+Steel|steel.dev|暗色,极简,专业|浏览器 API；参考代码与任务展示
+Firecrawl|firecrawl.dev|浅色,大胆,产品演示|网页数据工具；参考交互式入口
+Inertia.js|inertiajs.com|极简,专业,浅色|Web 应用工具；参考清晰的文档
+
+# 设计与创作
+Lusion|lusion.co|实验性,动态,大视觉|创意技术工作室；参考 3D 叙事
+Active Theory|activetheory.net|实验性,动态,大视觉|数字体验工作室；参考沉浸交互
+Locomotive|locomotive.ca|大胆,编辑感,动态|设计工作室；参考滚动与作品编排
+Resn|resn.co.nz|实验性,动态,大视觉|创意技术工作室；参考交互表达
+Dogstudio|dogstudio.co|暗色,动态,大视觉|数字设计工作室；参考空间叙事
+Immersive Garden|immersive-g.com|实验性,动态,大视觉|数字体验工作室；参考场景转场
+Unseen Studio|unseen.co|实验性,大视觉,动态|创意工作室；参考沉浸式作品展示
+Instrument|instrument.com|编辑感,大视觉,专业|品牌与数字设计；参考案例叙事
+Koto|koto.studio|大胆,编辑感,大视觉|品牌设计；参考鲜明的作品编排
+Pentagram|pentagram.com|极简,编辑感,专业|设计工作室；参考大型作品索引
+Studio Freight|studiofreight.com|实验性,编辑感,动态|独立设计工作室；参考字体与动效
+BASIC/DEPT|basicagency.com|黑白,编辑感,大视觉|品牌与数字体验；参考网格节奏
+How&How|how.studio|大胆,编辑感,大视觉|品牌工作室；参考项目视觉叙事
+Work & Co|work.co|极简,编辑感,专业|数字产品设计；参考案例信息层级
+BUCK|buck.co|大胆,大视觉,动态|设计与动画；参考动态作品画廊
+AREA 17|area17.com|极简,编辑感,专业|品牌与数字设计；参考网格与字体
+Pangram Pangram|pangrampangram.com|大胆,编辑感,实验性|字体设计；参考大字号与字形展示
+Grilli Type|grillitype.com|编辑感,实验性,动态|字体设计；参考字形互动与排版
+Dinamo|abcdinamo.com|实验性,编辑感,大胆|字体工作室；参考字形与界面实验
+Linearity|linearity.io|浅色,大胆,产品演示|矢量与动效设计；参考工具展示
+Penpot|penpot.app|浅色,产品演示,专业|开源设计协作；参考工作流演示
+Sketch|sketch.com|浅色,精致,产品演示|界面设计工具；参考设备与画面组合
+Semplice|semplice.com|大胆,编辑感,大视觉|作品集建站；参考案例与排版
+
+# 企业 SaaS
+Front|front.com|浅色,精致,产品演示|客户沟通；参考工作台展示
+Help Scout|helpscout.com|浅色,编辑感,产品演示|客户服务；参考温和的品牌表达
+Crisp|crisp.chat|浅色,产品演示,专业|客户服务工具；参考功能分层
+Customer.io|customer.io|编辑感,产品演示,专业|客户消息平台；参考流程图解
+Loops|loops.so|浅色,极简,产品演示|产品邮件；参考直观的编辑器演示
+Mixpanel|mixpanel.com|大胆,产品演示,专业|产品分析；参考数据图表呈现
+Amplitude|amplitude.com|浅色,产品演示,专业|产品数据平台；参考能力模块
+Metaview|metaview.ai|浅色,精致,产品演示|招聘协作；参考人物与产品叙事
+Clay|clay.com|编辑感,产品演示,精致|销售工作流；参考数据与品牌表达
+Dovetail|dovetail.com|大胆,编辑感,产品演示|用户研究；参考洞察与案例编排
+Maze|maze.co|浅色,产品演示,精致|用户研究；参考研究流程展示
+Equals|equals.com|浅色,极简,产品演示|数据工作台；参考表格与叙事
+incident.io|incident.io|浅色,专业,产品演示|故障协作；参考流程与信息层级
+1Password|1password.com|浅色,精致,产品演示|密码与访问管理；参考可信产品表达
+
+# 教育与语言
+Frontend Mentor|frontendmentor.io|浅色,产品演示,专业|前端项目练习；参考案例与学习路径
+Frontend Masters|frontendmasters.com|暗色,专业,编辑感|开发课程；参考课程目录组织
+Scrimba|scrimba.com|浅色,大胆,产品演示|交互编程学习；参考学习体验演示
+Exercism|exercism.org|浅色,活泼,专业|编程练习；参考多语言导航
+web.dev|web.dev|浅色,专业,极简|Web 学习资源；参考内容索引
+CSS for JavaScript Developers|css-for-js.dev|大胆,动态,产品演示|CSS 课程；参考可交互教学片段
+
+# 硬件与消费品牌
+Oura|ouraring.com|大视觉,精致,产品演示|智能戒指；参考生活场景与产品细节
+WHOOP|whoop.com|暗色,大视觉,产品演示|穿戴设备；参考数据与运动场景
+Eight Sleep|eightsleep.com|暗色,大视觉,精致|睡眠硬件；参考产品叙事
+Fellow|fellowproducts.com|浅色,精致,编辑感|咖啡器具；参考材质与产品摄影
+Aesop|aesop.com|极简,编辑感,精致|护理品牌；参考留白与商品编排
+MUJI|muji.com|极简,浅色,编辑感|生活品牌；参考克制的商品导航
+Rivian|rivian.com|大视觉,精致,产品演示|电动汽车；参考户外与产品叙事
+Polestar|polestar.com|极简,大视觉,精致|电动汽车；参考字体与产品细节
+DJI|dji.com|大视觉,精致,产品演示|影像设备；参考场景与技术展示
+Opal Camera|opalcamera.com|精致,大视觉,极简|影像硬件；参考简洁的产品特写
+
+# 独立产品与创业团队
+Ghost|ghost.org|浅色,编辑感,产品演示|独立出版；参考内容与订阅展示
+beehiiv|beehiiv.com|大胆,编辑感,产品演示|邮件出版；参考增长与内容叙事
+Kit|kit.com|编辑感,浅色,产品演示|创作者邮件；参考案例与表单
+Fathom AI|fathom.video|浅色,产品演示,AI|会议记录；参考产品演示与说明
+Typeform|typeform.com|精致,编辑感,产品演示|互动表单；参考问答与品牌表达
+
+# 科技公司与创投
+Linear Capital|linear.vc|极简,编辑感,专业|投资团队；参考内容与项目展示
+Lux Capital|luxcapital.com|实验性,编辑感,大视觉|科技投资；参考视觉叙事
+First Round|firstround.com|编辑感,精致,专业|创业投资；参考文章与人物编排
+
+# 设计灵感平台
+SaaSFrame|saasframe.io|浅色,产品演示,专业|SaaS 页面参考；参考分类与筛选
+Saaspo|saaspo.com|浅色,产品演示,极简|SaaS 官网参考；参考画廊结构
+BestSaaSWebDesigns|bestsaaswebdesigns.com|浅色,产品演示,专业|官网与区块参考；参考分类索引
+Httpster|httpster.net|极简,编辑感,大视觉|网页设计精选；参考作品索引
+Godly Design|godly.design|极简,编辑感,大视觉|网页与品牌灵感；参考画廊编排

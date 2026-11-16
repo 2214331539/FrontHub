@@ -1,0 +1,17 @@
+{
+  "name": "fronthub",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Website inspiration dashboard with interactive live previews",
+  "scripts": {
+    "dev": "node tools/serve.mjs",
+    "capture": "node tools/capture.mjs",
+    "audit:embeds": "node tools/audit-embeds.mjs",
+    "test": "node --test tools/frame-policy.test.mjs tools/preview-status.test.mjs",
+    "catalog": "python3 tools/make_catalog.py",
+    "single": "node tools/build-single.mjs"
+  },
+  "engines": {
+    "node": ">=22"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "total": 528,
+  "added": 128,
+  "newCategories": {
+    "后台与管理模板": 13,
+    "博客与作品集": 15,
+    "文档与组件库": 19,
+    "数据可视化与地图": 19,
+    "在线工具与开源应用": 32,
+    "交互实验与游戏": 15,
+    "文化与公共服务": 8,
+    "商业与生活方式": 7
+  },
+  "newKinds": {
+    "template": 26,
+    "collection": 3,
+    "docs": 20,
+    "visualization": 14,
+    "app": 21,
+    "homepage": 30,
+    "experiment": 14
+  },
+  "sources": 156,
+  "newSources": 104,
+  "pageSources": 59,
+  "policy": {
+    "blocked": 245,
+    "available": 246,
+    "unknown": 37
+  },
+  "newPolicy": {
+    "available": 100,
+    "blocked": 26,
+    "unknown": 2
+  }
+}

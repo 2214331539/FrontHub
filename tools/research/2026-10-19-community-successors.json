@@ -1,0 +1,47 @@
+{
+  "reviewedAt": "2026-10-19T14:44:49.681Z",
+  "candidates": [
+    {
+      "id": "webawesome_com",
+      "name": "Web Awesome",
+      "url": "https://webawesome.com",
+      "category": "文档与组件库",
+      "tags": [
+        "浅色",
+        "精致",
+        "产品演示"
+      ],
+      "summary": "Shoelace 的后继组件库，参考组件文档、主题与页面模式",
+      "checkedAt": "2026-10-19T14:44:48.329Z",
+      "httpStatus": 200,
+      "finalUrl": "https://webawesome.com/",
+      "xFrameOptions": "",
+      "csp": "",
+      "title": "Web Awesome",
+      "description": "Build better with Web Awesome, the biggest open source library of meticulously designed, highly customizable, and framework-agnostic UI components.",
+      "heading": "Web Awesome",
+      "requiresReview": false
+    },
+    {
+      "id": "zensical_org",
+      "name": "Zensical",
+      "url": "https://zensical.org",
+      "category": "文档与组件库",
+      "tags": [
+        "浅色",
+        "编辑感",
+        "专业"
+      ],
+      "summary": "Material for MkDocs 团队的新文档方案，参考技术内容组织",
+      "checkedAt": "2026-10-19T14:44:48.338Z",
+      "httpStatus": 200,
+      "finalUrl": "https://zensical.org/",
+      "xFrameOptions": "SAMEORIGIN",
+      "csp": "frame-ancestors 'self'",
+      "title": "Zensical",
+      "description": "",
+      "heading": "Adaptive systems for evolving ideas",
+      "requiresReview": false
+    }
+  ]
+}

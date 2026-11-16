@@ -1,0 +1,7 @@
+.DS_Store
+node_modules/
+*.log
+tools/probe.webp
+tools/capture-failures.json
+tools/*-preview.png
+tools/*-preview.webp
