@@ -2,7 +2,7 @@
   "name": "fronthub",
   "version": "1.0.0",
   "private": true,
-  "description": "Website inspiration dashboard with interactive live previews",
+  "description": "Community-maintained collection of Web design references, applications, templates and interactive experiments",
   "scripts": {
     "dev": "node tools/serve.mjs",
     "capture": "node tools/capture.mjs",
@@ -13,5 +13,14 @@
   },
   "engines": {
     "node": ">=22"
+  },
+  "license": "MIT",
+  "homepage": "https://fronthub.vercel.app",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/2214331539/FrontHub.git"
+  },
+  "bugs": {
+    "url": "https://github.com/2214331539/FrontHub/issues"
   }
 }

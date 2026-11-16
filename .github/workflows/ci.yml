@@ -1,0 +1,34 @@
+name: CI
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Test preview policy and inspector
+        run: npm test
+      - name: Verify generated catalog
+        run: |
+          python tools/make_catalog.py
+          git diff --exit-code -- src/catalog.js
+      - name: Verify standalone bundle
+        run: |
+          npm run single
+          git diff --exit-code -- site-atlas-standalone.html
+      - name: Build Vercel static assets
+        run: node tools/build-vercel.mjs

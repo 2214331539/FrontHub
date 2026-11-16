@@ -1,0 +1,23 @@
+name: 问题反馈
+description: 报告使用体验、预览、界面或工具问题
+title: "[Bug] "
+body:
+  - type: textarea
+    id: problem
+    attributes:
+      label: 问题与复现步骤
+      description: 说明页面入口、操作、实际结果和预期结果。安全漏洞请参考 SECURITY.md。
+    validations:
+      required: true
+  - type: input
+    id: environment
+    attributes:
+      label: 使用环境
+      description: 浏览器、系统、线上 / 本地版本与受影响站点名称。
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: 截图或日志
+      description: 请先去除令牌、账号和个人数据。

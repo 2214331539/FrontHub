@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 在线体验 FrontHub
+    url: https://fronthub.vercel.app
+    about: 浏览社区维护的 Web 设计参考合集
+  - name: 贡献指南
+    url: https://github.com/2214331539/FrontHub/blob/main/CONTRIBUTING.md
+    about: 提交前了解收录标准与协作流程

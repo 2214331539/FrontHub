@@ -1,0 +1,25 @@
+name: 功能建议
+description: 讨论新的浏览体验、维护能力或项目改进
+title: "[Feature] "
+body:
+  - type: textarea
+    id: scenario
+    attributes:
+      label: 场景与问题
+      description: 谁在什么情况下遇到了什么困难？
+    validations:
+      required: true
+  - type: textarea
+    id: proposal
+    attributes:
+      label: 建议方案与替代方案
+      description: 说明预期行为、范围及已有方案。
+    validations:
+      required: true
+  - type: dropdown
+    id: contribution
+    attributes:
+      label: 是否愿意参与实现
+      options:
+        - 先讨论
+        - 愿意提交 PR

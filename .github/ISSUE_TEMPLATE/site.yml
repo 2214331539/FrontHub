@@ -1,0 +1,52 @@
+name: 推荐 / 维护页面
+description: 推荐有参考价值的页面，或修正已有条目
+title: "[Content] "
+body:
+  - type: input
+    id: name
+    attributes:
+      label: 页面名称与入口
+      description: 提供官方 HTTPS 地址；维护已有记录时注明名称。
+    validations:
+      required: true
+  - type: dropdown
+    id: kind
+    attributes:
+      label: 资源类型
+      options:
+        - 产品与机构官网
+        - 页面模板
+        - 文档与组件
+        - 图表与地图
+        - 在线应用
+        - 交互实验
+        - 资源集合
+        - 修正已有条目
+    validations:
+      required: true
+  - type: textarea
+    id: value
+    attributes:
+      label: 参考价值 / 需要修正的内容
+      description: 描述具体布局、排版或交互细节，避免仅填写推广文案。
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: 来源与访问情况
+      description: 仓库、官方关联证据、核查日期、是否需要登录或存在访问限制。
+  - type: input
+    id: affiliation
+    attributes:
+      label: 与作品的关系
+      description: 如为作者或推广方请注明；自荐遵循相同收录标准。
+  - type: checkboxes
+    id: checks
+    attributes:
+      label: 提交前检查
+      options:
+        - label: 已搜索目录和 Issues，确认不是重复推荐
+          required: true
+        - label: 已阅读贡献指南与收录标准
+          required: true

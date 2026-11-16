@@ -1,134 +1,138 @@
-# FrontHub · 前端页面参考 Dashboard
+<div align="center">
 
-FrontHub 收录 528 个前端页面，涵盖产品与机构官网、页面模板、文档与组件、图表地图、在线应用、交互实验和资源集合，用于比较布局、排版和交互设计。原生 HTML / CSS / JavaScript，无需安装前端依赖。
+# FrontHub
 
-2026-10-19 本轮新增 **128 个页面**，从 140 个候选中筛选收录，另有 12 个访问受限或失效的候选暂缓加入。覆盖 8 个新领域，为 104 条新增记录关联了公开仓库，并为 45 条既有记录补充资源类型。左侧「本次新增」按独立批次显示，避免同一天多次更新混在一起。[本轮完整清单与核查记录](tools/research/2026-10-19-community-maintenance.md) · [上一轮 100 站维护记录](tools/research/2026-10-19-maintenance.md)。
+**一起发现、体验与维护值得学习的 Web 设计。**
 
-使用工具栏的「全部类型」筛选模板、在线应用或交互实验，配合领域、风格和搜索缩小范围。「公开仓库」包含相关产品或组件库仓库；「页面源码」只显示已关联该页面或演示源码的记录。卡片上的 `</>` 可以直接打开对应仓库，详情中注明源码类型和核查日期。仓库的公开可见性不代表无限制复用，使用代码仍以各项目许可证为准。
+一个由社区共同维护的 Web 设计合集，收录官网、在线应用、页面模板、组件文档、数据可视化与交互实验。
 
-## 启动
+[在线体验](https://fronthub.vercel.app) · [推荐网站](https://github.com/2214331539/FrontHub/issues/new?template=site.yml) · [参与贡献](CONTRIBUTING.md) · [报告问题](https://github.com/2214331539/FrontHub/issues/new?template=bug.yml)
 
-Windows 用户可直接双击项目根目录的 **`启动 FrontHub.bat`**。脚本会检查 Node.js、启动本地服务，并在服务就绪后自动打开浏览器；重复启动会复用已有的 FrontHub 服务。保留启动窗口，按 `Ctrl+C` 停止服务。需要 Node.js 22 或更新版本。
+[![CI](https://github.com/2214331539/FrontHub/actions/workflows/ci.yml/badge.svg)](https://github.com/2214331539/FrontHub/actions/workflows/ci.yml)
+[![License: MIT](https://img.shields.io/badge/License-MIT-111111.svg)](LICENSE)
+[![Contributions welcome](https://img.shields.io/badge/Contributions-welcome-555555.svg)](CONTRIBUTING.md)
 
-也可以在终端启动：
+</div>
 
-```powershell
-cd F:\Project\PersonalProject\Project\FrontHub
+## 为什么做 FrontHub
+
+好的设计参考不应该只是一串书签。FrontHub 希望让每个案例都能被看见、体验和理解：浏览真实页面画面，尝试原站交互，了解它值得学习的细节，再找到相关源码。
+
+这个项目面向设计师、前端开发者、产品团队与学习者。我们欢迎大家共同推荐作品、修正失效链接、完善描述和改进浏览体验，让它成为持续维护的公共参考库。
+
+收录代表设计参考价值，不代表商业推荐、质量认证或与原站存在合作关系。
+
+## 在线体验
+
+**正式体验地址：[fronthub.vercel.app](https://fronthub.vercel.app)**
+
+当前目录包含 **528 个页面、471 张真实封面、156 条公开仓库链接**，覆盖 7 种资源类型。数字对应当前内置数据快照，页面及第三方站点状态会随维护变化。
+
+| 类型 | 可以找到什么 |
+| --- | --- |
+| 产品与机构官网 | 产品品牌、商业服务、文化机构与公共服务 |
+| 页面模板 | 管理后台、博客、作品集与静态 HTML 模板 |
+| 文档与组件 | 设计系统、组件库与文档主题 |
+| 图表与地图 | 数据可视化、图编辑与地理信息案例 |
+| 在线应用 | 编辑器、开发工具、绘图与文件处理 |
+| 交互实验 | 创意编程、浏览器游戏与交互叙事 |
+| 资源集合 | 设计灵感目录、模板库与实验合集 |
+
+## 浏览方式
+
+- **发现案例**：按领域、资源类型、风格搜索筛选，在网格与列表之间切换。
+- **体验页面**：悬停允许内嵌的卡片，或手动开启交互预览；支持放大与返回封面。
+- **追溯来源**：打开原页或关联仓库；明确区分页面源码与相关产品 / 库仓库。
+- **整理参考**：收藏、记录笔记、自定义收录，并用 JSON / CSV 导入导出。
+- **离线浏览**：已打包截图与单文件版本可以离线查看；原站交互需要网络。
+
+收藏、笔记和自定义记录保存在当前浏览器，不会自动提交到社区目录，也不会跨设备同步。更换域名或浏览器前，请先导出备份。
+
+第三方站点可能限制 iframe、要求登录或在所在网络不可达。FrontHub 尊重原站安全策略，无法保证每个页面都能内嵌；此时保留封面和原页入口。Vercel 地址在部分网络下的可用性也可能变化。
+
+## 本地运行
+
+需要 **Node.js 22+**。运行网站无需安装前端依赖。
+
+```bash
+git clone https://github.com/2214331539/FrontHub.git
+cd FrontHub
 npm run dev
 ```
 
-打开 http://localhost:4173。也可以直接打开 `index.html` 或 `site-atlas-standalone.html`；本地服务还提供实时网站状态检查，推荐使用一键启动脚本。
+打开 [localhost:4173](http://localhost:4173)。Windows 用户也可以双击根目录的 `启动 FrontHub.bat`。
 
-界面采用黑白灰配色、细分隔线和简洁的文字导航。官网截图保持原色，便于参考原站的设计。
+| 命令 | 用途 |
+| --- | --- |
+| `npm run dev` | 启动本地服务与实时预览状态接口 |
+| `npm test` | 检查嵌入策略与状态检查逻辑 |
+| `python tools/make_catalog.py` | 从可编辑目录生成页面数据，需要 Python 3.9+ |
+| `npm run single` | 重新生成可离线打开的单文件版本 |
+| `npm run capture -- --only="站点名称"` | 采集指定页面截图，需要 Chrome / Chromium |
+| `npm run audit:embeds -- --only="站点名称"` | 更新指定页面的嵌入策略记录 |
 
-## 卡片怎么用
+直接打开 `site-atlas-standalone.html` 也能浏览；本地服务提供更完整的预览检查功能。
 
-- **悬停预览区约 650 ms**：仅对允许尝试内嵌的网站自动检查并加载，支持滚动、链接和原网站交互。「自动预览」开关可关闭此行为；未验证或本次浏览中失败的网站需要手动开启。
-- **点击「交互预览 / 重新检测 / 重试预览」**：手动检查最新状态并尝试开启预览，适合触屏或键盘使用。
-- **点击卡片名称、信息区、封面或 ↗**：在新标签页访问官网。实时预览已开启时，网页内的点击由官网处理。
-- **点击 ⛶**：打开更大的桌面预览，按关闭按钮返回。
-- **点击「返回封面」**：卸载官网，恢复本地截图。只有一个官网会同时运行；切换预览、筛选、关闭弹窗或页面进入后台时释放资源。
-- **点击「显示异常」**：如果官网空白、要求验证或显示异常，立即恢复封面。该站不会继续自动加载，可手动重试或在新标签页打开。
-- **「详情」与收藏按钮**：查看标签、官方源码信息、记录点评、加入收藏。原有搜索、分类、列表视图、JSON / CSV 导入导出继续可用。
-- **长截图**：在实拍封面内滚动，可以查看已采集的更多页面内容。截图无法运行原网站的交互。
+## 参与共建
 
-## 哪些官网可以内嵌
+不必先会写代码。你可以从以下方式开始：
 
-浏览器会执行官网的 `Content-Security-Policy: frame-ancestors` 和 `X-Frame-Options`。例如 Linear、Raycast、Stripe 当前都限制外部嵌入。前端容器无法取消官网的限制。
+- **推荐一个案例**：提交[网站推荐](https://github.com/2214331539/FrontHub/issues/new?template=site.yml)，说明入口和值得参考的细节。
+- **维护已有案例**：报告失效地址、错误分类、无效截图或停止维护的项目。
+- **完善项目**：改进交互、可访问性、性能、文档或检查工具。
+- **直接提交 PR**：阅读 [贡献指南](CONTRIBUTING.md)，按 [收录标准](docs/curation.md) 准备内容。
 
-截至 2026-10-19，已保存检查记录的 528 个页面中：
+协作流程为 **Issue / 小范围提案 → Fork 与分支 → 修改和验证 → Pull Request → 维护者审阅 → 合并**。小型修正可直接发 PR；较大的功能或结构调整请先用 Issue 对齐范围。CI 会检查测试、目录生成结果与单文件构建是否同步。
 
-| 检查结果               | 数量 | 卡片行为               |
-| ---------------------- | ---: | ---------------------- |
-| 响应头未发现嵌入限制   |  246 | 允许尝试实时预览       |
-| 响应头明确限制当前来源 |  245 | 展示实拍封面及官网跳转 |
-| 请求失败或未能确认     |   37 | 保留手动尝试入口       |
+推荐进入审核不保证一定收录。我们重视可访问的原始入口、具体的参考价值、真实画面与准确来源，避免重复、推广堆砌和失效内容。
 
-这些结果是一次响应头检查的记录，并非成功加载保证。官网策略、跳转、验证码、网络和浏览器设置都会改变结果。跨域 iframe 的 `load` 事件也不能证明原网站渲染成功，因此预览始终保留「返回封面 / 显示异常 / 访问官网」入口。双击文件的 `file://` 来源可能受到额外限制，建议使用本地服务。
+所有参与者请遵守 [社区行为规范](CODE_OF_CONDUCT.md)。安全问题请参考 [安全反馈说明](SECURITY.md)。
 
-本地服务会在开启预览前重新检查目录中的官网响应头。遇到拒绝内嵌、HTTP 错误、连接失败或超时，会保留截图并显示原因。成功的检查在服务端短暂缓存 5 分钟，手动重试会强制刷新；失败结果不缓存。静态资源与接口都使用 `Cache-Control: no-store`。这些处理不会清除收藏、笔记或自定义站点。直接打开 HTML 时使用随项目保存的检查记录。
-
-刷新检查：
-
-```powershell
-npm run audit:embeds
-npm run audit:embeds -- --only="Linear,Unkey,Supabase"
-```
-
-检查保留原始响应头，Dashboard 会按当前页面来源重新判断权限。没有代理网页或移除官网安全响应头。
-
-## 真实官网封面
-
-截至 2026-10-19，已保存 **471 张真实官网截图**，存放在 `src/previews.generated.js` 中。已移除检查中发现的验证码、错误页面和明显未完成的画面；未取得可用截图的网站显示明确的缺图状态和官网入口。初始浏览不会请求远程图片；只有开启实时预览或访问官网时才会连接第三方网站。
-
-截图工具要求 Node.js >= 22 和 Google Chrome / Chromium，每个网站使用独立页面，失败不会影响下一站。
-
-```powershell
-# 继续采集尚未缓存的站点
-npm run capture -- --limit=40
-
-# 采集长截图，最长为原页面 5000 px
-npm run capture -- --limit=40 --full-page --wait=6000
-
-# 更新指定站点
-npm run capture -- --only="Linear,Raycast" --force --full-page
-
-# 批量采集全部站点，已成功的截图自动跳过
-npm run capture -- --all --concurrency=3
-```
-
-截图以压缩 WebP / Base64 存储，可离线浏览。工具等待字体和入场动画、识别常见验证及错误页面，支持最多 3 个页面并行采集，每 10 站保存一次进度。最近一次采集或维护的失败记录在 `tools/capture-failures.json`。复杂动效页面可使用 `--natural-animations --wait=12000 --concurrency=1` 保留自然动画并逐页重试。网络受限、验证码或网页加载缓慢仍可能导致失败，批量采集后应检查画面。首屏截图与长截图可以混用。
-
-每次修改代码、截图或嵌入记录后，重新生成单文件版本：
-
-```powershell
-npm run single
-```
-
-## 代码结构
+## 仓库结构
 
 ```text
 FrontHub/
-├── index.html                   # 多文件入口
-├── site-atlas-standalone.html    # 兼容原文件名的单文件入口
-├── src/
-│   ├── app.js                   # 目录、筛选、收藏、笔记、管理与弹窗
-│   ├── styles.css               # Dashboard 基础布局
-│   ├── preview.js               # 预览容器、悬停、iframe 生命周期与资源释放
-│   ├── preview.css              # 预览容器与 FrontHub 界面样式
-│   ├── frame-policy.js          # 浏览器与检查脚本共用的嵌入权限判断
-│   ├── embeds.generated.js      # 官网响应头检查记录
-│   ├── previews.generated.js    # 真实官网截图
-│   └── catalog.js               # 528 个前端页面的目录数据
-└── tools/
-    ├── serve.mjs                # 支持 Windows 的零依赖本地服务器
-    ├── preview-status.mjs       # 目录官网实时状态检查、短期缓存与强制刷新
-    ├── preview-status.test.mjs  # 检查边界、缓存、并发与失败恢复测试
-    ├── audit-embeds.mjs         # 检查目录站点响应头
-    ├── capture.mjs              # 独立 Chrome 页面截图采集
-    ├── frame-policy.test.mjs    # 嵌入权限判断测试
-    ├── build-single.mjs         # 打包单文件 HTML
-    ├── make_catalog.py          # 从可读目录生成 catalog.js
-    ├── catalog.txt              # 可编辑的官网目录
-    ├── catalog-meta.json        # 批次、类型、收录日期、核查日期与仓库来源
-    ├── review-candidates.mjs    # 候选官网的访问与跳转检查
-    └── research/               # 核查记录、新增 ID 清单与维护说明
+├── src/                    # 页面、样式、预览逻辑及生成数据
+├── api/                    # Vercel 实时预览状态接口
+├── tools/                  # 本地服务、目录生成、截图与检查工具
+│   ├── catalog.txt         # 内置合集的可编辑来源
+│   ├── catalog-meta.json   # 类型、批次、日期及来源信息
+│   └── research/           # 分批核查证据与维护记录
+├── docs/                   # 收录标准、维护操作与部署说明
+├── .github/                # Issue / PR 模板与 CI
+├── CONTRIBUTING.md         # 贡献流程与验证要求
+├── index.html              # 多文件入口
+└── site-atlas-standalone.html  # 离线单文件入口
 ```
 
-## 添加、备份与检查
+技术栈为原生 HTML / CSS / JavaScript，配合 Node.js 工具与 Python 目录生成器。为了便于维护，手工编辑来源文件，再生成对应产物；不要直接修改生成数据。
 
-在 Dashboard 中点击「收录网站」添加记录。自定义站点没有响应头检查记录时，会显示待验证预览。修改内置目录则编辑 `tools/catalog.txt` 后运行 `python tools/make_catalog.py`。生成器会检查重复网址和重复 ID；在 `tools/catalog-meta.json` 中填写 `addedAt`（建议 ISO 时间）、`batchId`、`kind`、`reviewedAt` 与 `referenceUrl` 后，新批次可在「本次新增」中集中查看。`source.type` 使用 `website` 表示当前页面或演示源码，使用 `product` 表示相关产品或库仓库；不要混淆两者。分类自动从目录读取，无需修改页面代码。更新内置目录后需重启本地服务，使实时状态检查同步新条目。
+## 部署与维护
 
-收藏、笔记、自定义站点保存在当前浏览器。保留原存储键以兼容已有个人数据；使用 JSON 导出 / 导入可迁移记录。官方源码与产品开源分别标注。
+线上体验版托管在 Vercel。你也可以 Fork 后部署自己的实例；项目已提供静态资源构建和 Serverless 状态检查接口。
 
-```powershell
-npm test
-```
+- [Vercel 部署说明](docs/deployment.md)
+- [目录收录标准](docs/curation.md)
+- [截图、预览与历史维护操作](docs/maintenance.md)
+- [最近一批目录核查记录](tools/research/2026-10-19-community-maintenance.md)
 
-9 项自动化测试覆盖嵌入来源、CSP 与 XFO 的优先级、多条策略、通配域名、文件来源，以及实时检查的缓存刷新、失败恢复与并发去重。浏览器验收同时检查预览内点击与滚动、异常恢复与重试、过期请求取消、资源释放、收藏与笔记持久化、弹窗焦点、列表和移动端布局。本轮另外验收了 7 种资源类型、128 条批次隔离、仓库链接、5 个屏幕宽度，以及原 400 个 ID 和个人数据的兼容。
+GitHub Actions 负责代码与数据一致性检查。当前线上实例使用 Vercel CLI 发布；自动跟随 GitHub 推送部署需要在 Vercel 中另行关联仓库。
 
-## 本轮内容维护
+## 接下来的方向
 
-模板与演示入口以仓库 README、仓库 About 和官方页面交叉核对。Hugo Book、Recharts、Chirpy、Soybean 等采用已核实的新入口。Shoelace 标明停止活跃开发，补充后继项目 Web Awesome；Material for MkDocs 标明官方计划于 2027-05-05 结束维护，补充 Zensical。带演示登录的后台模板在简介中注明。
+以下是欢迎讨论和贡献的方向，不代表已确定的交付计划：
 
-候选访问检查、仓库证据、重试结果和截图复核结果保存在 `tools/research/2026-10-19-community-*`。可以用 `tools/review-candidates.mjs <候选文件> <报告文件>` 核查下一轮独立候选清单，用 `--ids-file` 指定精确的截图或响应头检查范围。不要直接覆盖历史报告。
+- 更多语言、地区与行业的优质案例。
+- 更容易参与的站点核查与截图更新流程。
+- 更完整的键盘操作、移动端体验与可访问性。
+- 降低截图载荷，改善首次加载与大目录浏览性能。
+
+欢迎通过 [Issues](https://github.com/2214331539/FrontHub/issues) 讨论需求，也欢迎认领已有问题。仓库当前由 [@2214331539](https://github.com/2214331539) 维护，合并由维护者审阅决定。
+
+## 许可与致谢
+
+FrontHub 项目代码以 [MIT License](LICENSE) 开源。提交贡献即表示你有权贡献这些内容，并同意项目代码贡献按 MIT 许可证分发。
+
+第三方网站、截图、品牌、商标、字体与其他外部内容仍由各自权利人享有权利，不因本仓库开源而获得额外授权。相关开源项目的代码复用应遵循各自许可证。涉及归属错误或需要调整展示内容，请提交 [Issue](https://github.com/2214331539/FrontHub/issues)。
+
+感谢每个被收录作品的创作者、开源社区与参与维护的贡献者。
